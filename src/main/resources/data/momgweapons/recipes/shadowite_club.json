@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shadowite_club",
+  "pattern": [
+    " #",
+    "# ",
+    "/ "
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:ingots/shadowite"
+    },
+    "/": {
+      "item": "create_momg:tool_handle"
+    }
+  },
+  "result": {
+    "item": "momgweapons:shadowite_club",
+    "count": 1
+  }
+}

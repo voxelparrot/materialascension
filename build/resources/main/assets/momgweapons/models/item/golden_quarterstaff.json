@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "momgweapons:item/golden_quarterstaff_held"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "momgweapons:item/golden_quarterstaff_gui"
+    },
+    "ground": {
+      "parent": "momgweapons:item/golden_quarterstaff_gui"
+    },
+    "fixed": {
+      "parent": "momgweapons:item/golden_quarterstaff_gui"
+    }
+  }
+}

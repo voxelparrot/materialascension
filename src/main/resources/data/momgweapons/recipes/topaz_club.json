@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "topaz_club",
+  "pattern": [
+    " #",
+    "# ",
+    "/ "
+  ],
+  "key": {
+    "#": {
+      "item": "more_ores_more_gems:topaz"
+    },
+    "/": {
+      "item": "create_momg:tool_handle"
+    }
+  },
+  "result": {
+    "item": "momgweapons:topaz_club",
+    "count": 1
+  }
+}

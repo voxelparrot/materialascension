@@ -1,0 +1,6 @@
+{
+  "parent": "momgweapons:item/handheld_big_staff",
+  "textures": {
+    "layer0": "momgweapons:item/quarterstaff/diamond_quarterstaff_held"
+  }
+}

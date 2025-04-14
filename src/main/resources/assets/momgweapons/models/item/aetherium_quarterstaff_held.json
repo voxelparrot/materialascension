@@ -1,0 +1,6 @@
+{
+  "parent": "momgweapons:item/handheld_big_quarterstaff",
+  "textures": {
+    "layer0": "momgweapons:item/aetherium_quarterstaff_held"
+  }
+}

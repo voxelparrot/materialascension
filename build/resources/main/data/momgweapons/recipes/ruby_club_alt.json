@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ruby_club",
+  "pattern": [
+    "# ",
+    " #",
+    " /"
+  ],
+  "key": {
+    "#": {
+      "item": "more_ores_more_gems:ruby_pack"
+    },
+    "/": {
+      "item": "create_momg:tool_handle"
+    }
+  },
+  "result": {
+    "item": "momgweapons:ruby_club",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "momgweapons:item/handheld_big_spear",
+  "textures": {
+    "layer0": "momgweapons:item/spear/iron_spear_held"
+  }
+}

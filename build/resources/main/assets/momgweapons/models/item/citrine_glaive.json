@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "momgweapons:item/citrine_glaive_held"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "momgweapons:item/citrine_glaive_gui"
+    },
+    "ground": {
+      "parent": "momgweapons:item/citrine_glaive_gui"
+    },
+    "fixed": {
+      "parent": "momgweapons:item/citrine_glaive_gui"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "momgweapons:item/white_glaive_held"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "momgweapons:item/white_glaive_gui"
+    },
+    "ground": {
+      "parent": "momgweapons:item/white_glaive_gui"
+    },
+    "fixed": {
+      "parent": "momgweapons:item/white_glaive_gui"
+    }
+  }
+}
