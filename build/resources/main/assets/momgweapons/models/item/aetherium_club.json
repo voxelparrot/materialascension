@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/aetherium_club"
+    "layer0": "momgweapons:item/club/aetherium_club"
   }
 }

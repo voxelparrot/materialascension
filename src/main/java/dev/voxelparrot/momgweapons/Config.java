@@ -17,12 +17,23 @@ public class Config
     private static final ForgeConfigSpec.Builder BUILDER = new ForgeConfigSpec.Builder();
 
     private static final ForgeConfigSpec.BooleanValue INCLUDE_ARTIFACTS = BUILDER
-            .comment("Whether to include the artifact class weapons")
+            .comment("None of these configs work yet they're just placeholders (you can assume that their values are the defaults)")
+            .comment("Whether to include the artifact class weapons (default = true)")
             .define("includeArtifacts", true);
+
+    private static final ForgeConfigSpec.BooleanValue INCLUDE_UNIQUES = BUILDER
+            .comment("Whether to include the unique rarity weapons (default = false)")
+            .define("includeUniqueWeapons", false);
+
+    private static final ForgeConfigSpec.BooleanValue INCLUDE_QITQIAST = BUILDER
+            .comment("Whether to include the special qitqiast weapons (default = true) (if you are akaash please keep this as true)")
+            .define("includeQitqiastWeapons", true);
 
     static final ForgeConfigSpec SPEC = BUILDER.build();
 
     public static boolean includeArtifacts;
+    public static boolean includeUniqueWeapons;
+    public static boolean includeQitqiastWeapons;
 
     private static boolean validateItemName(final Object obj)
     {
@@ -33,5 +44,7 @@ public class Config
     static void onLoad(final ModConfigEvent event)
     {
         includeArtifacts = INCLUDE_ARTIFACTS.get();
+        includeUniqueWeapons = INCLUDE_UNIQUES.get();
+        includeQitqiastWeapons = INCLUDE_QITQIAST.get();
     }
 }

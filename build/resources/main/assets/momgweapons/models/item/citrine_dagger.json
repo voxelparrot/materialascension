@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/citrine_dagger"
+    "layer0": "momgweapons:item/dagger/citrine_dagger"
   }
 }

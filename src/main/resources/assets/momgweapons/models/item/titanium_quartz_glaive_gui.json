@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/titanium_quartz_glaive"
+    "layer0": "momgweapons:item/glaive/titanium_quartz_glaive"
   }
 }

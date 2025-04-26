@@ -16,7 +16,7 @@ public class MainRegistry {
   public static final List<RegistryObject<Item>> registeredItems = new LinkedList<>();
 
   public static void preInit() {
-    for (BWItems.ItemInfo item : BWItems.items
+    for (MOMGWItems.ItemInfo item : MOMGWItems.items
     ) {
       RegistryObject<Item> i = ITEMS.register(item.name, item.itemSupplier);
       registeredItems.add(i);

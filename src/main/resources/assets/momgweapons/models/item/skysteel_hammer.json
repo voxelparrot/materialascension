@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:item/handheld",
+  "parent": "momgweapons:item/handheld_big_scythe",
   "textures": {
-    "layer0": "momgweapons:item/skysteel_hammer"
+    "layer0": "momgweapons:item/maul/skysteel_maul"
   }
 }

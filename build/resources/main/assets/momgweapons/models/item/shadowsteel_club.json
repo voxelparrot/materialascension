@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:item/handheld",
+  "parent": "momgweapons:item/handheld_big_scythe",
   "textures": {
-    "layer0": "momgweapons:item/shadowsteel_club"
+    "layer0": "momgweapons:item/mace/shadowsteel_mace"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/jade_quarterstaff"
+    "layer0": "momgweapons:item/quarterstaff/jade_quarterstaff"
   }
 }

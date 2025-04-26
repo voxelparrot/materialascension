@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:item/handheld",
+  "parent": "momgweapons:item/handheld_big_spear",
   "textures": {
-    "layer0": "momgweapons:item/shadowsteel_spear"
+    "layer0": "momgweapons:item/pike/shadowsteel_pike"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/crimsonite_hammer"
+    "layer0": "momgweapons:item/hammer/crimsonite_hammer"
   }
 }

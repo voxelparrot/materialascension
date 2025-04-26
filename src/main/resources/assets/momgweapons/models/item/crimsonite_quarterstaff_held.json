@@ -1,6 +1,6 @@
 {
   "parent": "momgweapons:item/handheld_big_quarterstaff",
   "textures": {
-    "layer0": "momgweapons:item/crimsonite_quarterstaff_held"
+    "layer0": "momgweapons:item/quarterstaff/crimsonite_quarterstaff_held"
   }
 }

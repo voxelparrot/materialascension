@@ -2,17 +2,17 @@
   "parent": "minecraft:item/handheld",
   "loader": "forge:separate_transforms",
   "base": {
-    "parent": "momgweapons:item/charged_scythe_held"
+    "parent": "momgweapons:item/scythe/charged_scythe_held"
   },
   "perspectives": {
     "gui": {
-      "parent": "momgweapons:item/charged_scythe_gui"
+      "parent": "momgweapons:item/scythe/charged_scythe_gui"
     },
     "ground": {
-      "parent": "momgweapons:item/charged_scythe_gui"
+      "parent": "momgweapons:item/scythe/charged_scythe_gui"
     },
     "fixed": {
-      "parent": "momgweapons:item/charged_scythe_gui"
+      "parent": "momgweapons:item/scythe/charged_scythe_gui"
     }
   }
 }

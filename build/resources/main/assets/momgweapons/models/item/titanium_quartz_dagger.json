@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/titanium_quartz_dagger"
+    "layer0": "momgweapons:item/dagger/titanium_quartz_dagger"
   }
 }

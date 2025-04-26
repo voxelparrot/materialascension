@@ -1,6 +1,6 @@
 {
-  "parent": "momgweapons:item/handheld_big_glaive",
+  "parent": "momgweapons:item/handheld_big_scythe",
   "textures": {
-    "layer0": "momgweapons:item/charged_scythe_held"
+    "layer0": "momgweapons:item/scythe/charged_scythe_held"
   }
 }

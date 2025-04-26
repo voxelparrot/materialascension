@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/ruby_club"
+    "layer0": "momgweapons:item/club/ruby_club"
   }
 }

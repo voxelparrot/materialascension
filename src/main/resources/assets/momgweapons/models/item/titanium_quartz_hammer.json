@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/titanium_quartz_hammer"
+    "layer0": "momgweapons:item/hammer/titanium_quartz_hammer"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "momgweapons:item/handheld_big_spear",
   "textures": {
-    "layer0": "momgweapons:item/steel_spear_held"
+    "layer0": "momgweapons:item/spear/steel_spear_held"
   }
 }

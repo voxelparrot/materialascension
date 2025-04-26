@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/sapphire_club"
+    "layer0": "momgweapons:item/club/sapphire_club"
   }
 }

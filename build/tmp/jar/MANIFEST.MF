@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Specification-Title: momgweapons
-Specification-Vendor: Khazoda, voxelparrot
+Specification-Vendor: voxelparrot, Khazoda
 Specification-Version: 1
-Implementation-Title: basic-weapons-1.20.1-forge
-Implementation-Version: 1.0.2+1.20.1
-Implementation-Vendor: Khazoda, voxelparrot
-Implementation-Timestamp: 2025-04-12T19:17:30-0700
+Implementation-Title: momgweapons
+Implementation-Version: 1.1.5+1.20.1
+Implementation-Vendor: voxelparrot, Khazoda
+Implementation-Timestamp: 2025-04-26T00:53:41-0700
 

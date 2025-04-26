@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/royal_scythe"
+    "layer0": "momgweapons:item/scythe/royal_scythe"
   }
 }
