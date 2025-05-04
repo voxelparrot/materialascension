@@ -21,7 +21,7 @@ public class UnbreakableScytheItem extends BasicWeaponItem {
 
     // Add the "Unbreakable" tooltip
     tooltip.add(Component.translatable("item.unbreakable").withStyle(ChatFormatting.GRAY, ChatFormatting.ITALIC));
-    tooltip.add(Component.translatable("item.momgweapons.artifact").withStyle(ChatFormatting.GOLD, ChatFormatting.ITALIC));
+    tooltip.add(Component.translatable("item.momgweapons.unique").withStyle(ChatFormatting.LIGHT_PURPLE, ChatFormatting.ITALIC));
   }
 
   @Override

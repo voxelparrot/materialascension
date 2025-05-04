@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/topaz_club"
+    "layer0": "momgweapons:item/club/topaz_club"
   }
 }

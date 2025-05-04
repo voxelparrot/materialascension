@@ -1,8 +1,8 @@
 Java Launcher: /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java
-Arguments: '--input, /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/libs/momgweapons-1.0.2+1.20.1.jar, --output, /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/reobfJar/output.jar, --names, /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/reobfJar/mappings.tsrg, --lib, /Users/carvwest/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.0_mapped_official_1.20.1/forge-1.20.1-47.2.0_mapped_official_1.20.1-recomp.jar, --lib, /Users/carvwest/.gradle/caches/forge_gradle/minecraft_repo/versions/1.20.1/client-extra.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/fmlloader/1.20.1-47.2.0/7811231940c0a8b6008453bbc64fdf7fa1280fe9/fmlloader-1.20.1-47.2.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/JarJarSelector/0.3.19/376cc9c8ea60720cf027c01fc033de915699801c/JarJarSelector-0.3.19.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/JarJarMetadata/0.3.19/83feaa9b770e6ac0e96ee4fc23fa89325c5fe2/JarJarMetadata-0.3.19.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/31.1-jre/60458f877d055d0c9114d9e1a2efb737b4bc282c/guava-31.1-jre.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/ca.weblite/java-objc-bridge/1.1/1227f9e0666314f9de41477e3ec277e542ed7f7b/java-objc-bridge-1.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/forgespi/7.0.1/3b4972a0cdb135853dba219be61a79b22cff1309/forgespi-7.0.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/mergetool/1.1.5/f3da18e12c696d35a47c82cbb2cc8b5aa15e1154/mergetool-1.1.5-api.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/24.0.1/13c5c75c4206580aa4d683bffee658caae6c9f43/annotations-24.0.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/cpw.mods/securejarhandler/2.1.10/51e6a22c6c716beb11e244bf5b8be480f51dd6b5/securejarhandler-2.1.10.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/cpw.mods/modlauncher/10.0.9/6d9443f56f50bb85cea383686ff9c867391458b/modlauncher-10.0.9.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.openjdk.nashorn/nashorn-core/15.3/43977e804697048fc8d81d333a36c17d07a5b3dd/nashorn-core-15.3.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/9.5/19ab5b5800a3910d30d3a3e64fdb00fd0cb42de0/asm-commons-9.5.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/9.5/64b5a1fc8c1b15ed2efd6a063e976bc8d3dc5ffe/asm-util-9.5.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/9.5/490bacc77de7cbc0be1a30bb3471072d705be4a4/asm-analysis-9.5.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/9.5/fd33c8b6373abaa675be407082fdfda35021254a/asm-tree-9.5.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.5/dc6ea1875f4d64fbc85e1691c95b96a3d8569c90/asm-9.5.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/accesstransformers/8.0.4/272d240aa73f42195b2a68e2ebd8b701ecf41f63/accesstransformers-8.0.4.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4/4.9.1/e92af8ab33e428461927b484e90bb155a4f3a052/antlr4-4.9.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4-runtime/4.9.1/428664f05d2b7f7b7610204b5aa7c1763f62011a/antlr4-runtime-4.9.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/fmlcore/1.20.1-47.2.0/ffd3c6debac0a388c9e33ac43c9f5eafb91cb466/fmlcore-1.20.1-47.2.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/eventbus/6.0.5/699143dd438431d06b57416944f7cedbe52e1475/eventbus-6.0.5.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/coremods/5.0.1/386b00279628b105b2d507539c46e134e96f6237/coremods-5.0.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/unsafe/0.2.0/54d7a0a5e8fdb71b973025caa46f341ae5904f39/unsafe-0.2.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.electronwill.night-config/toml/3.6.4/51d6cefb2b55ee55ee26b16391212fb2c7dfb4f4/toml-3.6.4.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.electronwill.night-config/core/3.6.4/510f174abbf1c947494db50ef2445683bd52c230/core-3.6.4.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.8.5/4433f50c07debefaed0553bd0068f4f48d449313/maven-artifact-3.8.5.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.jodah/typetools/0.6.3/a01aaa6ddaea9ec07ec4f209487b7a46a526283a/typetools-0.6.3.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecrell/terminalconsoleappender/1.2.0/96d02cd3b384ff015a8fef4223bcb4ccf1717c95/terminalconsoleappender-1.2.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.jline/jline-reader/3.12.1/4382ab1382c7b6f379377ed5f665dc2f6e1218bc/jline-reader-3.12.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.jline/jline-terminal/3.12.1/c777448314e050d980a6b697c140f3bfe9eb7416/jline-terminal-3.12.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/cpw.mods/bootstraplauncher/1.1.2/c546e00443d8432cda6baa1c860346980742628/bootstraplauncher-1.1.2.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/JarJarFileSystems/0.3.19/2464eb7d6b9ddb9db36a82cf8a95193e5c6fe020/JarJarFileSystems-0.3.19.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/fmlearlydisplay/1.20.1-47.2.0/4c56a03dcedcb909c7eaa8469dd5a36c493a0008/fmlearlydisplay-1.20.1-47.2.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/javafmllanguage/1.20.1-47.2.0/7f9181f85acc66547685a72020713fc8cbde98/javafmllanguage-1.20.1-47.2.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/lowcodelanguage/1.20.1-47.2.0/7872f5205685fdd26fae39b1be79b0e60ca5b7bd/lowcodelanguage-1.20.1-47.2.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/mclanguage/1.20.1-47.2.0/d501d161cabed08b3c139a2c6217b02a39f3c3e9/mclanguage-1.20.1-47.2.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.2.2/54f5efc19bca95d709d9a37d19ffcbba3d21c1a6/oshi-core-6.2.2.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.10/dd9b193aef96e973d5a11ab13cd17430c2e4306b/gson-2.10.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.ibm.icu/icu4j/71.1/9e7d3304c23f9ba5cb71915f7cce23231a57a445/icu4j-71.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.mojang/authlib/4.0.43/2ff9d747a77570a07a60d32ac77eb6162ad2a2d9/authlib-4.0.43.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.mojang/blocklist/1.0.10/5c685c5ffa94c4cd39496c7184c1d122e515ecef/blocklist-1.0.10.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.mojang/brigadier/1.1.8/5244ce82c3337bba4a196a3ce858bfaecc74404a/brigadier-1.1.8.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.mojang/datafixerupper/6.0.8/3ba4a30557a9b057760af4011f909ba619fc5125/datafixerupper-6.0.8.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.mojang/logging/1.1.1/832b8e6674a9b325a5175a3a6267dfaf34c85139/logging-1.1.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.mojang/patchy/2.2.10/da05971b07cbb379d002cf7eaec6a2048211fefc/patchy-2.2.10.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.mojang/text2speech/1.17.9/3cad216e3a7f0c19b4b394388bc9ffc446f13b14/text2speech-1.17.9.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.13/e5f6cae5ca7ecaac1ec2827a9e2d65ae2869cada/httpclient-4.5.13.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.15/49d94806b6e3dc933dacbd8acb0fdbab8ebd1e5d/commons-codec-1.15.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.11.0/a2503f302b11ebde7ebc3df41daebe0e4eea3689/commons-io-2.11.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.82.Final/644041d1fa96a5d3130a29e8978630d716d76e38/netty-handler-4.1.82.Final.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.82.Final/b77200379acb345a9ffdece1c605e591ac3e4e0a/netty-codec-4.1.82.Final.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-epoll/4.1.82.Final/e7c7dd18deac93105797f30057c912651ea76521/netty-transport-classes-epoll-4.1.82.Final.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.82.Final/3e895b35ca1b8a0eca56cacff4c2dde5d2c6abce/netty-transport-native-unix-common-4.1.82.Final.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.82.Final/e431a218d91acb6476ccad5f5aafde50aa3945ca/netty-transport-4.1.82.Final.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.82.Final/a544270cf1ae8b8077082f5036436a9a9971ea71/netty-buffer-4.1.82.Final.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.82.Final/38f665ae8dcd29032eea31245ba7806bed2e0fa8/netty-resolver-4.1.82.Final.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.82.Final/22d148e85c3f5ebdacc0ce1f5aabb1d420f73f3/netty-common-4.1.82.Final.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/it.unimi.dsi/fastutil/8.5.9/bb7ea75ecdb216654237830b3a96d87ad91f8cc5/fastutil-8.5.9.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna-platform/5.12.1/97406a297c852f4a41e688a176ec675f72e8329/jna-platform-5.12.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.12.1/b1e93a735caea94f503e95e6fe79bf9cdc1e985d/jna-5.12.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/5.0.4/4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c/jopt-simple-5.0.4.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.21/4ec95b60d4e86b5c95a0e919cb172a0af98011ef/commons-compress-1.21.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.12.0/c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e/commons-lang3-3.12.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.15/7f2e0c573eaa7a74bac2e89b359e1f73d92a0a1d/httpcore-4.4.15.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.19.0/3b6eeb4de4c49c0fe38a4ee27188ff5fee44d0bb/log4j-core-2.19.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j2-impl/2.19.0/5c04bfdd63ce9dceb2e284b81e96b6a70010ee10/log4j-slf4j2-impl-2.19.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.19.0/ea1b37f38c327596b216542bc636cfdc0b8036fa/log4j-api-2.19.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.joml/joml/1.10.5/22566d58af70ad3d72308bab63b8339906deb649/joml-1.10.5.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.3.1/cbac1b8d30cb4795149c1ef540f912671a8616d0/lwjgl-glfw-3.3.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.3.1/9ec4ce1fc8c85fdef03ef4ff2aace6f5775fb280/lwjgl-glfw-3.3.1-natives-macos.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.3.1/cac0d3f712a3da7641fa174735a5f315de7ffe0a/lwjgl-glfw-3.3.1-natives-macos-arm64.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.3.1/a817bcf213db49f710603677457567c37d53e103/lwjgl-jemalloc-3.3.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.3.1/56424dc8db3cfb8e7b594aa6d59a4f4387b7f544/lwjgl-jemalloc-3.3.1-natives-macos.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.3.1/e577b87d8ad2ade361aaea2fcf226c660b15dee8/lwjgl-jemalloc-3.3.1-natives-macos-arm64.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.3.1/2623a6b8ae1dfcd880738656a9f0243d2e6840bd/lwjgl-openal-3.3.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.3.1/3a57b8911835fb58b5e558d0ca0d28157e263d45/lwjgl-openal-3.3.1-natives-macos.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.3.1/23d55e7490b57495320f6c9e1936d78fd72c4ef8/lwjgl-openal-3.3.1-natives-macos-arm64.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.3.1/831a5533a21a5f4f81bbc51bb13e9899319b5411/lwjgl-opengl-3.3.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.3.1/a0d12697ea019a7362eff26475b0531340e876a6/lwjgl-opengl-3.3.1-natives-macos.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.3.1/eafe34b871d966292e8db0f1f3d6b8b110d4e91d/lwjgl-opengl-3.3.1-natives-macos-arm64.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.3.1/b119297cf8ed01f247abe8685857f8e7fcf5980f/lwjgl-stb-3.3.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.3.1/def8879b8d38a47a4cc1d48b1f9a7b772e51258e/lwjgl-stb-3.3.1-natives-macos.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.3.1/fcf073ed911752abdca5f0b00a53cfdf17ff8e8b/lwjgl-stb-3.3.1-natives-macos-arm64.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyfd/3.3.1/ff1914111ef2e3e0110ef2dabc8d8cdaad82347/lwjgl-tinyfd-3.3.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyfd/3.3.1/78641a0fa5e9afa714adfdd152c357930c97a1ce/lwjgl-tinyfd-3.3.1-natives-macos.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyfd/3.3.1/972ecc17bad3571e81162153077b4d47b7b9eaa9/lwjgl-tinyfd-3.3.1-natives-macos-arm64.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.3.1/ae58664f88e18a9bb2c77b063833ca7aaec484cb/lwjgl-3.3.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.3.1/fc6bb723dec2cd031557dccb2a95f0ab80acb9db/lwjgl-3.3.1-natives-macos.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.3.1/71d0d5e469c9c95351eb949064497e3391616ac9/lwjgl-3.3.1-natives-macos-arm64.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.machinezoo.noexception/noexception/1.7.1/b65330c98e38a1f915fa54a6e5eca496505e3f0a/noexception-1.7.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.1/f48d81adce2abf5ad3cfe463df517952749e03bc/slf4j-api-2.0.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-utils/3.3.0/cf43b5391de623b36fe066a21127baef82c64022/plexus-utils-3.3.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.12.0/d5692f0526415fcc6de94bb5bfbd3afd9dd3b3e5/checker-qual-3.12.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.11.0/c5a0ace696d3f8b1c1d8cc036d8c03cc0cbe6b69/error_prone_annotations-2.11.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/ba035118bc8bac37d7eff77700720999acd9986d/j2objc-annotations-1.3.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.antlr/ST4/4.3/92f2c1ad8d84abcbeead6cf7f2c53a04166293c2/ST4-4.3.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.antlr/antlr-runtime/3.5.2/cd9cd41361c155f3af0f653009dcecb08d8b4afd/antlr-runtime-3.5.2.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.abego.treelayout/org.abego.treelayout.core/1.0.3/457216e8e6578099ae63667bb1e4439235892028/org.abego.treelayout.core-1.0.3.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.json/1.0.4/3178f73569fd7a1e5ffc464e680f7a8cc784b85a/javax.json-1.0.4.jar, --disable-abstract-param'
+Arguments: '--input, /Users/carvwest/Assets/momgweapons/build/libs/momgweapons-1.1.5+1.20.1.jar, --output, /Users/carvwest/Assets/momgweapons/build/reobfJar/output.jar, --names, /Users/carvwest/Assets/momgweapons/build/reobfJar/mappings.tsrg, --lib, /Users/carvwest/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.0_mapped_official_1.20.1/forge-1.20.1-47.2.0_mapped_official_1.20.1-recomp.jar, --lib, /Users/carvwest/.gradle/caches/forge_gradle/minecraft_repo/versions/1.20.1/client-extra.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/fmlloader/1.20.1-47.2.0/7811231940c0a8b6008453bbc64fdf7fa1280fe9/fmlloader-1.20.1-47.2.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/JarJarSelector/0.3.19/376cc9c8ea60720cf027c01fc033de915699801c/JarJarSelector-0.3.19.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/JarJarMetadata/0.3.19/83feaa9b770e6ac0e96ee4fc23fa89325c5fe2/JarJarMetadata-0.3.19.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/31.1-jre/60458f877d055d0c9114d9e1a2efb737b4bc282c/guava-31.1-jre.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/ca.weblite/java-objc-bridge/1.1/1227f9e0666314f9de41477e3ec277e542ed7f7b/java-objc-bridge-1.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/forgespi/7.0.1/3b4972a0cdb135853dba219be61a79b22cff1309/forgespi-7.0.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/mergetool/1.1.5/f3da18e12c696d35a47c82cbb2cc8b5aa15e1154/mergetool-1.1.5-api.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/24.0.1/13c5c75c4206580aa4d683bffee658caae6c9f43/annotations-24.0.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/cpw.mods/securejarhandler/2.1.10/51e6a22c6c716beb11e244bf5b8be480f51dd6b5/securejarhandler-2.1.10.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/cpw.mods/modlauncher/10.0.9/6d9443f56f50bb85cea383686ff9c867391458b/modlauncher-10.0.9.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.openjdk.nashorn/nashorn-core/15.3/43977e804697048fc8d81d333a36c17d07a5b3dd/nashorn-core-15.3.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/9.5/19ab5b5800a3910d30d3a3e64fdb00fd0cb42de0/asm-commons-9.5.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/9.5/64b5a1fc8c1b15ed2efd6a063e976bc8d3dc5ffe/asm-util-9.5.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/9.5/490bacc77de7cbc0be1a30bb3471072d705be4a4/asm-analysis-9.5.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/9.5/fd33c8b6373abaa675be407082fdfda35021254a/asm-tree-9.5.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.5/dc6ea1875f4d64fbc85e1691c95b96a3d8569c90/asm-9.5.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/accesstransformers/8.0.4/272d240aa73f42195b2a68e2ebd8b701ecf41f63/accesstransformers-8.0.4.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4/4.9.1/e92af8ab33e428461927b484e90bb155a4f3a052/antlr4-4.9.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4-runtime/4.9.1/428664f05d2b7f7b7610204b5aa7c1763f62011a/antlr4-runtime-4.9.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/fmlcore/1.20.1-47.2.0/ffd3c6debac0a388c9e33ac43c9f5eafb91cb466/fmlcore-1.20.1-47.2.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/eventbus/6.0.5/699143dd438431d06b57416944f7cedbe52e1475/eventbus-6.0.5.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/coremods/5.0.1/386b00279628b105b2d507539c46e134e96f6237/coremods-5.0.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/unsafe/0.2.0/54d7a0a5e8fdb71b973025caa46f341ae5904f39/unsafe-0.2.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.electronwill.night-config/toml/3.6.4/51d6cefb2b55ee55ee26b16391212fb2c7dfb4f4/toml-3.6.4.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.electronwill.night-config/core/3.6.4/510f174abbf1c947494db50ef2445683bd52c230/core-3.6.4.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.8.5/4433f50c07debefaed0553bd0068f4f48d449313/maven-artifact-3.8.5.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.jodah/typetools/0.6.3/a01aaa6ddaea9ec07ec4f209487b7a46a526283a/typetools-0.6.3.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecrell/terminalconsoleappender/1.2.0/96d02cd3b384ff015a8fef4223bcb4ccf1717c95/terminalconsoleappender-1.2.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.jline/jline-reader/3.12.1/4382ab1382c7b6f379377ed5f665dc2f6e1218bc/jline-reader-3.12.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.jline/jline-terminal/3.12.1/c777448314e050d980a6b697c140f3bfe9eb7416/jline-terminal-3.12.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/cpw.mods/bootstraplauncher/1.1.2/c546e00443d8432cda6baa1c860346980742628/bootstraplauncher-1.1.2.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/JarJarFileSystems/0.3.19/2464eb7d6b9ddb9db36a82cf8a95193e5c6fe020/JarJarFileSystems-0.3.19.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/fmlearlydisplay/1.20.1-47.2.0/4c56a03dcedcb909c7eaa8469dd5a36c493a0008/fmlearlydisplay-1.20.1-47.2.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/javafmllanguage/1.20.1-47.2.0/7f9181f85acc66547685a72020713fc8cbde98/javafmllanguage-1.20.1-47.2.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/lowcodelanguage/1.20.1-47.2.0/7872f5205685fdd26fae39b1be79b0e60ca5b7bd/lowcodelanguage-1.20.1-47.2.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.minecraftforge/mclanguage/1.20.1-47.2.0/d501d161cabed08b3c139a2c6217b02a39f3c3e9/mclanguage-1.20.1-47.2.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.2.2/54f5efc19bca95d709d9a37d19ffcbba3d21c1a6/oshi-core-6.2.2.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.10/dd9b193aef96e973d5a11ab13cd17430c2e4306b/gson-2.10.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.ibm.icu/icu4j/71.1/9e7d3304c23f9ba5cb71915f7cce23231a57a445/icu4j-71.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.mojang/authlib/4.0.43/2ff9d747a77570a07a60d32ac77eb6162ad2a2d9/authlib-4.0.43.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.mojang/blocklist/1.0.10/5c685c5ffa94c4cd39496c7184c1d122e515ecef/blocklist-1.0.10.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.mojang/brigadier/1.1.8/5244ce82c3337bba4a196a3ce858bfaecc74404a/brigadier-1.1.8.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.mojang/datafixerupper/6.0.8/3ba4a30557a9b057760af4011f909ba619fc5125/datafixerupper-6.0.8.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.mojang/logging/1.1.1/832b8e6674a9b325a5175a3a6267dfaf34c85139/logging-1.1.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.mojang/patchy/2.2.10/da05971b07cbb379d002cf7eaec6a2048211fefc/patchy-2.2.10.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.mojang/text2speech/1.17.9/3cad216e3a7f0c19b4b394388bc9ffc446f13b14/text2speech-1.17.9.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.13/e5f6cae5ca7ecaac1ec2827a9e2d65ae2869cada/httpclient-4.5.13.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.15/49d94806b6e3dc933dacbd8acb0fdbab8ebd1e5d/commons-codec-1.15.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.11.0/a2503f302b11ebde7ebc3df41daebe0e4eea3689/commons-io-2.11.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.82.Final/644041d1fa96a5d3130a29e8978630d716d76e38/netty-handler-4.1.82.Final.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.82.Final/b77200379acb345a9ffdece1c605e591ac3e4e0a/netty-codec-4.1.82.Final.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-epoll/4.1.82.Final/e7c7dd18deac93105797f30057c912651ea76521/netty-transport-classes-epoll-4.1.82.Final.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.82.Final/3e895b35ca1b8a0eca56cacff4c2dde5d2c6abce/netty-transport-native-unix-common-4.1.82.Final.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.82.Final/e431a218d91acb6476ccad5f5aafde50aa3945ca/netty-transport-4.1.82.Final.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.82.Final/a544270cf1ae8b8077082f5036436a9a9971ea71/netty-buffer-4.1.82.Final.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.82.Final/38f665ae8dcd29032eea31245ba7806bed2e0fa8/netty-resolver-4.1.82.Final.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.82.Final/22d148e85c3f5ebdacc0ce1f5aabb1d420f73f3/netty-common-4.1.82.Final.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/it.unimi.dsi/fastutil/8.5.9/bb7ea75ecdb216654237830b3a96d87ad91f8cc5/fastutil-8.5.9.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna-platform/5.12.1/97406a297c852f4a41e688a176ec675f72e8329/jna-platform-5.12.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.12.1/b1e93a735caea94f503e95e6fe79bf9cdc1e985d/jna-5.12.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/5.0.4/4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c/jopt-simple-5.0.4.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.21/4ec95b60d4e86b5c95a0e919cb172a0af98011ef/commons-compress-1.21.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.12.0/c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e/commons-lang3-3.12.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.15/7f2e0c573eaa7a74bac2e89b359e1f73d92a0a1d/httpcore-4.4.15.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.19.0/3b6eeb4de4c49c0fe38a4ee27188ff5fee44d0bb/log4j-core-2.19.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j2-impl/2.19.0/5c04bfdd63ce9dceb2e284b81e96b6a70010ee10/log4j-slf4j2-impl-2.19.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.19.0/ea1b37f38c327596b216542bc636cfdc0b8036fa/log4j-api-2.19.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.joml/joml/1.10.5/22566d58af70ad3d72308bab63b8339906deb649/joml-1.10.5.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.3.1/cbac1b8d30cb4795149c1ef540f912671a8616d0/lwjgl-glfw-3.3.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.3.1/9ec4ce1fc8c85fdef03ef4ff2aace6f5775fb280/lwjgl-glfw-3.3.1-natives-macos.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.3.1/cac0d3f712a3da7641fa174735a5f315de7ffe0a/lwjgl-glfw-3.3.1-natives-macos-arm64.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.3.1/a817bcf213db49f710603677457567c37d53e103/lwjgl-jemalloc-3.3.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.3.1/56424dc8db3cfb8e7b594aa6d59a4f4387b7f544/lwjgl-jemalloc-3.3.1-natives-macos.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.3.1/e577b87d8ad2ade361aaea2fcf226c660b15dee8/lwjgl-jemalloc-3.3.1-natives-macos-arm64.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.3.1/2623a6b8ae1dfcd880738656a9f0243d2e6840bd/lwjgl-openal-3.3.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.3.1/3a57b8911835fb58b5e558d0ca0d28157e263d45/lwjgl-openal-3.3.1-natives-macos.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.3.1/23d55e7490b57495320f6c9e1936d78fd72c4ef8/lwjgl-openal-3.3.1-natives-macos-arm64.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.3.1/831a5533a21a5f4f81bbc51bb13e9899319b5411/lwjgl-opengl-3.3.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.3.1/a0d12697ea019a7362eff26475b0531340e876a6/lwjgl-opengl-3.3.1-natives-macos.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.3.1/eafe34b871d966292e8db0f1f3d6b8b110d4e91d/lwjgl-opengl-3.3.1-natives-macos-arm64.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.3.1/b119297cf8ed01f247abe8685857f8e7fcf5980f/lwjgl-stb-3.3.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.3.1/def8879b8d38a47a4cc1d48b1f9a7b772e51258e/lwjgl-stb-3.3.1-natives-macos.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-stb/3.3.1/fcf073ed911752abdca5f0b00a53cfdf17ff8e8b/lwjgl-stb-3.3.1-natives-macos-arm64.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyfd/3.3.1/ff1914111ef2e3e0110ef2dabc8d8cdaad82347/lwjgl-tinyfd-3.3.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyfd/3.3.1/78641a0fa5e9afa714adfdd152c357930c97a1ce/lwjgl-tinyfd-3.3.1-natives-macos.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-tinyfd/3.3.1/972ecc17bad3571e81162153077b4d47b7b9eaa9/lwjgl-tinyfd-3.3.1-natives-macos-arm64.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.3.1/ae58664f88e18a9bb2c77b063833ca7aaec484cb/lwjgl-3.3.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.3.1/fc6bb723dec2cd031557dccb2a95f0ab80acb9db/lwjgl-3.3.1-natives-macos.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.3.1/71d0d5e469c9c95351eb949064497e3391616ac9/lwjgl-3.3.1-natives-macos-arm64.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.machinezoo.noexception/noexception/1.7.1/b65330c98e38a1f915fa54a6e5eca496505e3f0a/noexception-1.7.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.1/f48d81adce2abf5ad3cfe463df517952749e03bc/slf4j-api-2.0.1.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-utils/3.3.0/cf43b5391de623b36fe066a21127baef82c64022/plexus-utils-3.3.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.12.0/d5692f0526415fcc6de94bb5bfbd3afd9dd3b3e5/checker-qual-3.12.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.11.0/c5a0ace696d3f8b1c1d8cc036d8c03cc0cbe6b69/error_prone_annotations-2.11.0.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/ba035118bc8bac37d7eff77700720999acd9986d/j2objc-annotations-1.3.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.antlr/ST4/4.3/92f2c1ad8d84abcbeead6cf7f2c53a04166293c2/ST4-4.3.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.antlr/antlr-runtime/3.5.2/cd9cd41361c155f3af0f653009dcecb08d8b4afd/antlr-runtime-3.5.2.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.abego.treelayout/org.abego.treelayout.core/1.0.3/457216e8e6578099ae63667bb1e4439235892028/org.abego.treelayout.core-1.0.3.jar, --lib, /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.json/1.0.4/3178f73569fd7a1e5ffc464e680f7a8cc784b85a/javax.json-1.0.4.jar, --disable-abstract-param'
 Classpath:
  - /Users/carvwest/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/ForgeAutoRenamingTool/1.0.6/ForgeAutoRenamingTool-1.0.6-all.jar
-Working directory: /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/reobfJar
+Working directory: /Users/carvwest/Assets/momgweapons/build/reobfJar
 Main class: net.minecraftforge.fart.Main
 ====================================
 Forge Auto Renaming Tool v1.0.6
@@ -113,10 +113,10 @@ lib: /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.antlr/antlr-runtime/
 lib: /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.abego.treelayout/org.abego.treelayout.core/1.0.3/457216e8e6578099ae63667bb1e4439235892028/org.abego.treelayout.core-1.0.3.jar
 lib: /Users/carvwest/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.json/1.0.4/3178f73569fd7a1e5ffc464e680f7a8cc784b85a/javax.json-1.0.4.jar
 log: null
-input: /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/libs/momgweapons-1.0.2+1.20.1.jar
-output: /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/reobfJar/output.jar
+input: /Users/carvwest/Assets/momgweapons/build/libs/momgweapons-1.1.5+1.20.1.jar
+output: /Users/carvwest/Assets/momgweapons/build/reobfJar/output.jar
 threads: 8
-Names: /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/reobfJar/mappings.tsrg(reversed: false)
+Names: /Users/carvwest/Assets/momgweapons/build/reobfJar/mappings.tsrg(reversed: false)
 Fix Annotations: false
 Fix Records: false
 Fix Identifiers: false
@@ -124,7 +124,7 @@ Fix SourceFile: false
 Fix Line Numbers: false
 Strip codesigning signatures: false
 Adding Libraries to Inheritance
-Reading Input: /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/libs/momgweapons-1.0.2+1.20.1.jar
+Reading Input: /Users/carvwest/Assets/momgweapons/build/libs/momgweapons-1.1.5+1.20.1.jar
 Adding input to inheritance map
 Processing entries
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/BasicWeaponItem/getDamage()F from net/minecraft/world/item/SwordItem/getDamage()F: getDamage -> m_43299_
@@ -136,6 +136,8 @@ Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/BasicWeaponI
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/BasicWeaponItem/getDefaultAttributeModifiers(Lnet/minecraft/world/entity/EquipmentSlot;)Lcom/google/common/collect/Multimap; from net/minecraft/world/item/SwordItem/getDefaultAttributeModifiers(Lnet/minecraft/world/entity/EquipmentSlot;)Lcom/google/common/collect/Multimap;: getDefaultAttributeModifiers -> m_7167_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/BasicWeaponItem/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z from net/minecraft/world/item/SwordItem/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z: hurtEnemy -> m_7579_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/BasicWeaponItem/isCorrectToolForDrops(Lnet/minecraft/world/level/block/state/BlockState;)Z from net/minecraft/world/item/SwordItem/isCorrectToolForDrops(Lnet/minecraft/world/level/block/state/BlockState;)Z: isCorrectToolForDrops -> m_8096_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/UnbreakableScytheItem/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V from net/minecraft/world/item/Item/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V: appendHoverText -> m_7373_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/UnbreakableScytheItem/canBeDepleted()Z from net/minecraft/world/item/Item/canBeDepleted()Z: canBeDepleted -> m_41465_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/UnbreakableQuarterstaffItem/canBeDepleted()Z from net/minecraft/world/item/Item/canBeDepleted()Z: canBeDepleted -> m_41465_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/UnbreakableHammerItem/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V from net/minecraft/world/item/Item/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V: appendHoverText -> m_7373_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/UnbreakableHammerItem/mineBlock(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/LivingEntity;)Z from dev/voxelparrot/momgweapons/item/BasicWeaponItem/mineBlock(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/LivingEntity;)Z: mineBlock -> m_6813_
@@ -144,12 +146,12 @@ Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/UnbreakableH
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/HammerItem/lambda$hurtEnemy$0(Lnet/minecraft/world/entity/LivingEntity;)V from dev/voxelparrot/momgweapons/item/BasicWeaponItem/lambda$hurtEnemy$0(Lnet/minecraft/world/entity/LivingEntity;)V: lambda$hurtEnemy$0 -> m_43295_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/HammerItem/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z from dev/voxelparrot/momgweapons/item/BasicWeaponItem/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z: hurtEnemy -> m_7579_
 Conflicting propagated mapping for net/minecraftforge/event/BuildCreativeModeTabContentsEvent/accept(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/CreativeModeTab$TabVisibility;)V from net/minecraft/world/item/CreativeModeTab$Output/accept(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/CreativeModeTab$TabVisibility;)V: accept -> m_246267_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/UnbreakableClubItem/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z from dev/voxelparrot/momgweapons/item/BasicWeaponItem/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z: hurtEnemy -> m_7579_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/UnbreakableClubItem/canBeDepleted()Z from net/minecraft/world/item/Item/canBeDepleted()Z: canBeDepleted -> m_41465_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/UnbreakableGlaiveItem/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V from net/minecraft/world/item/Item/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V: appendHoverText -> m_7373_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/UnbreakableGlaiveItem/mineBlock(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/LivingEntity;)Z from dev/voxelparrot/momgweapons/item/BasicWeaponItem/mineBlock(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/LivingEntity;)Z: mineBlock -> m_6813_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/UnbreakableGlaiveItem/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z from dev/voxelparrot/momgweapons/item/BasicWeaponItem/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z: hurtEnemy -> m_7579_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/UnbreakableGlaiveItem/canBeDepleted()Z from net/minecraft/world/item/Item/canBeDepleted()Z: canBeDepleted -> m_41465_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/UnbreakableClubItem/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z from dev/voxelparrot/momgweapons/item/BasicWeaponItem/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z: hurtEnemy -> m_7579_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/UnbreakableClubItem/canBeDepleted()Z from net/minecraft/world/item/Item/canBeDepleted()Z: canBeDepleted -> m_41465_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/ClubItem/lambda$hurtEnemy$0(Lnet/minecraft/world/entity/LivingEntity;)V from dev/voxelparrot/momgweapons/item/BasicWeaponItem/lambda$hurtEnemy$0(Lnet/minecraft/world/entity/LivingEntity;)V: lambda$hurtEnemy$0 -> m_43295_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/ClubItem/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z from dev/voxelparrot/momgweapons/item/BasicWeaponItem/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z: hurtEnemy -> m_7579_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/item/UnbreakableDaggerItem/getDestroySpeed(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/block/state/BlockState;)F from dev/voxelparrot/momgweapons/item/BasicWeaponItem/getDestroySpeed(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/block/state/BlockState;)F: getDestroySpeed -> m_8102_
@@ -165,37 +167,31 @@ Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMate
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$10/getEnchantmentValue()I from net/minecraft/world/item/Tier/getEnchantmentValue()I: getEnchantmentValue -> m_6601_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$10/getLevel()I from net/minecraft/world/item/Tier/getLevel()I: getLevel -> m_6604_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$10/getAttackDamageBonus()F from net/minecraft/world/item/Tier/getAttackDamageBonus()F: getAttackDamageBonus -> m_6631_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$3/getUses()I from net/minecraft/world/item/Tier/getUses()I: getUses -> m_6609_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$3/getSpeed()F from net/minecraft/world/item/Tier/getSpeed()F: getSpeed -> m_6624_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$3/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient; from net/minecraft/world/item/Tier/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient;: getRepairIngredient -> m_6282_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$3/getEnchantmentValue()I from net/minecraft/world/item/Tier/getEnchantmentValue()I: getEnchantmentValue -> m_6601_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$3/getLevel()I from net/minecraft/world/item/Tier/getLevel()I: getLevel -> m_6604_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$3/getAttackDamageBonus()F from net/minecraft/world/item/Tier/getAttackDamageBonus()F: getAttackDamageBonus -> m_6631_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$16/getUses()I from net/minecraft/world/item/Tier/getUses()I: getUses -> m_6609_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$16/getSpeed()F from net/minecraft/world/item/Tier/getSpeed()F: getSpeed -> m_6624_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$16/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient; from net/minecraft/world/item/Tier/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient;: getRepairIngredient -> m_6282_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$16/getEnchantmentValue()I from net/minecraft/world/item/Tier/getEnchantmentValue()I: getEnchantmentValue -> m_6601_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$16/getLevel()I from net/minecraft/world/item/Tier/getLevel()I: getLevel -> m_6604_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$16/getAttackDamageBonus()F from net/minecraft/world/item/Tier/getAttackDamageBonus()F: getAttackDamageBonus -> m_6631_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$1/getUses()I from net/minecraft/world/item/Tier/getUses()I: getUses -> m_6609_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$15/getUses()I from net/minecraft/world/item/Tier/getUses()I: getUses -> m_6609_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$1/getSpeed()F from net/minecraft/world/item/Tier/getSpeed()F: getSpeed -> m_6624_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$1/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient; from net/minecraft/world/item/Tier/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient;: getRepairIngredient -> m_6282_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$1/getEnchantmentValue()I from net/minecraft/world/item/Tier/getEnchantmentValue()I: getEnchantmentValue -> m_6601_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$1/getLevel()I from net/minecraft/world/item/Tier/getLevel()I: getLevel -> m_6604_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$1/getAttackDamageBonus()F from net/minecraft/world/item/Tier/getAttackDamageBonus()F: getAttackDamageBonus -> m_6631_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$17/getUses()I from net/minecraft/world/item/Tier/getUses()I: getUses -> m_6609_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$12/getUses()I from net/minecraft/world/item/Tier/getUses()I: getUses -> m_6609_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$12/getSpeed()F from net/minecraft/world/item/Tier/getSpeed()F: getSpeed -> m_6624_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$12/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient; from net/minecraft/world/item/Tier/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient;: getRepairIngredient -> m_6282_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$12/getEnchantmentValue()I from net/minecraft/world/item/Tier/getEnchantmentValue()I: getEnchantmentValue -> m_6601_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$12/getLevel()I from net/minecraft/world/item/Tier/getLevel()I: getLevel -> m_6604_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$12/getAttackDamageBonus()F from net/minecraft/world/item/Tier/getAttackDamageBonus()F: getAttackDamageBonus -> m_6631_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$5/getUses()I from net/minecraft/world/item/Tier/getUses()I: getUses -> m_6609_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$5/getSpeed()F from net/minecraft/world/item/Tier/getSpeed()F: getSpeed -> m_6624_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$5/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient; from net/minecraft/world/item/Tier/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient;: getRepairIngredient -> m_6282_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$5/getEnchantmentValue()I from net/minecraft/world/item/Tier/getEnchantmentValue()I: getEnchantmentValue -> m_6601_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$5/getLevel()I from net/minecraft/world/item/Tier/getLevel()I: getLevel -> m_6604_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$5/getAttackDamageBonus()F from net/minecraft/world/item/Tier/getAttackDamageBonus()F: getAttackDamageBonus -> m_6631_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$1/getUses()I from net/minecraft/world/item/Tier/getUses()I: getUses -> m_6609_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$1/getSpeed()F from net/minecraft/world/item/Tier/getSpeed()F: getSpeed -> m_6624_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$1/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient; from net/minecraft/world/item/Tier/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient;: getRepairIngredient -> m_6282_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$1/getEnchantmentValue()I from net/minecraft/world/item/Tier/getEnchantmentValue()I: getEnchantmentValue -> m_6601_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$1/getLevel()I from net/minecraft/world/item/Tier/getLevel()I: getLevel -> m_6604_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$1/getAttackDamageBonus()F from net/minecraft/world/item/Tier/getAttackDamageBonus()F: getAttackDamageBonus -> m_6631_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$17/getSpeed()F from net/minecraft/world/item/Tier/getSpeed()F: getSpeed -> m_6624_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$17/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient; from net/minecraft/world/item/Tier/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient;: getRepairIngredient -> m_6282_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$17/getEnchantmentValue()I from net/minecraft/world/item/Tier/getEnchantmentValue()I: getEnchantmentValue -> m_6601_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$17/getLevel()I from net/minecraft/world/item/Tier/getLevel()I: getLevel -> m_6604_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$17/getAttackDamageBonus()F from net/minecraft/world/item/Tier/getAttackDamageBonus()F: getAttackDamageBonus -> m_6631_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$16/getUses()I from net/minecraft/world/item/Tier/getUses()I: getUses -> m_6609_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$16/getSpeed()F from net/minecraft/world/item/Tier/getSpeed()F: getSpeed -> m_6624_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$16/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient; from net/minecraft/world/item/Tier/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient;: getRepairIngredient -> m_6282_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$16/getEnchantmentValue()I from net/minecraft/world/item/Tier/getEnchantmentValue()I: getEnchantmentValue -> m_6601_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$16/getLevel()I from net/minecraft/world/item/Tier/getLevel()I: getLevel -> m_6604_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$16/getAttackDamageBonus()F from net/minecraft/world/item/Tier/getAttackDamageBonus()F: getAttackDamageBonus -> m_6631_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$15/getUses()I from net/minecraft/world/item/Tier/getUses()I: getUses -> m_6609_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$15/getSpeed()F from net/minecraft/world/item/Tier/getSpeed()F: getSpeed -> m_6624_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$15/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient; from net/minecraft/world/item/Tier/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient;: getRepairIngredient -> m_6282_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$15/getEnchantmentValue()I from net/minecraft/world/item/Tier/getEnchantmentValue()I: getEnchantmentValue -> m_6601_
@@ -243,22 +239,34 @@ Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMate
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$6/getEnchantmentValue()I from net/minecraft/world/item/Tier/getEnchantmentValue()I: getEnchantmentValue -> m_6601_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$6/getLevel()I from net/minecraft/world/item/Tier/getLevel()I: getLevel -> m_6604_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$6/getAttackDamageBonus()F from net/minecraft/world/item/Tier/getAttackDamageBonus()F: getAttackDamageBonus -> m_6631_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$5/getUses()I from net/minecraft/world/item/Tier/getUses()I: getUses -> m_6609_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$5/getSpeed()F from net/minecraft/world/item/Tier/getSpeed()F: getSpeed -> m_6624_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$5/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient; from net/minecraft/world/item/Tier/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient;: getRepairIngredient -> m_6282_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$5/getEnchantmentValue()I from net/minecraft/world/item/Tier/getEnchantmentValue()I: getEnchantmentValue -> m_6601_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$5/getLevel()I from net/minecraft/world/item/Tier/getLevel()I: getLevel -> m_6604_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$5/getAttackDamageBonus()F from net/minecraft/world/item/Tier/getAttackDamageBonus()F: getAttackDamageBonus -> m_6631_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$4/getUses()I from net/minecraft/world/item/Tier/getUses()I: getUses -> m_6609_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$3/getUses()I from net/minecraft/world/item/Tier/getUses()I: getUses -> m_6609_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$3/getSpeed()F from net/minecraft/world/item/Tier/getSpeed()F: getSpeed -> m_6624_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$3/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient; from net/minecraft/world/item/Tier/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient;: getRepairIngredient -> m_6282_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$3/getEnchantmentValue()I from net/minecraft/world/item/Tier/getEnchantmentValue()I: getEnchantmentValue -> m_6601_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$3/getLevel()I from net/minecraft/world/item/Tier/getLevel()I: getLevel -> m_6604_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$3/getAttackDamageBonus()F from net/minecraft/world/item/Tier/getAttackDamageBonus()F: getAttackDamageBonus -> m_6631_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$4/getSpeed()F from net/minecraft/world/item/Tier/getSpeed()F: getSpeed -> m_6624_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$4/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient; from net/minecraft/world/item/Tier/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient;: getRepairIngredient -> m_6282_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$4/getEnchantmentValue()I from net/minecraft/world/item/Tier/getEnchantmentValue()I: getEnchantmentValue -> m_6601_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$4/getLevel()I from net/minecraft/world/item/Tier/getLevel()I: getLevel -> m_6604_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$4/getAttackDamageBonus()F from net/minecraft/world/item/Tier/getAttackDamageBonus()F: getAttackDamageBonus -> m_6631_
-Conflicting propagated mapping for dev/voxelparrot/momgweapons/datagen/LootTableModification$AddToLootTables/generate(Ljava/util/function/BiConsumer;)V from net/minecraft/data/loot/LootTableSubProvider/generate(Ljava/util/function/BiConsumer;)V: generate -> m_245126_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$2/getUses()I from net/minecraft/world/item/Tier/getUses()I: getUses -> m_6609_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$2/getSpeed()F from net/minecraft/world/item/Tier/getSpeed()F: getSpeed -> m_6624_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$2/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient; from net/minecraft/world/item/Tier/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient;: getRepairIngredient -> m_6282_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$2/getEnchantmentValue()I from net/minecraft/world/item/Tier/getEnchantmentValue()I: getEnchantmentValue -> m_6601_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$2/getLevel()I from net/minecraft/world/item/Tier/getLevel()I: getLevel -> m_6604_
 Conflicting propagated mapping for dev/voxelparrot/momgweapons/material/ToolMaterials$2/getAttackDamageBonus()F from net/minecraft/world/item/Tier/getAttackDamageBonus()F: getAttackDamageBonus -> m_6631_
+Conflicting propagated mapping for dev/voxelparrot/momgweapons/datagen/LootTableModification$AddToLootTables/generate(Ljava/util/function/BiConsumer;)V from net/minecraft/data/loot/LootTableSubProvider/generate(Ljava/util/function/BiConsumer;)V: generate -> m_245126_
 Adding extras
 Sorting
-Writing Output: /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/reobfJar/output.jar
+Writing Output: /Users/carvwest/Assets/momgweapons/build/reobfJar/output.jar
   META-INF/
   META-INF/MANIFEST.MF
   META-INF/mods.toml
@@ -267,24 +275,7 @@ Writing Output: /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/reobf
   assets/momgweapons/attack_animations/
   assets/momgweapons/attack_animations/one_handed_swing_up.json
   assets/momgweapons/lang/
-  assets/momgweapons/lang/de_de.json
   assets/momgweapons/lang/en_us.json
-  assets/momgweapons/lang/es_ar.json
-  assets/momgweapons/lang/es_cl.json
-  assets/momgweapons/lang/es_es.json
-  assets/momgweapons/lang/it_it.json
-  assets/momgweapons/lang/ja_jp.json
-  assets/momgweapons/lang/ko_kr.json
-  assets/momgweapons/lang/nl_nl.json
-  assets/momgweapons/lang/pl_pl.json
-  assets/momgweapons/lang/pt_br.json
-  assets/momgweapons/lang/ro_ro.json
-  assets/momgweapons/lang/ru_ru.json
-  assets/momgweapons/lang/sv_se.json
-  assets/momgweapons/lang/tr_tr.json
-  assets/momgweapons/lang/uk_ua.json
-  assets/momgweapons/lang/vi_vn.json
-  assets/momgweapons/lang/zh_cn.json
   assets/momgweapons/models/
   assets/momgweapons/models/item/
   assets/momgweapons/models/item/aetherium_club.json
@@ -299,9 +290,11 @@ Writing Output: /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/reobf
   assets/momgweapons/models/item/aetherium_spear.json
   assets/momgweapons/models/item/aetherium_spear_gui.json
   assets/momgweapons/models/item/aetherium_spear_held.json
+  assets/momgweapons/models/item/charged_scythe.json
+  assets/momgweapons/models/item/charged_scythe_gui.json
+  assets/momgweapons/models/item/charged_scythe_held.json
   assets/momgweapons/models/item/citrine_club.json
   assets/momgweapons/models/item/citrine_dagger.json
-  assets/momgweapons/models/item/citrine_glaive copy 2.json
   assets/momgweapons/models/item/citrine_glaive.json
   assets/momgweapons/models/item/citrine_glaive_gui.json
   assets/momgweapons/models/item/citrine_glaive_held.json
@@ -348,8 +341,12 @@ Writing Output: /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/reobf
   assets/momgweapons/models/item/golden_spear.json
   assets/momgweapons/models/item/golden_spear_gui.json
   assets/momgweapons/models/item/golden_spear_held.json
+  assets/momgweapons/models/item/green_spear.json
+  assets/momgweapons/models/item/green_spear_gui.json
+  assets/momgweapons/models/item/green_spear_held.json
   assets/momgweapons/models/item/handheld_big_glaive.json
   assets/momgweapons/models/item/handheld_big_quarterstaff.json
+  assets/momgweapons/models/item/handheld_big_scythe.json
   assets/momgweapons/models/item/handheld_big_spear.json
   assets/momgweapons/models/item/iron_club.json
   assets/momgweapons/models/item/iron_dagger.json
@@ -378,15 +375,9 @@ Writing Output: /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/reobf
   assets/momgweapons/models/item/mysticrain_club.json
   assets/momgweapons/models/item/mysticrain_dagger.json
   assets/momgweapons/models/item/mysticrain_glaive.json
-  assets/momgweapons/models/item/mysticrain_glaive_gui.json
-  assets/momgweapons/models/item/mysticrain_glaive_held.json
   assets/momgweapons/models/item/mysticrain_hammer.json
   assets/momgweapons/models/item/mysticrain_quarterstaff.json
-  assets/momgweapons/models/item/mysticrain_quarterstaff_gui.json
-  assets/momgweapons/models/item/mysticrain_quarterstaff_held.json
   assets/momgweapons/models/item/mysticrain_spear.json
-  assets/momgweapons/models/item/mysticrain_spear_gui.json
-  assets/momgweapons/models/item/mysticrain_spear_held.json
   assets/momgweapons/models/item/netherite_club.json
   assets/momgweapons/models/item/netherite_dagger.json
   assets/momgweapons/models/item/netherite_glaive.json
@@ -399,6 +390,11 @@ Writing Output: /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/reobf
   assets/momgweapons/models/item/netherite_spear.json
   assets/momgweapons/models/item/netherite_spear_gui.json
   assets/momgweapons/models/item/netherite_spear_held.json
+  assets/momgweapons/models/item/purpular_dagger.json
+  assets/momgweapons/models/item/rectanglisimer_hammer.json
+  assets/momgweapons/models/item/royal_scythe.json
+  assets/momgweapons/models/item/royal_scythe_gui.json
+  assets/momgweapons/models/item/royal_scythe_held.json
   assets/momgweapons/models/item/ruby_club.json
   assets/momgweapons/models/item/ruby_dagger.json
   assets/momgweapons/models/item/ruby_glaive.json
@@ -438,27 +434,15 @@ Writing Output: /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/reobf
   assets/momgweapons/models/item/shadowsteel_club.json
   assets/momgweapons/models/item/shadowsteel_dagger.json
   assets/momgweapons/models/item/shadowsteel_glaive.json
-  assets/momgweapons/models/item/shadowsteel_glaive_gui.json
-  assets/momgweapons/models/item/shadowsteel_glaive_held.json
   assets/momgweapons/models/item/shadowsteel_hammer.json
   assets/momgweapons/models/item/shadowsteel_quarterstaff.json
-  assets/momgweapons/models/item/shadowsteel_quarterstaff_gui.json
-  assets/momgweapons/models/item/shadowsteel_quarterstaff_held.json
   assets/momgweapons/models/item/shadowsteel_spear.json
-  assets/momgweapons/models/item/shadowsteel_spear_gui.json
-  assets/momgweapons/models/item/shadowsteel_spear_held.json
   assets/momgweapons/models/item/skysteel_club.json
   assets/momgweapons/models/item/skysteel_dagger.json
   assets/momgweapons/models/item/skysteel_glaive.json
-  assets/momgweapons/models/item/skysteel_glaive_gui.json
-  assets/momgweapons/models/item/skysteel_glaive_held.json
   assets/momgweapons/models/item/skysteel_hammer.json
   assets/momgweapons/models/item/skysteel_quarterstaff.json
-  assets/momgweapons/models/item/skysteel_quarterstaff_gui.json
-  assets/momgweapons/models/item/skysteel_quarterstaff_held.json
   assets/momgweapons/models/item/skysteel_spear.json
-  assets/momgweapons/models/item/skysteel_spear_gui.json
-  assets/momgweapons/models/item/skysteel_spear_held.json
   assets/momgweapons/models/item/sliver_club.json
   assets/momgweapons/models/item/sliver_dagger.json
   assets/momgweapons/models/item/sliver_glaive.json
@@ -560,212 +544,284 @@ Writing Output: /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/reobf
   assets/momgweapons/models/item/zebasi_glaive_held.json
   assets/momgweapons/textures/
   assets/momgweapons/textures/item/
-  assets/momgweapons/textures/item/aetherium_club.png
-  assets/momgweapons/textures/item/aetherium_dagger.png
-  assets/momgweapons/textures/item/aetherium_glaive.png
-  assets/momgweapons/textures/item/aetherium_glaive_held.png
-  assets/momgweapons/textures/item/aetherium_hammer.png
-  assets/momgweapons/textures/item/aetherium_quarterstaff.png
-  assets/momgweapons/textures/item/aetherium_quarterstaff_held.png
-  assets/momgweapons/textures/item/aetherium_spear.png
-  assets/momgweapons/textures/item/aetherium_spear_held.png
-  assets/momgweapons/textures/item/citrine_club.png
-  assets/momgweapons/textures/item/citrine_dagger.png
-  assets/momgweapons/textures/item/citrine_glaive.png
-  assets/momgweapons/textures/item/citrine_glaive_held.png
-  assets/momgweapons/textures/item/citrine_hammer.png
-  assets/momgweapons/textures/item/citrine_quarterstaff.png
-  assets/momgweapons/textures/item/citrine_quarterstaff_held.png
-  assets/momgweapons/textures/item/citrine_spear.png
-  assets/momgweapons/textures/item/citrine_spear_held.png
+  assets/momgweapons/textures/item/battleaxe/
+  assets/momgweapons/textures/item/battleaxe/mysticrain_battleaxe.png
+  assets/momgweapons/textures/item/battleaxe/shadowsteel_battleaxe.png
+  assets/momgweapons/textures/item/battleaxe/skysteel_battleaxe.png
   assets/momgweapons/textures/item/club/
+  assets/momgweapons/textures/item/club/aetherium_club.png
+  assets/momgweapons/textures/item/club/citrine_club.png
+  assets/momgweapons/textures/item/club/crimsonite_club.png
   assets/momgweapons/textures/item/club/diamond_club.png
   assets/momgweapons/textures/item/club/golden_club.png
   assets/momgweapons/textures/item/club/iron_club.png
+  assets/momgweapons/textures/item/club/jade_club.png
+  assets/momgweapons/textures/item/club/mysticrain_club.png
   assets/momgweapons/textures/item/club/netherite_club.png
+  assets/momgweapons/textures/item/club/ruby_club.png
+  assets/momgweapons/textures/item/club/sapphire_club.png
+  assets/momgweapons/textures/item/club/shadowite_club.png
+  assets/momgweapons/textures/item/club/shadowsteel_club.png
+  assets/momgweapons/textures/item/club/skysteel_club.png
+  assets/momgweapons/textures/item/club/sliver_club.png
+  assets/momgweapons/textures/item/club/steel_club.png
   assets/momgweapons/textures/item/club/stone_club.png
+  assets/momgweapons/textures/item/club/titanium_club.png
+  assets/momgweapons/textures/item/club/titanium_quartz_club.png
+  assets/momgweapons/textures/item/club/topaz_club.png
+  assets/momgweapons/textures/item/club/white_club.png
   assets/momgweapons/textures/item/club/wooden_club.png
-  assets/momgweapons/textures/item/crimsonite_club.png
-  assets/momgweapons/textures/item/crimsonite_dagger.png
-  assets/momgweapons/textures/item/crimsonite_glaive.png
-  assets/momgweapons/textures/item/crimsonite_glaive_held.png
-  assets/momgweapons/textures/item/crimsonite_hammer.png
-  assets/momgweapons/textures/item/crimsonite_quarterstaff.png
-  assets/momgweapons/textures/item/crimsonite_quarterstaff_held.png
-  assets/momgweapons/textures/item/crimsonite_spear.png
-  assets/momgweapons/textures/item/crimsonite_spear_held.png
   assets/momgweapons/textures/item/dagger/
+  assets/momgweapons/textures/item/dagger/aetherium_dagger.png
+  assets/momgweapons/textures/item/dagger/citrine_dagger.png
+  assets/momgweapons/textures/item/dagger/crimsonite_dagger.png
   assets/momgweapons/textures/item/dagger/diamond_dagger.png
   assets/momgweapons/textures/item/dagger/golden_dagger.png
   assets/momgweapons/textures/item/dagger/iron_dagger.png
+  assets/momgweapons/textures/item/dagger/jade_dagger.png
+  assets/momgweapons/textures/item/dagger/mysticrain_dagger.png
   assets/momgweapons/textures/item/dagger/netherite_dagger.png
+  assets/momgweapons/textures/item/dagger/purpular_dagger.png
+  assets/momgweapons/textures/item/dagger/ruby_dagger.png
+  assets/momgweapons/textures/item/dagger/sapphire_dagger.png
+  assets/momgweapons/textures/item/dagger/shadowite_dagger.png
+  assets/momgweapons/textures/item/dagger/shadowsteel_dagger.png
+  assets/momgweapons/textures/item/dagger/skysteel_dagger.png
+  assets/momgweapons/textures/item/dagger/sliver_dagger.png
+  assets/momgweapons/textures/item/dagger/steel_dagger.png
   assets/momgweapons/textures/item/dagger/stone_dagger.png
+  assets/momgweapons/textures/item/dagger/titanium_dagger.png
+  assets/momgweapons/textures/item/dagger/titanium_quartz_dagger.png
+  assets/momgweapons/textures/item/dagger/topaz_dagger.png
+  assets/momgweapons/textures/item/dagger/white_dagger.png
   assets/momgweapons/textures/item/dagger/wooden_dagger.png
   assets/momgweapons/textures/item/glaive/
+  assets/momgweapons/textures/item/glaive/aetherium_glaive.png
+  assets/momgweapons/textures/item/glaive/aetherium_glaive_held.png
+  assets/momgweapons/textures/item/glaive/citrine_glaive.png
+  assets/momgweapons/textures/item/glaive/citrine_glaive_held.png
+  assets/momgweapons/textures/item/glaive/crimsonite_glaive.png
+  assets/momgweapons/textures/item/glaive/crimsonite_glaive_held.png
   assets/momgweapons/textures/item/glaive/diamond_glaive.png
   assets/momgweapons/textures/item/glaive/diamond_glaive_held.png
   assets/momgweapons/textures/item/glaive/golden_glaive.png
   assets/momgweapons/textures/item/glaive/golden_glaive_held.png
   assets/momgweapons/textures/item/glaive/iron_glaive.png
   assets/momgweapons/textures/item/glaive/iron_glaive_held.png
+  assets/momgweapons/textures/item/glaive/jade_glaive.png
+  assets/momgweapons/textures/item/glaive/jade_glaive_held.png
+  assets/momgweapons/textures/item/glaive/mysticrain_glaive.png
+  assets/momgweapons/textures/item/glaive/mysticrain_glaive_held.png
   assets/momgweapons/textures/item/glaive/netherite_glaive.png
   assets/momgweapons/textures/item/glaive/netherite_glaive_held.png
+  assets/momgweapons/textures/item/glaive/ruby_glaive.png
+  assets/momgweapons/textures/item/glaive/ruby_glaive_held.png
+  assets/momgweapons/textures/item/glaive/sapphire_glaive.png
+  assets/momgweapons/textures/item/glaive/sapphire_glaive_held.png
+  assets/momgweapons/textures/item/glaive/shadowite_glaive.png
+  assets/momgweapons/textures/item/glaive/shadowite_glaive_held.png
+  assets/momgweapons/textures/item/glaive/shadowsteel_glaive.png
+  assets/momgweapons/textures/item/glaive/shadowsteel_glaive_held.png
+  assets/momgweapons/textures/item/glaive/skysteel_glaive.png
+  assets/momgweapons/textures/item/glaive/skysteel_glaive_held.png
+  assets/momgweapons/textures/item/glaive/sliver_glaive.png
+  assets/momgweapons/textures/item/glaive/sliver_glaive_held.png
+  assets/momgweapons/textures/item/glaive/steel_glaive.png
+  assets/momgweapons/textures/item/glaive/steel_glaive_held.png
   assets/momgweapons/textures/item/glaive/stone_glaive.png
   assets/momgweapons/textures/item/glaive/stone_glaive_held.png
+  assets/momgweapons/textures/item/glaive/titanium_glaive.png
+  assets/momgweapons/textures/item/glaive/titanium_glaive_held.png
+  assets/momgweapons/textures/item/glaive/titanium_quartz_glaive.png
+  assets/momgweapons/textures/item/glaive/titanium_quartz_glaive_held.png
+  assets/momgweapons/textures/item/glaive/topaz_glaive.png
+  assets/momgweapons/textures/item/glaive/topaz_glaive_held.png
+  assets/momgweapons/textures/item/glaive/white_glaive.png
+  assets/momgweapons/textures/item/glaive/white_glaive_held.png
   assets/momgweapons/textures/item/glaive/wooden_glaive.png
   assets/momgweapons/textures/item/glaive/wooden_glaive_held.png
+  assets/momgweapons/textures/item/glaive/zebasi_glaive.png
+  assets/momgweapons/textures/item/glaive/zebasi_glaive_held.png
+  assets/momgweapons/textures/item/greatsword/
+  assets/momgweapons/textures/item/greatsword/mysticrain_greatsword.png
+  assets/momgweapons/textures/item/greatsword/shadowsteel_greatsword.png
+  assets/momgweapons/textures/item/greatsword/skysteel_greatsword.png
+  assets/momgweapons/textures/item/halberd/
+  assets/momgweapons/textures/item/halberd/mysticrain_halberd.png
+  assets/momgweapons/textures/item/halberd/shadowsteel_halberd.png
+  assets/momgweapons/textures/item/halberd/skysteel_halberd.png
   assets/momgweapons/textures/item/hammer/
+  assets/momgweapons/textures/item/hammer/aetherium_hammer.png
+  assets/momgweapons/textures/item/hammer/citrine_hammer.png
+  assets/momgweapons/textures/item/hammer/crimsonite_hammer.png
   assets/momgweapons/textures/item/hammer/diamond_hammer.png
   assets/momgweapons/textures/item/hammer/golden_hammer.png
   assets/momgweapons/textures/item/hammer/iron_hammer.png
+  assets/momgweapons/textures/item/hammer/jade_hammer.png
+  assets/momgweapons/textures/item/hammer/mysticrain_hammer.png
   assets/momgweapons/textures/item/hammer/netherite_hammer.png
+  assets/momgweapons/textures/item/hammer/rectanglisimer_hammer.png
+  assets/momgweapons/textures/item/hammer/ruby_hammer.png
+  assets/momgweapons/textures/item/hammer/sapphire_hammer.png
+  assets/momgweapons/textures/item/hammer/shadowite_hammer.png
+  assets/momgweapons/textures/item/hammer/shadowsteel_hammer.png
+  assets/momgweapons/textures/item/hammer/skysteel_hammer.png
+  assets/momgweapons/textures/item/hammer/sliver_hammer.png
+  assets/momgweapons/textures/item/hammer/steel_hammer.png
   assets/momgweapons/textures/item/hammer/stone_hammer.png
+  assets/momgweapons/textures/item/hammer/titanium_hammer.png
+  assets/momgweapons/textures/item/hammer/titanium_quartz_hammer.png
+  assets/momgweapons/textures/item/hammer/topaz_hammer.png
+  assets/momgweapons/textures/item/hammer/white_hammer.png
   assets/momgweapons/textures/item/hammer/wooden_hammer.png
-  assets/momgweapons/textures/item/jade_club.png
-  assets/momgweapons/textures/item/jade_dagger.png
-  assets/momgweapons/textures/item/jade_glaive.png
-  assets/momgweapons/textures/item/jade_glaive_held.png
-  assets/momgweapons/textures/item/jade_hammer.png
-  assets/momgweapons/textures/item/jade_quarterstaff.png
-  assets/momgweapons/textures/item/jade_quarterstaff_held.png
-  assets/momgweapons/textures/item/jade_spear.png
-  assets/momgweapons/textures/item/jade_spear_held.png
-  assets/momgweapons/textures/item/mysticrain_club.png
-  assets/momgweapons/textures/item/mysticrain_dagger.png
-  assets/momgweapons/textures/item/mysticrain_glaive.png
-  assets/momgweapons/textures/item/mysticrain_glaive_held.png
-  assets/momgweapons/textures/item/mysticrain_hammer.png
-  assets/momgweapons/textures/item/mysticrain_quarterstaff.png
-  assets/momgweapons/textures/item/mysticrain_quarterstaff_held.png
-  assets/momgweapons/textures/item/mysticrain_spear.png
-  assets/momgweapons/textures/item/mysticrain_spear_held.png
+  assets/momgweapons/textures/item/mace/
+  assets/momgweapons/textures/item/mace/mysticrain_mace.png
+  assets/momgweapons/textures/item/mace/shadowsteel_mace.png
+  assets/momgweapons/textures/item/mace/skysteel_mace.png
+  assets/momgweapons/textures/item/maul/
+  assets/momgweapons/textures/item/maul/mysticrain_maul.png
+  assets/momgweapons/textures/item/maul/shadowsteel_maul.png
+  assets/momgweapons/textures/item/maul/skysteel_maul.png
+  assets/momgweapons/textures/item/pike/
+  assets/momgweapons/textures/item/pike/mysticrain_pike.png
+  assets/momgweapons/textures/item/pike/shadowsteel_pike.png
+  assets/momgweapons/textures/item/pike/skysteel_pike.png
+  assets/momgweapons/textures/item/quarterblade/
+  assets/momgweapons/textures/item/quarterblade/mysticrain_quarterblade.png
+  assets/momgweapons/textures/item/quarterblade/shadowsteel_quarterblade.png
+  assets/momgweapons/textures/item/quarterblade/skysteel_quarterblade.png
   assets/momgweapons/textures/item/quarterstaff/
+  assets/momgweapons/textures/item/quarterstaff/aetherium_quarterstaff.png
+  assets/momgweapons/textures/item/quarterstaff/aetherium_quarterstaff_held.png
+  assets/momgweapons/textures/item/quarterstaff/citrine_quarterstaff.png
+  assets/momgweapons/textures/item/quarterstaff/citrine_quarterstaff_held.png
+  assets/momgweapons/textures/item/quarterstaff/crimsonite_quarterstaff.png
+  assets/momgweapons/textures/item/quarterstaff/crimsonite_quarterstaff_held.png
   assets/momgweapons/textures/item/quarterstaff/diamond_quarterstaff.png
   assets/momgweapons/textures/item/quarterstaff/diamond_quarterstaff_held.png
   assets/momgweapons/textures/item/quarterstaff/golden_quarterstaff.png
   assets/momgweapons/textures/item/quarterstaff/golden_quarterstaff_held.png
   assets/momgweapons/textures/item/quarterstaff/iron_quarterstaff.png
   assets/momgweapons/textures/item/quarterstaff/iron_quarterstaff_held.png
+  assets/momgweapons/textures/item/quarterstaff/jade_quarterstaff.png
+  assets/momgweapons/textures/item/quarterstaff/jade_quarterstaff_held.png
+  assets/momgweapons/textures/item/quarterstaff/mysticrain_quarterstaff.png
+  assets/momgweapons/textures/item/quarterstaff/mysticrain_quarterstaff_held.png
   assets/momgweapons/textures/item/quarterstaff/netherite_quarterstaff.png
   assets/momgweapons/textures/item/quarterstaff/netherite_quarterstaff_held.png
+  assets/momgweapons/textures/item/quarterstaff/ruby_quarterstaff.png
+  assets/momgweapons/textures/item/quarterstaff/ruby_quarterstaff_held.png
+  assets/momgweapons/textures/item/quarterstaff/sapphire_quarterstaff.png
+  assets/momgweapons/textures/item/quarterstaff/sapphire_quarterstaff_held.png
+  assets/momgweapons/textures/item/quarterstaff/shadowite_quarterstaff.png
+  assets/momgweapons/textures/item/quarterstaff/shadowite_quarterstaff_held.png
+  assets/momgweapons/textures/item/quarterstaff/shadowsteel_quarterstaff.png
+  assets/momgweapons/textures/item/quarterstaff/shadowsteel_quarterstaff_held.png
+  assets/momgweapons/textures/item/quarterstaff/skysteel_quarterstaff.png
+  assets/momgweapons/textures/item/quarterstaff/skysteel_quarterstaff_held.png
+  assets/momgweapons/textures/item/quarterstaff/sliver_quarterstaff.png
+  assets/momgweapons/textures/item/quarterstaff/sliver_quarterstaff_held.png
+  assets/momgweapons/textures/item/quarterstaff/steel_quarterstaff.png
+  assets/momgweapons/textures/item/quarterstaff/steel_quarterstaff_held.png
   assets/momgweapons/textures/item/quarterstaff/stone_quarterstaff.png
   assets/momgweapons/textures/item/quarterstaff/stone_quarterstaff_held.png
+  assets/momgweapons/textures/item/quarterstaff/titanium_quarterstaff.png
+  assets/momgweapons/textures/item/quarterstaff/titanium_quarterstaff_held.png
+  assets/momgweapons/textures/item/quarterstaff/titanium_quartz_quarterstaff.png
+  assets/momgweapons/textures/item/quarterstaff/titanium_quartz_quarterstaff_held.png
+  assets/momgweapons/textures/item/quarterstaff/topaz_quarterstaff.png
+  assets/momgweapons/textures/item/quarterstaff/topaz_quarterstaff_held.png
+  assets/momgweapons/textures/item/quarterstaff/white_quarterstaff.png
+  assets/momgweapons/textures/item/quarterstaff/white_quarterstaff_held.png
   assets/momgweapons/textures/item/quarterstaff/wooden_quarterstaff.png
   assets/momgweapons/textures/item/quarterstaff/wooden_quarterstaff_held.png
-  assets/momgweapons/textures/item/ruby_club.png
-  assets/momgweapons/textures/item/ruby_dagger.png
-  assets/momgweapons/textures/item/ruby_glaive.png
-  assets/momgweapons/textures/item/ruby_glaive_held.png
-  assets/momgweapons/textures/item/ruby_hammer.png
-  assets/momgweapons/textures/item/ruby_quarterstaff.png
-  assets/momgweapons/textures/item/ruby_quarterstaff_held.png
-  assets/momgweapons/textures/item/ruby_spear.png
-  assets/momgweapons/textures/item/ruby_spear_held.png
-  assets/momgweapons/textures/item/sapphire_club.png
-  assets/momgweapons/textures/item/sapphire_dagger.png
-  assets/momgweapons/textures/item/sapphire_glaive.png
-  assets/momgweapons/textures/item/sapphire_glaive_held.png
-  assets/momgweapons/textures/item/sapphire_hammer.png
-  assets/momgweapons/textures/item/sapphire_quarterstaff.png
-  assets/momgweapons/textures/item/sapphire_quarterstaff_held.png
-  assets/momgweapons/textures/item/sapphire_spear.png
-  assets/momgweapons/textures/item/sapphire_spear_held.png
-  assets/momgweapons/textures/item/shadowite_club.png
-  assets/momgweapons/textures/item/shadowite_dagger.png
-  assets/momgweapons/textures/item/shadowite_glaive.png
-  assets/momgweapons/textures/item/shadowite_glaive_held.png
-  assets/momgweapons/textures/item/shadowite_hammer.png
-  assets/momgweapons/textures/item/shadowite_quarterstaff.png
-  assets/momgweapons/textures/item/shadowite_quarterstaff_held.png
-  assets/momgweapons/textures/item/shadowite_spear.png
-  assets/momgweapons/textures/item/shadowite_spear_held.png
-  assets/momgweapons/textures/item/shadowsteel_club.png
-  assets/momgweapons/textures/item/shadowsteel_dagger.png
-  assets/momgweapons/textures/item/shadowsteel_glaive.png
-  assets/momgweapons/textures/item/shadowsteel_glaive_held.png
-  assets/momgweapons/textures/item/shadowsteel_hammer.png
-  assets/momgweapons/textures/item/shadowsteel_quarterstaff.png
-  assets/momgweapons/textures/item/shadowsteel_quarterstaff_held.png
-  assets/momgweapons/textures/item/shadowsteel_spear.png
-  assets/momgweapons/textures/item/shadowsteel_spear_held.png
-  assets/momgweapons/textures/item/skysteel_club.png
-  assets/momgweapons/textures/item/skysteel_dagger.png
-  assets/momgweapons/textures/item/skysteel_glaive.png
-  assets/momgweapons/textures/item/skysteel_glaive_held.png
-  assets/momgweapons/textures/item/skysteel_hammer.png
-  assets/momgweapons/textures/item/skysteel_quarterstaff.png
-  assets/momgweapons/textures/item/skysteel_quarterstaff_held.png
-  assets/momgweapons/textures/item/skysteel_spear.png
-  assets/momgweapons/textures/item/skysteel_spear_held.png
-  assets/momgweapons/textures/item/sliver_club.png
-  assets/momgweapons/textures/item/sliver_dagger.png
-  assets/momgweapons/textures/item/sliver_glaive.png
-  assets/momgweapons/textures/item/sliver_glaive_held.png
-  assets/momgweapons/textures/item/sliver_hammer.png
-  assets/momgweapons/textures/item/sliver_quarterstaff.png
-  assets/momgweapons/textures/item/sliver_quarterstaff_held.png
-  assets/momgweapons/textures/item/sliver_spear.png
-  assets/momgweapons/textures/item/sliver_spear_held.png
+  assets/momgweapons/textures/item/scythe/
+  assets/momgweapons/textures/item/scythe/charged_scythe.png
+  assets/momgweapons/textures/item/scythe/charged_scythe.png.mcmeta
+  assets/momgweapons/textures/item/scythe/charged_scythe_held.png
+  assets/momgweapons/textures/item/scythe/charged_scythe_held.png.mcmeta
+  assets/momgweapons/textures/item/scythe/mysticrain_scythe.png
+  assets/momgweapons/textures/item/scythe/royal_scythe.png
+  assets/momgweapons/textures/item/scythe/royal_scythe_held.png
+  assets/momgweapons/textures/item/scythe/shadowsteel_scythe.png
+  assets/momgweapons/textures/item/scythe/skysteel_scythe.png
+  assets/momgweapons/textures/item/spade/
+  assets/momgweapons/textures/item/spade/mysticrain_spade.png
+  assets/momgweapons/textures/item/spade/shadowsteel_spade.png
+  assets/momgweapons/textures/item/spade/skysteel_spade.png
   assets/momgweapons/textures/item/spear/
+  assets/momgweapons/textures/item/spear/aetherium_spear.png
+  assets/momgweapons/textures/item/spear/aetherium_spear_held.png
+  assets/momgweapons/textures/item/spear/citrine_spear.png
+  assets/momgweapons/textures/item/spear/citrine_spear_held.png
+  assets/momgweapons/textures/item/spear/crimsonite_spear.png
+  assets/momgweapons/textures/item/spear/crimsonite_spear_held.png
   assets/momgweapons/textures/item/spear/diamond_spear.png
   assets/momgweapons/textures/item/spear/diamond_spear_held.png
   assets/momgweapons/textures/item/spear/golden_spear.png
   assets/momgweapons/textures/item/spear/golden_spear_held.png
+  assets/momgweapons/textures/item/spear/green_spear.png
+  assets/momgweapons/textures/item/spear/green_spear_held.png
   assets/momgweapons/textures/item/spear/iron_spear.png
   assets/momgweapons/textures/item/spear/iron_spear_held.png
+  assets/momgweapons/textures/item/spear/jade_spear.png
+  assets/momgweapons/textures/item/spear/jade_spear_held.png
+  assets/momgweapons/textures/item/spear/mysticrain_spear.png
+  assets/momgweapons/textures/item/spear/mysticrain_spear_held.png
   assets/momgweapons/textures/item/spear/netherite_spear.png
   assets/momgweapons/textures/item/spear/netherite_spear_held.png
+  assets/momgweapons/textures/item/spear/ruby_spear.png
+  assets/momgweapons/textures/item/spear/ruby_spear_held.png
+  assets/momgweapons/textures/item/spear/sapphire_spear.png
+  assets/momgweapons/textures/item/spear/sapphire_spear_held.png
+  assets/momgweapons/textures/item/spear/shadowite_spear.png
+  assets/momgweapons/textures/item/spear/shadowite_spear_held.png
+  assets/momgweapons/textures/item/spear/shadowsteel_spear.png
+  assets/momgweapons/textures/item/spear/shadowsteel_spear_held.png
+  assets/momgweapons/textures/item/spear/skysteel_spear.png
+  assets/momgweapons/textures/item/spear/skysteel_spear_held.png
+  assets/momgweapons/textures/item/spear/sliver_spear.png
+  assets/momgweapons/textures/item/spear/sliver_spear_held.png
+  assets/momgweapons/textures/item/spear/steel_spear.png
+  assets/momgweapons/textures/item/spear/steel_spear_held.png
   assets/momgweapons/textures/item/spear/stone_spear.png
   assets/momgweapons/textures/item/spear/stone_spear_held.png
+  assets/momgweapons/textures/item/spear/titanium_quartz_spear.png
+  assets/momgweapons/textures/item/spear/titanium_quartz_spear_held.png
+  assets/momgweapons/textures/item/spear/titanium_spear.png
+  assets/momgweapons/textures/item/spear/titanium_spear_held.png
+  assets/momgweapons/textures/item/spear/topaz_spear.png
+  assets/momgweapons/textures/item/spear/topaz_spear_held.png
+  assets/momgweapons/textures/item/spear/white_spear.png
+  assets/momgweapons/textures/item/spear/white_spear_held.png
   assets/momgweapons/textures/item/spear/wooden_spear.png
   assets/momgweapons/textures/item/spear/wooden_spear_held.png
-  assets/momgweapons/textures/item/steel_club.png
-  assets/momgweapons/textures/item/steel_dagger.png
-  assets/momgweapons/textures/item/steel_glaive.png
-  assets/momgweapons/textures/item/steel_glaive_held.png
-  assets/momgweapons/textures/item/steel_hammer.png
-  assets/momgweapons/textures/item/steel_quarterstaff.png
-  assets/momgweapons/textures/item/steel_quarterstaff_held.png
-  assets/momgweapons/textures/item/steel_spear.png
-  assets/momgweapons/textures/item/steel_spear_held.png
-  assets/momgweapons/textures/item/titanium_club.png
-  assets/momgweapons/textures/item/titanium_dagger.png
-  assets/momgweapons/textures/item/titanium_glaive.png
-  assets/momgweapons/textures/item/titanium_glaive_held.png
-  assets/momgweapons/textures/item/titanium_hammer.png
-  assets/momgweapons/textures/item/titanium_quarterstaff.png
-  assets/momgweapons/textures/item/titanium_quarterstaff_held.png
-  assets/momgweapons/textures/item/titanium_quartz_club.png
-  assets/momgweapons/textures/item/titanium_quartz_dagger.png
-  assets/momgweapons/textures/item/titanium_quartz_glaive.png
-  assets/momgweapons/textures/item/titanium_quartz_glaive_held.png
-  assets/momgweapons/textures/item/titanium_quartz_hammer.png
-  assets/momgweapons/textures/item/titanium_quartz_quarterstaff.png
-  assets/momgweapons/textures/item/titanium_quartz_quarterstaff_held.png
-  assets/momgweapons/textures/item/titanium_quartz_spear.png
-  assets/momgweapons/textures/item/titanium_quartz_spear_held.png
-  assets/momgweapons/textures/item/titanium_spear.png
-  assets/momgweapons/textures/item/titanium_spear_held.png
-  assets/momgweapons/textures/item/topaz_club.png
-  assets/momgweapons/textures/item/topaz_dagger.png
-  assets/momgweapons/textures/item/topaz_glaive.png
-  assets/momgweapons/textures/item/topaz_glaive_held.png
-  assets/momgweapons/textures/item/topaz_hammer.png
-  assets/momgweapons/textures/item/topaz_quarterstaff.png
-  assets/momgweapons/textures/item/topaz_quarterstaff_held.png
-  assets/momgweapons/textures/item/topaz_spear.png
-  assets/momgweapons/textures/item/topaz_spear_held.png
-  assets/momgweapons/textures/item/white_club.png
-  assets/momgweapons/textures/item/white_dagger.png
-  assets/momgweapons/textures/item/white_glaive.png
-  assets/momgweapons/textures/item/white_glaive_held.png
-  assets/momgweapons/textures/item/white_hammer.png
-  assets/momgweapons/textures/item/white_quarterstaff.png
-  assets/momgweapons/textures/item/white_quarterstaff_held.png
-  assets/momgweapons/textures/item/white_spear.png
-  assets/momgweapons/textures/item/white_spear_held.png
-  assets/momgweapons/textures/item/zebasi_glaive.png
-  assets/momgweapons/textures/item/zebasi_glaive_held.png
+  assets/momgweapons/textures/item/stiletto/
+  assets/momgweapons/textures/item/stiletto/mysticrain_stiletto.png
+  assets/momgweapons/textures/item/stiletto/shadowsteel_stiletto.png
+  assets/momgweapons/textures/item/stiletto/skysteel_stiletto.png
+  assets/momgweapons/textures/item/warpick/
+  assets/momgweapons/textures/item/warpick/mysticrain_warpick.png
+  assets/momgweapons/textures/item/warpick/shadowsteel_warpick.png
+  assets/momgweapons/textures/item/warpick/skysteel_warpick.png
+  assets/more_ores_more_gems/
+  assets/more_ores_more_gems/models/
+  assets/more_ores_more_gems/models/item/
+  assets/more_ores_more_gems/models/item/mysticrain_axe.json
+  assets/more_ores_more_gems/models/item/mysticrain_hoe.json
+  assets/more_ores_more_gems/models/item/mysticrain_pickaxe.json
+  assets/more_ores_more_gems/models/item/mysticrain_shovel.json
+  assets/more_ores_more_gems/models/item/mysticrain_sword.json
+  assets/more_ores_more_gems/models/item/shadowsteel_axe.json
+  assets/more_ores_more_gems/models/item/shadowsteel_hoe.json
+  assets/more_ores_more_gems/models/item/shadowsteel_pickaxe.json
+  assets/more_ores_more_gems/models/item/shadowsteel_shovel.json
+  assets/more_ores_more_gems/models/item/shadowsteel_sword.json
+  assets/more_ores_more_gems/models/item/skysteel_p_axe.json
+  assets/more_ores_more_gems/models/item/skysteel_p_hoe.json
+  assets/more_ores_more_gems/models/item/skysteel_p_pickaxe.json
+  assets/more_ores_more_gems/models/item/skysteel_p_shovel.json
+  assets/more_ores_more_gems/models/item/skysteel_p_sword.json
   bmomgw_icon.png
   data/
   data/momgweapons/
@@ -901,55 +957,121 @@ Writing Output: /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/reobf
   data/momgweapons/recipes/white_spear.json
   data/momgweapons/recipes/zebasi_glaive.json
   data/momgweapons/weapon_attributes/
+  data/momgweapons/weapon_attributes/aetherium_club.json
+  data/momgweapons/weapon_attributes/aetherium_dagger.json
+  data/momgweapons/weapon_attributes/aetherium_glaive.json
+  data/momgweapons/weapon_attributes/aetherium_hammer.json
+  data/momgweapons/weapon_attributes/aetherium_quarterstaff.json
+  data/momgweapons/weapon_attributes/aetherium_spear.json
   data/momgweapons/weapon_attributes/basic_club.json
   data/momgweapons/weapon_attributes/basic_dagger.json
   data/momgweapons/weapon_attributes/basic_glaive.json
   data/momgweapons/weapon_attributes/basic_hammer.json
   data/momgweapons/weapon_attributes/basic_quarterstaff.json
+  data/momgweapons/weapon_attributes/basic_scythe.json
   data/momgweapons/weapon_attributes/basic_spear.json
-  data/momgweapons/weapon_attributes/diamond_club.json
-  data/momgweapons/weapon_attributes/diamond_dagger.json
-  data/momgweapons/weapon_attributes/diamond_glaive.json
-  data/momgweapons/weapon_attributes/diamond_hammer.json
-  data/momgweapons/weapon_attributes/diamond_quarterstaff.json
-  data/momgweapons/weapon_attributes/diamond_spear.json
-  data/momgweapons/weapon_attributes/golden_club.json
-  data/momgweapons/weapon_attributes/golden_dagger.json
-  data/momgweapons/weapon_attributes/golden_glaive.json
-  data/momgweapons/weapon_attributes/golden_hammer.json
-  data/momgweapons/weapon_attributes/golden_quarterstaff.json
-  data/momgweapons/weapon_attributes/golden_spear.json
-  data/momgweapons/weapon_attributes/iron_club.json
-  data/momgweapons/weapon_attributes/iron_dagger.json
-  data/momgweapons/weapon_attributes/iron_glaive.json
-  data/momgweapons/weapon_attributes/iron_hammer.json
-  data/momgweapons/weapon_attributes/iron_quarterstaff.json
-  data/momgweapons/weapon_attributes/iron_spear.json
-  data/momgweapons/weapon_attributes/netherite_club.json
-  data/momgweapons/weapon_attributes/netherite_dagger.json
-  data/momgweapons/weapon_attributes/netherite_glaive.json
-  data/momgweapons/weapon_attributes/netherite_hammer.json
-  data/momgweapons/weapon_attributes/netherite_quarterstaff.json
-  data/momgweapons/weapon_attributes/netherite_spear.json
-  data/momgweapons/weapon_attributes/stone_club.json
-  data/momgweapons/weapon_attributes/stone_dagger.json
-  data/momgweapons/weapon_attributes/stone_glaive.json
-  data/momgweapons/weapon_attributes/stone_hammer.json
-  data/momgweapons/weapon_attributes/stone_quarterstaff.json
-  data/momgweapons/weapon_attributes/stone_spear.json
-  data/momgweapons/weapon_attributes/wooden_club.json
-  data/momgweapons/weapon_attributes/wooden_dagger.json
-  data/momgweapons/weapon_attributes/wooden_glaive.json
-  data/momgweapons/weapon_attributes/wooden_hammer.json
-  data/momgweapons/weapon_attributes/wooden_quarterstaff.json
-  data/momgweapons/weapon_attributes/wooden_spear.json
+  data/momgweapons/weapon_attributes/citrine_club.json
+  data/momgweapons/weapon_attributes/citrine_dagger.json
+  data/momgweapons/weapon_attributes/citrine_glaive.json
+  data/momgweapons/weapon_attributes/citrine_hammer.json
+  data/momgweapons/weapon_attributes/citrine_quarterstaff.json
+  data/momgweapons/weapon_attributes/citrine_spear.json
+  data/momgweapons/weapon_attributes/crimsonite_club.json
+  data/momgweapons/weapon_attributes/crimsonite_dagger.json
+  data/momgweapons/weapon_attributes/crimsonite_glaive.json
+  data/momgweapons/weapon_attributes/crimsonite_hammer.json
+  data/momgweapons/weapon_attributes/crimsonite_quarterstaff.json
+  data/momgweapons/weapon_attributes/crimsonite_spear.json
+  data/momgweapons/weapon_attributes/jade_club.json
+  data/momgweapons/weapon_attributes/jade_dagger.json
+  data/momgweapons/weapon_attributes/jade_glaive.json
+  data/momgweapons/weapon_attributes/jade_hammer.json
+  data/momgweapons/weapon_attributes/jade_quarterstaff.json
+  data/momgweapons/weapon_attributes/jade_spear.json
+  data/momgweapons/weapon_attributes/mysticrain_club.json
+  data/momgweapons/weapon_attributes/mysticrain_dagger.json
+  data/momgweapons/weapon_attributes/mysticrain_glaive.json
+  data/momgweapons/weapon_attributes/mysticrain_hammer.json
+  data/momgweapons/weapon_attributes/mysticrain_quarterstaff.json
+  data/momgweapons/weapon_attributes/mysticrain_spear.json
+  data/momgweapons/weapon_attributes/ruby_club.json
+  data/momgweapons/weapon_attributes/ruby_dagger.json
+  data/momgweapons/weapon_attributes/ruby_glaive.json
+  data/momgweapons/weapon_attributes/ruby_hammer.json
+  data/momgweapons/weapon_attributes/ruby_quarterstaff.json
+  data/momgweapons/weapon_attributes/ruby_spear.json
+  data/momgweapons/weapon_attributes/sapphire_club.json
+  data/momgweapons/weapon_attributes/sapphire_dagger.json
+  data/momgweapons/weapon_attributes/sapphire_glaive.json
+  data/momgweapons/weapon_attributes/sapphire_hammer.json
+  data/momgweapons/weapon_attributes/sapphire_quarterstaff.json
+  data/momgweapons/weapon_attributes/sapphire_spear.json
+  data/momgweapons/weapon_attributes/shadowite_club.json
+  data/momgweapons/weapon_attributes/shadowite_dagger.json
+  data/momgweapons/weapon_attributes/shadowite_glaive.json
+  data/momgweapons/weapon_attributes/shadowite_hammer.json
+  data/momgweapons/weapon_attributes/shadowite_quarterstaff.json
+  data/momgweapons/weapon_attributes/shadowite_spear.json
+  data/momgweapons/weapon_attributes/shadowsteel_club.json
+  data/momgweapons/weapon_attributes/shadowsteel_dagger.json
+  data/momgweapons/weapon_attributes/shadowsteel_glaive.json
+  data/momgweapons/weapon_attributes/shadowsteel_hammer.json
+  data/momgweapons/weapon_attributes/shadowsteel_quarterstaff.json
+  data/momgweapons/weapon_attributes/shadowsteel_spear.json
+  data/momgweapons/weapon_attributes/skysteel_club.json
+  data/momgweapons/weapon_attributes/skysteel_dagger.json
+  data/momgweapons/weapon_attributes/skysteel_glaive.json
+  data/momgweapons/weapon_attributes/skysteel_hammer.json
+  data/momgweapons/weapon_attributes/skysteel_quarterstaff.json
+  data/momgweapons/weapon_attributes/skysteel_spear.json
+  data/momgweapons/weapon_attributes/sliver_club.json
+  data/momgweapons/weapon_attributes/sliver_dagger.json
+  data/momgweapons/weapon_attributes/sliver_glaive.json
+  data/momgweapons/weapon_attributes/sliver_hammer.json
+  data/momgweapons/weapon_attributes/sliver_quarterstaff.json
+  data/momgweapons/weapon_attributes/sliver_spear.json
+  data/momgweapons/weapon_attributes/steel_club.json
+  data/momgweapons/weapon_attributes/steel_dagger.json
+  data/momgweapons/weapon_attributes/steel_glaive.json
+  data/momgweapons/weapon_attributes/steel_hammer.json
+  data/momgweapons/weapon_attributes/steel_quarterstaff.json
+  data/momgweapons/weapon_attributes/steel_spear.json
+  data/momgweapons/weapon_attributes/titanium_club.json
+  data/momgweapons/weapon_attributes/titanium_dagger.json
+  data/momgweapons/weapon_attributes/titanium_glaive.json
+  data/momgweapons/weapon_attributes/titanium_hammer.json
+  data/momgweapons/weapon_attributes/titanium_quarterstaff.json
+  data/momgweapons/weapon_attributes/titanium_quartz_club.json
+  data/momgweapons/weapon_attributes/titanium_quartz_dagger.json
+  data/momgweapons/weapon_attributes/titanium_quartz_glaive.json
+  data/momgweapons/weapon_attributes/titanium_quartz_hammer.json
+  data/momgweapons/weapon_attributes/titanium_quartz_quarterstaff.json
+  data/momgweapons/weapon_attributes/titanium_quartz_spear.json
+  data/momgweapons/weapon_attributes/titanium_spear.json
+  data/momgweapons/weapon_attributes/topaz_club.json
+  data/momgweapons/weapon_attributes/topaz_dagger.json
+  data/momgweapons/weapon_attributes/topaz_glaive.json
+  data/momgweapons/weapon_attributes/topaz_hammer.json
+  data/momgweapons/weapon_attributes/topaz_quarterstaff.json
+  data/momgweapons/weapon_attributes/topaz_spear.json
+  data/momgweapons/weapon_attributes/white_club.json
+  data/momgweapons/weapon_attributes/white_dagger.json
+  data/momgweapons/weapon_attributes/white_glaive.json
+  data/momgweapons/weapon_attributes/white_hammer.json
+  data/momgweapons/weapon_attributes/white_quarterstaff.json
+  data/momgweapons/weapon_attributes/white_spear.json
+  data/momgweapons/weapon_attributes/zebasi_glaive copy.json
+  data/momgweapons/weapon_attributes/zebasi_glaive.json
+  data/more_ores_more_gems/
+  data/more_ores_more_gems/recipes/
+  data/more_ores_more_gems/recipes/make_jade_ingot.json
   dev/
   dev/voxelparrot/
   dev/voxelparrot/momgweapons/
-  dev/voxelparrot/momgweapons/BasicWeapons$ClientModEvents.class
-  dev/voxelparrot/momgweapons/BasicWeapons.class
   dev/voxelparrot/momgweapons/Config.class
   dev/voxelparrot/momgweapons/Constants.class
+  dev/voxelparrot/momgweapons/MOMGWeapons$ClientModEvents.class
+  dev/voxelparrot/momgweapons/MOMGWeapons.class
   dev/voxelparrot/momgweapons/datagen/
   dev/voxelparrot/momgweapons/datagen/DataGenerators.class
   dev/voxelparrot/momgweapons/datagen/LootTableModification$AddToLootTables.class
@@ -968,6 +1090,7 @@ Writing Output: /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/reobf
   dev/voxelparrot/momgweapons/item/UnbreakableGlaiveItem.class
   dev/voxelparrot/momgweapons/item/UnbreakableHammerItem.class
   dev/voxelparrot/momgweapons/item/UnbreakableQuarterstaffItem.class
+  dev/voxelparrot/momgweapons/item/UnbreakableScytheItem.class
   dev/voxelparrot/momgweapons/item/UnbreakableSpearItem.class
   dev/voxelparrot/momgweapons/material/
   dev/voxelparrot/momgweapons/material/ToolMaterials$1.class
@@ -978,6 +1101,7 @@ Writing Output: /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/reobf
   dev/voxelparrot/momgweapons/material/ToolMaterials$14.class
   dev/voxelparrot/momgweapons/material/ToolMaterials$15.class
   dev/voxelparrot/momgweapons/material/ToolMaterials$16.class
+  dev/voxelparrot/momgweapons/material/ToolMaterials$17.class
   dev/voxelparrot/momgweapons/material/ToolMaterials$2.class
   dev/voxelparrot/momgweapons/material/ToolMaterials$3.class
   dev/voxelparrot/momgweapons/material/ToolMaterials$4.class
@@ -990,9 +1114,98 @@ Writing Output: /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/reobf
   dev/voxelparrot/momgweapons/mixin/
   dev/voxelparrot/momgweapons/mixin/LootTableAccessor.class
   dev/voxelparrot/momgweapons/registry/
-  dev/voxelparrot/momgweapons/registry/BWItems$ItemInfo.class
-  dev/voxelparrot/momgweapons/registry/BWItems.class
+  dev/voxelparrot/momgweapons/registry/MOMGWItems$ItemInfo.class
+  dev/voxelparrot/momgweapons/registry/MOMGWItems.class
   dev/voxelparrot/momgweapons/registry/MainRegistry.class
-  mixin.refmap.json
   momgweapons.mixins.json
   pack.mcmeta
+  resourcepacks/
+  resourcepacks/smaller_powerful_weapons/
+  resourcepacks/smaller_powerful_weapons/assets/
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/mysticrain_dagger.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/mysticrain_glaive.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/mysticrain_glaive_gui.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/mysticrain_glaive_held.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/mysticrain_hammer.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/mysticrain_quarterstaff.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/mysticrain_quarterstaff_gui.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/mysticrain_quarterstaff_held.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/mysticrain_spear.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/mysticrain_spear_gui.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/mysticrain_spear_held.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/shadowsteel_club.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/shadowsteel_dagger.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/shadowsteel_glaive.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/shadowsteel_glaive_gui.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/shadowsteel_glaive_held.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/shadowsteel_hammer.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/shadowsteel_quarterstaff.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/shadowsteel_quarterstaff_gui.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/shadowsteel_quarterstaff_held.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/shadowsteel_spear.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/shadowsteel_spear_gui.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/shadowsteel_spear_held.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/skysteel_club.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/skysteel_dagger.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/skysteel_glaive.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/skysteel_glaive_gui.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/skysteel_glaive_held.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/skysteel_hammer.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/skysteel_quarterstaff.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/skysteel_quarterstaff_gui.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/skysteel_quarterstaff_held.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/skysteel_spear.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/skysteel_spear_gui.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/models/item/skysteel_spear_held.json
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/mysticrain_club.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/mysticrain_dagger.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/mysticrain_glaive.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/mysticrain_glaive_held.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/mysticrain_hammer.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/mysticrain_quarterstaff.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/mysticrain_quarterstaff_held.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/mysticrain_spear.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/mysticrain_spear_held.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/shadowsteel_club.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/shadowsteel_dagger.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/shadowsteel_glaive.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/shadowsteel_glaive_held.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/shadowsteel_hammer.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/shadowsteel_quarterstaff.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/shadowsteel_quarterstaff_held.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/shadowsteel_spear.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/shadowsteel_spear_held.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/skysteel_club.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/skysteel_dagger.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/skysteel_glaive.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/skysteel_glaive_held.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/skysteel_hammer.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/skysteel_quarterstaff.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/skysteel_quarterstaff_held.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/skysteel_spear.png
+  resourcepacks/smaller_powerful_weapons/assets/momgweapons/textures/item/skysteel_spear_held.png
+  resourcepacks/smaller_powerful_weapons/assets/more_ores_more_gems/
+  resourcepacks/smaller_powerful_weapons/assets/more_ores_more_gems/textures/
+  resourcepacks/smaller_powerful_weapons/assets/more_ores_more_gems/textures/item/
+  resourcepacks/smaller_powerful_weapons/assets/more_ores_more_gems/textures/item/gem_r_axe.png
+  resourcepacks/smaller_powerful_weapons/assets/more_ores_more_gems/textures/item/gem_r_hoe.png
+  resourcepacks/smaller_powerful_weapons/assets/more_ores_more_gems/textures/item/gem_r_pickaxe.png
+  resourcepacks/smaller_powerful_weapons/assets/more_ores_more_gems/textures/item/gem_r_shovel.png
+  resourcepacks/smaller_powerful_weapons/assets/more_ores_more_gems/textures/item/gem_r_sword.png
+  resourcepacks/smaller_powerful_weapons/assets/more_ores_more_gems/textures/item/shadowsteel_axe_nt.png
+  resourcepacks/smaller_powerful_weapons/assets/more_ores_more_gems/textures/item/shadowsteelhoe.png
+  resourcepacks/smaller_powerful_weapons/assets/more_ores_more_gems/textures/item/shadowsteelpickaxe.png
+  resourcepacks/smaller_powerful_weapons/assets/more_ores_more_gems/textures/item/shadowsteelshovel.png
+  resourcepacks/smaller_powerful_weapons/assets/more_ores_more_gems/textures/item/shadowsteelsword.png
+  resourcepacks/smaller_powerful_weapons/assets/more_ores_more_gems/textures/item/skysteel_hoe.png
+  resourcepacks/smaller_powerful_weapons/assets/more_ores_more_gems/textures/item/skysteel_pickaxe.png
+  resourcepacks/smaller_powerful_weapons/assets/more_ores_more_gems/textures/item/skysteel_shovel.png
+  resourcepacks/smaller_powerful_weapons/assets/more_ores_more_gems/textures/item/skysteel_superaxe.png
+  resourcepacks/smaller_powerful_weapons/assets/more_ores_more_gems/textures/item/skysteel_sword.png
+  resourcepacks/smaller_powerful_weapons/pack.mcmeta
+  resourcepacks/smaller_powerful_weapons/pack.png

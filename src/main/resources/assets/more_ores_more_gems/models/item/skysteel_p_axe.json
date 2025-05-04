@@ -1,0 +1,6 @@
+{
+  "parent": "momgweapons:item/handheld_big_scythe",
+  "textures": {
+    "layer0": "momgweapons:item/battleaxe/skysteel_battleaxe"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/ruby_glaive"
+    "layer0": "momgweapons:item/glaive/ruby_glaive"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/shadowite_spear"
+    "layer0": "momgweapons:item/spear/shadowite_spear"
   }
 }

@@ -1,7 +1,7 @@
 Java Launcher: /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java
-Arguments: '--inJar, /Users/carvwest/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-injected.jar, --outJar, /Users/carvwest/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.0_mapped_official_1.20.1/forge-1.20.1-47.2.0_mapped_official_1.20.1.jar, --logFile, accesstransform.log, --atFile, /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/_atJar_4/parent_at.cfg'
+Arguments: '--inJar, /Users/carvwest/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.3.33/forge-1.20.1-47.3.33-injected.jar, --outJar, /Users/carvwest/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.3.33_mapped_official_1.20.1/forge-1.20.1-47.3.33_mapped_official_1.20.1.jar, --logFile, accesstransform.log, --atFile, /Users/carvwest/Assets/momgweapons/build/_atJar_4/parent_at.cfg'
 Classpath:
  - /Users/carvwest/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/accesstransformers/8.2.1/accesstransformers-8.2.1-fatjar.jar
-Working directory: /Users/carvwest/Downloads/basic-weapons-1.20.1-forge/build/_atJar_4
+Working directory: /Users/carvwest/Assets/momgweapons/build/_atJar_4
 Main class: net.minecraftforge.accesstransformer.TransformerProcessor
 ====================================

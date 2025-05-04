@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/steel_spear"
+    "layer0": "momgweapons:item/spear/steel_spear"
   }
 }

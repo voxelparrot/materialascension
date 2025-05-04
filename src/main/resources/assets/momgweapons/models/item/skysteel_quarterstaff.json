@@ -1,18 +1,6 @@
 {
-  "parent": "minecraft:item/handheld",
-  "loader": "forge:separate_transforms",
-  "base": {
-    "parent": "momgweapons:item/skysteel_quarterstaff_held"
-  },
-  "perspectives": {
-    "gui": {
-      "parent": "momgweapons:item/skysteel_quarterstaff_gui"
-    },
-    "ground": {
-      "parent": "momgweapons:item/skysteel_quarterstaff_gui"
-    },
-    "fixed": {
-      "parent": "momgweapons:item/skysteel_quarterstaff_gui"
-    }
+  "parent": "momgweapons:item/handheld_big_quarterstaff",
+  "textures": {
+    "layer0": "momgweapons:item/quarterblade/skysteel_quarterblade"
   }
 }

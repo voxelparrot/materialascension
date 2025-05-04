@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/jade_club"
+    "layer0": "momgweapons:item/club/jade_club"
   }
 }

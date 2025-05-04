@@ -1,5 +1,5 @@
 {
-  "parent": "momgweapons:item/handheld_big_staff",
+  "parent": "momgweapons:item/handheld_big_quarterstaff",
   "textures": {
     "layer0": "momgweapons:item/quarterstaff/netherite_quarterstaff_held"
   }

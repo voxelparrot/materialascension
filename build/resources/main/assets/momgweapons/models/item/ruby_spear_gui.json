@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/ruby_spear"
+    "layer0": "momgweapons:item/spear/ruby_spear"
   }
 }

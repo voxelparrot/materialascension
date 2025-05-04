@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/aetherium_quarterstaff"
+    "layer0": "momgweapons:item/quarterstaff/aetherium_quarterstaff"
   }
 }

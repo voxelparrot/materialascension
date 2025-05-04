@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/topaz_dagger"
+    "layer0": "momgweapons:item/dagger/topaz_dagger"
   }
 }

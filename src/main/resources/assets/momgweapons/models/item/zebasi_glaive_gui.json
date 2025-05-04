@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/zebasi_glaive"
+    "layer0": "momgweapons:item/glaive/zebasi_glaive"
   }
 }

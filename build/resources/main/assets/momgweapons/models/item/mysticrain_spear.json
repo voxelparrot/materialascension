@@ -1,18 +1,6 @@
 {
-  "parent": "minecraft:item/handheld",
-  "loader": "forge:separate_transforms",
-  "base": {
-    "parent": "momgweapons:item/mysticrain_spear_held"
-  },
-  "perspectives": {
-    "gui": {
-      "parent": "momgweapons:item/mysticrain_spear_gui"
-    },
-    "ground": {
-      "parent": "momgweapons:item/mysticrain_spear_gui"
-    },
-    "fixed": {
-      "parent": "momgweapons:item/mysticrain_spear_gui"
-    }
+  "parent": "momgweapons:item/handheld_big_spear",
+  "textures": {
+    "layer0": "momgweapons:item/pike/mysticrain_pike"
   }
 }

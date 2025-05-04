@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/topaz_quarterstaff"
+    "layer0": "momgweapons:item/quarterstaff/topaz_quarterstaff"
   }
 }
