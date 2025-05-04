@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " j ",
+    "jij",
+    " j "
+  ],
+  "key": {
+    "j": {
+      "item": "more_ores_more_gems:jade"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:jade_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "momgweapons:item/scythe/royal_scythe_held"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "momgweapons:item/scythe/royal_scythe_gui"
+    },
+    "ground": {
+      "parent": "momgweapons:item/scythe/royal_scythe_gui"
+    },
+    "fixed": {
+      "parent": "momgweapons:item/scythe/royal_scythe_gui"
+    }
+  }
+}
