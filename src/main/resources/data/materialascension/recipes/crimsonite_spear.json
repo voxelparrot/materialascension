@@ -10,7 +10,7 @@
       "tag": "forge:plates/crimsonite"
     },
     "/": {
-      "item": "create_momg:tool_handle"
+      "item": "materialascension:tool_handle"
     }
   },
   "result": {

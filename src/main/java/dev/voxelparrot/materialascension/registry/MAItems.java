@@ -134,7 +134,7 @@ public class MAItems {
     *  ARTIFACTS                          */
       /* Zebasi Glaive
       *  Lights enemies on fire           */
-    items.add(new ItemInfo("glaive", "zebasi_glaive", () -> new UnbreakableGlaiveItem(ToolMaterials.ARTIFACT, 5, -3.2f, new Item.Properties())));
+    items.add(new ItemInfo("glaive", "zebasi_glaive", () -> new UnbreakableGlaiveItem(ToolMaterials.ARTIFACT, glaiveDamage + 3, glaiveSpeed - 0.4f, new Item.Properties())));
       /* Bread Club
       *  On use applies saturation        */
 
@@ -162,9 +162,9 @@ public class MAItems {
       items.add(new ItemInfo("scythe", "charged_scythe", () -> new UnbreakableScytheItem(ToolMaterials.ARTIFACT, 5, -3.2f, new Item.Properties())));
     */
     /* QITQIAST TRVYSHMAODOZRT HTRRM */
-    items.add(new ItemInfo("dagger", "purpular_dagger", () -> new UnbreakableDaggerItem(ToolMaterials.ARTIFACT, 5, -3.2f, new Item.Properties())));
-    items.add(new ItemInfo("hammer", "rectanglisimer_hammer", () -> new UnbreakableHammerItem(ToolMaterials.ARTIFACT, 5, -3.2f, new Item.Properties())));
-    items.add(new ItemInfo("spear", "green_spear", () -> new UnbreakableSpearItem(ToolMaterials.ARTIFACT, 5, -3.2f, new Item.Properties())));
+    items.add(new ItemInfo("dagger", "purpular_dagger", () -> new UnbreakableDaggerItem(ToolMaterials.ARTIFACT, daggerDamage + 3, daggerSpeed - 0.4f, new Item.Properties())));
+    items.add(new ItemInfo("hammer", "rectanglisimer_hammer", () -> new UnbreakableHammerItem(ToolMaterials.ARTIFACT, hammerDamage + 3, hammerSpeed - 0.4f, new Item.Properties())));
+    items.add(new ItemInfo("spear", "green_spear", () -> new UnbreakableSpearItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed - 0.4f, new Item.Properties())));
     /* Components */
     items.add(new ItemInfo("sheet", "aetherium_sheet", BasicComponentItem::new));
     items.add(new ItemInfo("sheet", "sliver_sheet", BasicComponentItem::new));

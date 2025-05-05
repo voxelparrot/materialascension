@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:gems/citrine"
+    }
+  ],
+  "results": [
+    {
+      "item": "materialascension:citrine_plate"
+    }
+  ]
+}

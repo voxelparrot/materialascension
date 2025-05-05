@@ -9,7 +9,7 @@
       "tag": "forge:plates/sliver"
     },
     "/": {
-      "item": "create_momg:tool_handle"
+      "item": "materialascension:tool_handle"
     }
   },
   "result": {

@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:gems/sunflare"
+    }
+  ],
+  "results": [
+    {
+      "item": "materialascension:sunflare_plate"
+    }
+  ]
+}

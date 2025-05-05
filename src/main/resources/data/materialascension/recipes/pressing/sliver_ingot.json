@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/sliver"
+    }
+  ],
+  "results": [
+    {
+      "item": "materialascension:sliver_sheet"
+    }
+  ]
+}
