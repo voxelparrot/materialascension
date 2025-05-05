@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mysticrain_club",
+  "pattern": [
+    " #",
+    "# ",
+    "/ "
+  ],
+  "key": {
+    "#": {
+      "item": "more_ores_more_gems:mysticrain_quartz"
+    },
+    "/": {
+      "item": "create_momg:tool_handle"
+    }
+  },
+  "result": {
+    "item": "materialascension:mysticrain_club",
+    "count": 1
+  }
+}

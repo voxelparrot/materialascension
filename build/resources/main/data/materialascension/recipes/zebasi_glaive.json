@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ON",
+    "O/ ",
+    "S  "
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:ingots/steel"
+    },
+    "/": {
+      "item": "materialascension:skysteel_glaive"
+    },
+    "O": {
+      "item": "minecraft:flint"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "materialascension:zebasi_glaive",
+    "count": 1
+  }
+}

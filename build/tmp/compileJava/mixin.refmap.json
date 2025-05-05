@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "dev/voxelparrot/materialascension/mixin/LootTableAccessor": {
+      "pools": "f_79109_:Ljava/util/List;"
+    }
+  },
+  "data": {
+    "searge": {
+      "dev/voxelparrot/materialascension/mixin/LootTableAccessor": {
+        "pools": "f_79109_:Ljava/util/List;"
+      }
+    }
+  }
+}
