@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "momgweapons:item/skysteel_hammer"
+    "layer0": "materialascension:item/skysteel_hammer"
   }
 }

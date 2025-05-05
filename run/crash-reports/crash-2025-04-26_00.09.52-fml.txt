@@ -58,7 +58,7 @@ Details:
 		at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?] {}
 		at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?] {}
 
-	Mod File: /Users/carvwest/Assets/momgweapons/run/mods/more_ores_more_gems-1.0.9-forge-1.20.1.jar
+	Mod File: /Users/carvwest/Assets/materialascension/run/mods/more_ores_more_gems-1.0.9-forge-1.20.1.jar
 	Failure message: More Ores More Gems (more_ores_more_gems) has failed to load correctly
 		java.lang.reflect.InvocationTargetException: null
 	Mod Version: 1.0.9
@@ -102,7 +102,7 @@ Details:
 		at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?] {}
 		at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?] {}
 
-	Mod File: /Users/carvwest/Assets/momgweapons/run/mods/early_game_additions-1.2.1-forge-1.20.1.jar
+	Mod File: /Users/carvwest/Assets/materialascension/run/mods/early_game_additions-1.2.1-forge-1.20.1.jar
 	Failure message: Early Game Additions (early_game_additions) has failed to load correctly
 		java.lang.reflect.InvocationTargetException: null
 	Mod Version: 1.2.1
@@ -145,7 +145,7 @@ Details:
 		at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?] {}
 		at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?] {}
 
-	Mod File: /Users/carvwest/Assets/momgweapons/run/mods/create_momg-1.1.0-forge-1.20.1.jar
+	Mod File: /Users/carvwest/Assets/materialascension/run/mods/create_momg-1.1.0-forge-1.20.1.jar
 	Failure message: Create: More Ores More Gems (create_momg) has failed to load correctly
 		java.lang.reflect.InvocationTargetException: null
 	Mod Version: 1.1.0
@@ -223,7 +223,7 @@ Details:
 		javafml@null
 	Mod List: 
 		forge-1.20.1-47.2.0_mapped_official_1.20.1-recomp.|Minecraft                     |minecraft                     |1.20.1              |COMMON_SET|Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
-		main                                              |More Ores More Gems More Weapo|momgweapons                   |1.1.3+1.20.1        |COMMON_SET|Manifest: NOSIGNATURE
+		main                                              |More Ores More Gems More Weapo|materialascension                   |1.1.3+1.20.1        |COMMON_SET|Manifest: NOSIGNATURE
 		                                                  |Forge                         |forge                         |47.2.0              |COMMON_SET|Manifest: NOSIGNATURE
 		more_ores_more_gems-1.0.9-forge-1.20.1.jar        |More Ores More Gems           |more_ores_more_gems           |1.0.9               |ERROR     |Manifest: NOSIGNATURE
 		early_game_additions-1.2.1-forge-1.20.1.jar       |Early Game Additions          |early_game_additions          |1.2.1               |ERROR     |Manifest: NOSIGNATURE

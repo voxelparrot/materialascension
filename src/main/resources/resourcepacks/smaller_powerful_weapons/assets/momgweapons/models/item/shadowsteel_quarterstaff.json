@@ -2,17 +2,17 @@
   "parent": "minecraft:item/handheld",
   "loader": "forge:separate_transforms",
   "base": {
-    "parent": "momgweapons:item/shadowsteel_quarterstaff_held"
+    "parent": "materialascension:item/shadowsteel_quarterstaff_held"
   },
   "perspectives": {
     "gui": {
-      "parent": "momgweapons:item/shadowsteel_quarterstaff_gui"
+      "parent": "materialascension:item/shadowsteel_quarterstaff_gui"
     },
     "ground": {
-      "parent": "momgweapons:item/shadowsteel_quarterstaff_gui"
+      "parent": "materialascension:item/shadowsteel_quarterstaff_gui"
     },
     "fixed": {
-      "parent": "momgweapons:item/shadowsteel_quarterstaff_gui"
+      "parent": "materialascension:item/shadowsteel_quarterstaff_gui"
     }
   }
 }

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " OH",
+    "O/ ",
+    "/  "
+  ],
+  "key": {
+    "H": {
+      "tag": "forge:ingots/jade"
+    },
+    "/": {
+      "item": "create_momg:tool_handle"
+    },
+    "O": {
+      "tag": "forge:plates/jade"
+    }
+  },
+  "result": {
+    "item": "materialascension:jade_glaive",
+    "count": 1
+  }
+}

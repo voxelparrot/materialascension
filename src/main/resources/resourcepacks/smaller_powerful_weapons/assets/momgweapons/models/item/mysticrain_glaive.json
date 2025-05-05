@@ -2,17 +2,17 @@
   "parent": "minecraft:item/handheld",
   "loader": "forge:separate_transforms",
   "base": {
-    "parent": "momgweapons:item/mysticrain_glaive_held"
+    "parent": "materialascension:item/mysticrain_glaive_held"
   },
   "perspectives": {
     "gui": {
-      "parent": "momgweapons:item/mysticrain_glaive_gui"
+      "parent": "materialascension:item/mysticrain_glaive_gui"
     },
     "ground": {
-      "parent": "momgweapons:item/mysticrain_glaive_gui"
+      "parent": "materialascension:item/mysticrain_glaive_gui"
     },
     "fixed": {
-      "parent": "momgweapons:item/mysticrain_glaive_gui"
+      "parent": "materialascension:item/mysticrain_glaive_gui"
     }
   }
 }

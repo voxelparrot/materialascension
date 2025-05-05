@@ -1,0 +1,8 @@
+#None of these configs work yet they're just placeholders (you can assume that their values are the defaults)
+#Whether to include the artifact class weapons (default = true)
+includeArtifacts = true
+#Whether to include the unique rarity weapons (default = false)
+includeUniqueWeapons = false
+#Whether to include the special qitqiast weapons (default = true) (if you are akaash please keep this as true)
+includeQitqiastWeapons = true
+

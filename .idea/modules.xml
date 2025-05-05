@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/momgweapons.main.iml" filepath="$PROJECT_DIR$/.idea/modules/momgweapons.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/materialascension.main.iml" filepath="$PROJECT_DIR$/.idea/modules/materialascension.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/materialascension.test.iml" filepath="$PROJECT_DIR$/.idea/modules/materialascension.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/momgweapons.test.iml" filepath="$PROJECT_DIR$/.idea/modules/momgweapons.test.iml" />
     </modules>
   </component>

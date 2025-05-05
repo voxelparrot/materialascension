@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  /",
+    " O ",
+    "/  "
+  ],
+  "key": {
+    "/": {
+      "item": "create_momg:tool_handle"
+    },
+    "O": {
+      "tag": "forge:ingots/sliver"
+    }
+  },
+  "result": {
+    "item": "materialascension:sliver_quarterstaff",
+    "count": 1
+  }
+}
