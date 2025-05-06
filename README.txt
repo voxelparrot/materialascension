@@ -4,7 +4,7 @@ Brings the vanilla+ weaponry of Basic Weapons to the material variety of More Or
 
 Required...
 MORE ORES MORE GEMS:  https://www.curseforge.com/minecraft/mc-mods/more-ores-more-gems
-CREATE MORE ORES MORE GEMS
+CREATE: https://modrinth.com/mod/create
 
 Optional...
 BETTER COMBAT: https://github.com/ZsoltMolnarrr/BetterCombat
