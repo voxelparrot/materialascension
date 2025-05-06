@@ -1,9 +1,5 @@
 package dev.voxelparrot.materialascension.registry;
 
-import dev.voxelparrot.materialascension.Config;
-import dev.voxelparrot.materialascension.item.*;
-import dev.voxelparrot.materialascension.material.*;
-import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.material.MapColor;

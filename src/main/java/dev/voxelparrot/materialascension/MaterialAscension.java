@@ -3,10 +3,6 @@ package dev.voxelparrot.materialascension;
 import dev.voxelparrot.materialascension.registry.MABlocks;
 import dev.voxelparrot.materialascension.registry.MAItems;
 import dev.voxelparrot.materialascension.registry.MainRegistry;
-import net.minecraft.core.registries.Registries;
-import net.minecraft.network.chat.Component;
-import net.minecraft.resources.ResourceKey;
-import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.*;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -22,10 +18,6 @@ import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.registries.RegistryObject;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-
 import static dev.voxelparrot.materialascension.Constants.MA_ID;
 import static dev.voxelparrot.materialascension.Constants.MA_LOG;
 import static dev.voxelparrot.materialascension.registry.MainRegistry.registeredItems;
@@ -40,19 +32,21 @@ public class MaterialAscension {
     MinecraftForge.EVENT_BUS.register(this);
     Constants.MA_LOG.info("You have my steel-handled mysticrain quartz greatsword.");
 
+
+
     MAItems.init();
     MABlocks.init();
     MainRegistry.preInit();
     MainRegistry.init(modEventBus);
 
     modEventBus.addListener(this::addCreative);
-    ModLoadingContext.get().registerConfig(ModConfig.Type.COMMON, Config.SPEC);
+    ModLoadingContext.get().registerConfig(ModConfig.Type.COMMON, Config.GENERAL_SPEC, "materialascension.toml");
   }
 
   private void addCreative(BuildCreativeModeTabContentsEvent event) {
     for (RegistryObject<Item> reg : registeredItems) {
       Item item = reg.get();
-      if (!(item instanceof TieredItem tieredItem)) continue;
+      if (!(item instanceof TieredItem)) continue;
 
       // Infer weaponType from the class name or add a field if needed
       String name = reg.getId().getPath(); // e.g. "dagger_bronze"
@@ -70,11 +64,13 @@ public class MaterialAscension {
               || lower.contains("plate")
               || lower.contains("handle");
 
+      boolean isMisc = lower.contains("misc");
+
       if (isWeapon) {
         if (event.getTabKey() == CreativeModeTabs.COMBAT) {
           event.accept(item, DEFAULT_VISIBILITY);
         }
-      } else if (isComponent) {
+      } else if (isComponent || isMisc) {
         if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
           event.accept(item, DEFAULT_VISIBILITY);
         }

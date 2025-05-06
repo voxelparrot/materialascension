@@ -2,9 +2,7 @@ package dev.voxelparrot.materialascension;
 
 import net.minecraft.resources.ResourceLocation;
 import net.minecraftforge.common.ForgeConfigSpec;
-import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.fml.event.config.ModConfigEvent;
 import net.minecraftforge.registries.ForgeRegistries;
 
 import static dev.voxelparrot.materialascension.Constants.MA_ID;
@@ -14,37 +12,40 @@ import static dev.voxelparrot.materialascension.Constants.MA_ID;
 @Mod.EventBusSubscriber(modid = MA_ID, bus = Mod.EventBusSubscriber.Bus.MOD)
 public class Config
 {
-    private static final ForgeConfigSpec.Builder BUILDER = new ForgeConfigSpec.Builder();
+    public static final ForgeConfigSpec GENERAL_SPEC;
 
-    private static final ForgeConfigSpec.BooleanValue INCLUDE_ARTIFACTS = BUILDER
-            .comment("None of these configs work yet they're just placeholders (you can assume that their values are the defaults)")
-            .comment("Whether to include the artifact class weapons (default = true)")
-            .define("includeArtifacts", true);
+    static {
+        ForgeConfigSpec.Builder configBuilder = new ForgeConfigSpec.Builder();
+        setupConfig(configBuilder);
+        GENERAL_SPEC = configBuilder.build();
+    }
 
-    private static final ForgeConfigSpec.BooleanValue INCLUDE_UNIQUES = BUILDER
-            .comment("Whether to include the unique rarity weapons (default = false)")
-            .define("includeUniqueWeapons", false);
+    public static ForgeConfigSpec.BooleanValue includeArtifacts;
+    public static ForgeConfigSpec.BooleanValue includeUniqueWeapons;
+    public static ForgeConfigSpec.BooleanValue includeQitqiastWeapons;
 
-    private static final ForgeConfigSpec.BooleanValue INCLUDE_QITQIAST = BUILDER
-            .comment("Whether to include the special qitqiast weapons (default = true) (if you are akaash please keep this as true)")
-            .define("includeQitqiastWeapons", true);
+    private static void setupConfig(ForgeConfigSpec.Builder builder) {
 
-    static final ForgeConfigSpec SPEC = BUILDER.build();
+        includeArtifacts = builder
+                .comment("Whether to include the artifact class weapons (default = true)")
+                .define("include_artifacts", true);
 
-    public static boolean includeArtifacts;
-    public static boolean includeUniqueWeapons;
-    public static boolean includeQitqiastWeapons;
+        includeUniqueWeapons = builder
+                .comment("Whether to include the unique rarity weapons (default = false)")
+                .define("include_unique_weapons", false);
+
+        includeQitqiastWeapons = builder
+                .comment("Whether to include the special qitqiast weapons (default = true) (if you are akaash please keep this as true)")
+                .define("include_qitqiast_weapons", true);
+
+        builder.pop();
+        builder.pop();
+        builder.pop();
+    }
 
     private static boolean validateItemName(final Object obj)
     {
         return obj instanceof final String itemName && ForgeRegistries.ITEMS.containsKey(new ResourceLocation(itemName));
     }
 
-    @SubscribeEvent
-    static void onLoad(final ModConfigEvent event)
-    {
-        includeArtifacts = INCLUDE_ARTIFACTS.get();
-        includeUniqueWeapons = INCLUDE_UNIQUES.get();
-        includeQitqiastWeapons = INCLUDE_QITQIAST.get();
-    }
 }
