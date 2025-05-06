@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sapphire_plate",
+  "pattern": [
+    "GG"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:gems/sapphire"
+    }
+  },
+  "result": {
+    "item": "materialascension:sapphire_plate",
+    "count": 2
+  }
+}

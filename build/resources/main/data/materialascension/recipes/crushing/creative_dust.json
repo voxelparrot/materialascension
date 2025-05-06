@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "more_ores_more_gems:ussingite"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "count": 2,
+      "item": "materialascension:creative_dust"
+    },
+    {
+      "chance": 0.5,
+      "item": "materialascension:creative_dust"
+    }
+  ]
+}
