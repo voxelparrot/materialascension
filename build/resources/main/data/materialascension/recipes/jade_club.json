@@ -11,7 +11,7 @@
       "tag": "forge:ingots/jade"
     },
     "/": {
-      "item": "create_momg:tool_handle"
+      "item": "materialascension:tool_handle"
     }
   },
   "result": {

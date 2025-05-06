@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "count": 2,
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "tag": "materialascension:carbon"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "more_ores_more_gems:steel_ingot"
+    }
+  ]
+}

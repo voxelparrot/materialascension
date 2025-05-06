@@ -745,7 +745,7 @@ public class ToolMaterials {
         }
     };
 
-    public static final Tier JADE = new Tier() { /* UNFINISHED */
+    public static final Tier JADE = new Tier() { /* DONE */
         /* Durability */
         @Override
         public int getUses() {
@@ -794,7 +794,7 @@ public class ToolMaterials {
         }
     };
 
-    public static final Tier ARTIFACT = new Tier() { /* UNFINISHED */
+    public static final Tier ARTIFACT = new Tier() { /* DONE */
         /* Durability */
         @Override
         public int getUses() {

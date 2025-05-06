@@ -1,5 +1,6 @@
 package dev.voxelparrot.materialascension;
 
+import dev.voxelparrot.materialascension.registry.MABlocks;
 import dev.voxelparrot.materialascension.registry.MAItems;
 import dev.voxelparrot.materialascension.registry.MainRegistry;
 import net.minecraft.core.registries.Registries;
@@ -40,6 +41,7 @@ public class MaterialAscension {
     Constants.MA_LOG.info("You have my steel-handled mysticrain quartz greatsword.");
 
     MAItems.init();
+    MABlocks.init();
     MainRegistry.preInit();
     MainRegistry.init(modEventBus);
 
