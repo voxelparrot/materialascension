@@ -1,6 +1,6 @@
 {
-  "parent": "momgweapons:item/handheld_big_scythe",
+  "parent": "materialascension:item/handheld_big_scythe",
   "textures": {
-    "layer0": "momgweapons:item/spade/skysteel_spade"
+    "layer0": "materialascension:item/spade/skysteel_spade"
   }
 }

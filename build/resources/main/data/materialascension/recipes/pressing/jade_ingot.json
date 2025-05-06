@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/jade"
+    }
+  ],
+  "results": [
+    {
+      "item": "materialascension:jade_sheet"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "parent": "momgweapons:item/handheld_big_scythe",
+  "parent": "materialascension:item/handheld_big_scythe",
   "textures": {
-    "layer0": "momgweapons:item/battleaxe/mysticrain_battleaxe"
+    "layer0": "materialascension:item/battleaxe/mysticrain_battleaxe"
   }
 }

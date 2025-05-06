@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/titanium_quartz"
+    }
+  ],
+  "results": [
+    {
+      "item": "materialascension:titanium_quartz_sheet"
+    }
+  ]
+}

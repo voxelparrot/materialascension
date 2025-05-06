@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ruby_club",
+  "pattern": [
+    "# ",
+    " #",
+    " /"
+  ],
+  "key": {
+    "#": {
+      "item": "more_ores_more_gems:ruby_pack"
+    },
+    "/": {
+      "item": "materialascension:tool_handle"
+    }
+  },
+  "result": {
+    "item": "materialascension:ruby_club",
+    "count": 1
+  }
+}

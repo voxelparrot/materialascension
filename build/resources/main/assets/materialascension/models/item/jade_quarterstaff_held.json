@@ -1,0 +1,6 @@
+{
+  "parent": "materialascension:item/handheld_big_quarterstaff",
+  "textures": {
+    "layer0": "materialascension:item/quarterstaff/jade_quarterstaff_held"
+  }
+}

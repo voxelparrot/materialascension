@@ -1,0 +1,6 @@
+{
+  "parent": "materialascension:item/handheld_big_scythe",
+  "textures": {
+    "layer0": "materialascension:item/mace/skysteel_mace"
+  }
+}

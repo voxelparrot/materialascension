@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/aetherium"
+    }
+  ],
+  "results": [
+    {
+      "item": "materialascension:aetherium_sheet"
+    }
+  ]
+}

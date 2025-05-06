@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "citrine_plate",
+  "pattern": [
+    "GG"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:gems/citrine"
+    }
+  },
+  "result": {
+    "item": "materialascension:citrine_plate",
+    "count": 2
+  }
+}

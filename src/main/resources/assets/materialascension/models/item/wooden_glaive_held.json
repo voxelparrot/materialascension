@@ -1,0 +1,6 @@
+{
+  "parent": "materialascension:item/handheld_big_glaive",
+  "textures": {
+    "layer0": "materialascension:item/glaive/wooden_glaive_held"
+  }
+}

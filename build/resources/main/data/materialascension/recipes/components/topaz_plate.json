@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "topaz_plate",
+  "pattern": [
+    "GG"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:gems/topaz"
+    }
+  },
+  "result": {
+    "item": "materialascension:topaz_plate",
+    "count": 2
+  }
+}

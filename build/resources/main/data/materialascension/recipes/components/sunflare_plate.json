@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sunflare_plate",
+  "pattern": [
+    "GG"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:gems/sunflare"
+    }
+  },
+  "result": {
+    "item": "materialascension:sunflare_plate",
+    "count": 2
+  }
+}

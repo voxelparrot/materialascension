@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " OO",
+    "O/ ",
+    "/  "
+  ],
+  "key": {
+    "/": {
+      "item": "materialascension:tool_handle"
+    },
+    "O": {
+      "tag": "forge:plates/titanium_quartz"
+    }
+  },
+  "result": {
+    "item": "materialascension:titanium_quartz_glaive",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/skysteel"
+    }
+  ],
+  "results": [
+    {
+      "item": "materialascension:skysteel_sheet"
+    }
+  ]
+}

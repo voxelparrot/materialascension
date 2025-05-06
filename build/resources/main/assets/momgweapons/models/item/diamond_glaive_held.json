@@ -1,6 +1,0 @@
-{
-  "parent": "momgweapons:item/handheld_big_glaive",
-  "textures": {
-    "layer0": "momgweapons:item/glaive/diamond_glaive_held"
-  }
-}

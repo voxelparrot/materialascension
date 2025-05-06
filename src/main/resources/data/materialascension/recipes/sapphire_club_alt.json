@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sapphire_club",
+  "pattern": [
+    "# ",
+    " #",
+    " /"
+  ],
+  "key": {
+    "#": {
+      "item": "more_ores_more_gems:sapphire"
+    },
+    "/": {
+      "item": "materialascension:tool_handle"
+    }
+  },
+  "result": {
+    "item": "materialascension:sapphire_club",
+    "count": 1
+  }
+}

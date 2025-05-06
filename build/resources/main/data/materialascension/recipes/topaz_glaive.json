@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " OO",
+    "O/ ",
+    "/  "
+  ],
+  "key": {
+    "/": {
+      "item": "materialascension:tool_handle"
+    },
+    "O": {
+      "item": "more_ores_more_gems:topaz"
+    }
+  },
+  "result": {
+    "item": "materialascension:topaz_glaive",
+    "count": 1
+  }
+}

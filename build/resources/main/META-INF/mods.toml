@@ -15,7 +15,7 @@ license="MIT"
 # A list of mods - how many allowed here is determined by the individual mod loader
 [[mods]] #mandatory
 # The modid of the mod
-modId="momgweapons" #mandatory
+modId="materialascension" #mandatory
 # The version number of the mod
 version="1.1.5+1.20.1" #mandatory
 # A display name for the mod
@@ -41,7 +41,7 @@ authors="voxelparrot, Khazoda" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''Brings the vanilla+ weaponry of Basic Weapons to the material variety of More Ores More Gems'''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
-[[dependencies.momgweapons]] #optional
+[[dependencies.materialascension]] #optional
     # the modid of the dependency
     modId="forge" #mandatory
     # Does this dependency have to exist - if not, ordering below must be specified
@@ -55,7 +55,7 @@ description='''Brings the vanilla+ weaponry of Basic Weapons to the material var
     # Side this dependency is applied on - BOTH, CLIENT, or SERVER
     side="BOTH"
 # Here's another dependency
-[[dependencies.momgweapons]]
+[[dependencies.materialascension]]
     modId="minecraft"
     mandatory=true
     # This version range declares a minimum of the current minecraft version up to but not including the next major version
@@ -66,5 +66,5 @@ description='''Brings the vanilla+ weaponry of Basic Weapons to the material var
 # Features are specific properties of the game environment, that you may want to declare you require. This example declares
 # that your mod requires GL version 3.2 or higher. Other features will be added. They are side aware so declaring this won't
 # stop your mod loading on the server for example.
-#[features.momgweapons]
+#[features.materialascension]
 #openGLVersion="[3.2,)"
