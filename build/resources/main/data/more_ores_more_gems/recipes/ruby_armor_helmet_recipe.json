@@ -1,0 +1,17 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "ccc",
+    "c c"
+  ],
+  "key": {
+    "c": {
+      "tag": "forge:plates/ruby"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:ruby_armor_helmet",
+    "count": 1
+  }
+}

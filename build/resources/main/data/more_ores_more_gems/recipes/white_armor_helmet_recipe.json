@@ -1,0 +1,17 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "ccc",
+    "c c"
+  ],
+  "key": {
+    "c": {
+      "tag": "forge:plates/white_crystal"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:white_armor_helmet",
+    "count": 1
+  }
+}

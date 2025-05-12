@@ -1,0 +1,21 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "p",
+    "b",
+    "b"
+  ],
+  "key": {
+    "p": {
+      "tag": "forge:plates/jade"
+    },
+    "b": {
+      "tag": "forge:handles/iron"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:jade_5_shovel",
+    "count": 1
+  }
+}

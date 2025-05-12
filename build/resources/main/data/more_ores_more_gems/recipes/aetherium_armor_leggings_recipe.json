@@ -1,0 +1,18 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "aaa",
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:plates/aetherium"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:aetherium_armor_leggings",
+    "count": 1
+  }
+}

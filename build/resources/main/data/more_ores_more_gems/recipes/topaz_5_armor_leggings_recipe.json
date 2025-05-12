@@ -1,0 +1,18 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "ccc",
+    "c c",
+    "c c"
+  ],
+  "key": {
+    "c": {
+      "tag": "forge:plates/topaz"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:topaz_5_armor_leggings",
+    "count": 1
+  }
+}

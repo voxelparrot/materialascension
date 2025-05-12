@@ -1,0 +1,24 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "pattern": [
+    "pc",
+    "pb",
+    " b"
+  ],
+  "key": {
+    "p": {
+      "tag": "forge:plates/shadowite"
+    },
+    "c": {
+      "tag": "forge:ingots/shadowite"
+    },
+    "b": {
+      "tag": "forge:handles/iron"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:shadowite_1_axe",
+    "count": 1
+  }
+}

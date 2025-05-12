@@ -1,0 +1,17 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "p p",
+    "p p"
+  ],
+  "key": {
+    "p": {
+      "tag": "forge:plates/sliver"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:sliver_armor_boots",
+    "count": 1
+  }
+}

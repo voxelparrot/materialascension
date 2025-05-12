@@ -1,0 +1,17 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "p p",
+    "p p"
+  ],
+  "key": {
+    "p": {
+      "tag": "forge:plates/steel"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:steel_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "pattern": [
+    "p",
+    "b",
+    "b"
+  ],
+  "key": {
+    "p": {
+      "tag": "forge:plates/sapphire"
+    },
+    "b": {
+      "tag": "forge:handles/iron"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:sapphirel_shovel",
+    "count": 1
+  }
+}

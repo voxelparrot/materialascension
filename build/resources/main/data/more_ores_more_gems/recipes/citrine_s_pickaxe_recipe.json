@@ -1,0 +1,24 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "pattern": [
+    "pcp",
+    " b ",
+    " b "
+  ],
+  "key": {
+    "p": {
+      "tag": "forge:plates/citrine"
+    },
+    "c": {
+      "tag": "forge:gems/citrine"
+    },
+    "b": {
+      "tag": "forge:handles/iron"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:citrine_s_pickaxe",
+    "count": 1
+  }
+}

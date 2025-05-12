@@ -1,0 +1,21 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "s",
+    "s",
+    "b"
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:plates/sliver"
+    },
+    "b": {
+      "tag": "forge:handles/wood"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:sliver_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "pattern": [
+    "p",
+    "b",
+    "b"
+  ],
+  "key": {
+    "p": {
+      "tag": "forge:plates/white_crystal"
+    },
+    "b": {
+      "tag": "forge:handles/iron"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:white_shovel",
+    "count": 1
+  }
+}

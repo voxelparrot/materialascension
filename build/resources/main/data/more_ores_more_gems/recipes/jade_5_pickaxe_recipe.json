@@ -1,0 +1,24 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "pcp",
+    " b ",
+    " b "
+  ],
+  "key": {
+    "p": {
+      "tag": "forge:plates/jade"
+    },
+    "c": {
+      "tag": "forge:ingots/jade"
+    },
+    "b": {
+      "tag": "forge:handles/iron"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:jade_5_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "ppp",
+    "p p",
+    "p p"
+  ],
+  "key": {
+    "p": {
+      "tag": "forge:plates/shadowite"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:shadowitel_armor_leggings",
+    "count": 1
+  }
+}

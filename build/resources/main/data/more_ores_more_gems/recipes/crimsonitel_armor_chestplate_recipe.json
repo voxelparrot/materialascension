@@ -1,0 +1,18 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "p p",
+    "ppp",
+    "ppp"
+  ],
+  "key": {
+    "p": {
+      "tag": "forge:plates/crimsonite"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:crimsonitel_armor_chestplate",
+    "count": 1
+  }
+}

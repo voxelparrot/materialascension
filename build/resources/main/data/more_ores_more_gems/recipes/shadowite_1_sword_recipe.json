@@ -1,0 +1,21 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "p",
+    "p",
+    "b"
+  ],
+  "key": {
+    "p": {
+      "tag": "forge:plates/shadowite"
+    },
+    "b": {
+      "tag": "forge:handles/iron"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:shadowite_1_sword",
+    "count": 1
+  }
+}
