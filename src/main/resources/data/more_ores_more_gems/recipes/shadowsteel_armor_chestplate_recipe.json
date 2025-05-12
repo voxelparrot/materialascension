@@ -1,14 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "equipment",
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
   "pattern": [
-    "a a",
-    "aaa",
-    "aaa"
+    "s   s",
+    "sssss",
+    "sssss",
+    "sssss",
+    " sss "
   ],
   "key": {
-    "a": {
-      "item": "more_ores_more_gems:shadowsteel_ingot"
+    "s": {
+      "tag": "forge:plates/shadowsteel"
     }
   },
   "result": {
