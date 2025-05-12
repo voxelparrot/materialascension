@@ -37,10 +37,6 @@ public class Config
         includeQitqiastWeapons = builder
                 .comment("Whether to include the special qitqiast weapons (default = true) (if you are akaash please keep this as true)")
                 .define("include_qitqiast_weapons", true);
-
-        builder.pop();
-        builder.pop();
-        builder.pop();
     }
 
     private static boolean validateItemName(final Object obj)

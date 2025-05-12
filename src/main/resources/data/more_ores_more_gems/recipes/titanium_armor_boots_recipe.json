@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "titanium_armor_boots",
+  "pattern": [
+    "p p",
+    "p p"
+  ],
+  "key": {
+    "p": {
+      "tag": "forge:plates/titanium"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:titanium_armor_boots",
+    "count": 1
+  }
+}

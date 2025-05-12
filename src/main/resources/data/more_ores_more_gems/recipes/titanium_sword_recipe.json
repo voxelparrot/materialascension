@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "titanium_sword",
+  "pattern": [
+    "s",
+    "s",
+    "b"
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:plates/titanium"
+    },
+    "b": {
+      "tag": "forge:handles/iron"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:titanium_sword",
+    "count": 1
+  }
+}

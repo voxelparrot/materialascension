@@ -1,0 +1,26 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "ssa",
+    "s b",
+    "  b",
+    "  b",
+    "  b"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:ingots/skysteel"
+    },
+    "s": {
+      "tag": "forge:plates/skysteel"
+    },
+    "b": {
+      "tag": "forge:handles/steel"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:skysteel_p_axe",
+    "count": 1
+  }
+}

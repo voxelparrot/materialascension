@@ -1,0 +1,20 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "s   s",
+    "sssss",
+    "sssss",
+    "sssss",
+    " sss "
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:plates/skysteel"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:skysteel_5_armor_chestplate",
+    "count": 1
+  }
+}

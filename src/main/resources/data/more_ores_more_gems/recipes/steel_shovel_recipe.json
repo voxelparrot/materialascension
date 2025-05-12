@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "steel_shovel",
+  "pattern": [
+    "s",
+    "b",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:ingots/steel"
+    },
+    "s": {
+      "tag": "forge:plates/steel"
+    },
+    "b": {
+      "tag": "forge:handles/iron"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:steel_shovel",
+    "count": 1
+  }
+}

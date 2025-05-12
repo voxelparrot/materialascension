@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "steel_armor_helmet",
+  "pattern": [
+    "ppp",
+    "p p"
+  ],
+  "key": {
+    "p": {
+      "tag": "forge:plates/steel"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:steel_armor_helmet",
+    "count": 1
+  }
+}

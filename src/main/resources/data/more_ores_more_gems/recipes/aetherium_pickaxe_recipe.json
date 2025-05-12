@@ -1,0 +1,24 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "sas",
+    " b ",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "more_ores_more_gems:aetherium_ingot"
+    },
+    "s": {
+      "tag": "forge:plates/aetherium"
+    },
+    "b": {
+      "tag": "forge:handles/steel"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:aetherium_pickaxe",
+    "count": 1
+  }
+}

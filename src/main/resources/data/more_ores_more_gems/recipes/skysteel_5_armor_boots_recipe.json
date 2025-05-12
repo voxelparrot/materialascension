@@ -1,0 +1,18 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "ss ss",
+    "ss ss",
+    "ss ss"
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:plates/skysteel"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:skysteel_5_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "count": 2,
+      "tag": "forge:gems/quartz"
+    },
+    {
+      "count": 1,
+      "tag": "forge:ingots/titanium"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "more_ores_more_gems:titanium_quartz"
+    }
+  ]
+}

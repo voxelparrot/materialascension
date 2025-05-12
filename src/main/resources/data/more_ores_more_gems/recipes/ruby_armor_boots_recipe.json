@@ -1,0 +1,17 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "c c",
+    "c c"
+  ],
+  "key": {
+    "c": {
+      "tag": "forge:plates/ruby"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:ruby_armor_boots",
+    "count": 1
+  }
+}

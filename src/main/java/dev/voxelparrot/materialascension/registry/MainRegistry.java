@@ -1,5 +1,6 @@
 package dev.voxelparrot.materialascension.registry;
 
+import dev.voxelparrot.materialascension.Config;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
@@ -10,6 +11,7 @@ import net.minecraftforge.registries.RegistryObject;
 
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Objects;
 
 import static dev.voxelparrot.materialascension.Constants.MA_ID;
 
@@ -23,7 +25,21 @@ public class MainRegistry {
     for (MAItems.ItemInfo item : MAItems.items
     ) {
       RegistryObject<Item> i = ITEMS.register(item.name, item.itemSupplier);
-      registeredItems.add(i);
+      if (Objects.equals(item.type, "artifact")) {
+        if (Config.includeArtifacts.get()) {
+          registeredItems.add(i);
+        }
+      } else if (Objects.equals(item.type, "unique")) {
+        if (Config.includeUniqueWeapons.get()) {
+          registeredItems.add(i);
+        }
+      } else if (Objects.equals(item.type, "qitqiast")) {
+        if (Config.includeQitqiastWeapons.get()) {
+          registeredItems.add(i);
+        }
+      } else {
+        registeredItems.add(i);
+      }
     }
     for (MABlocks.BlockInfo info : MABlocks.blocks) {
       // Step 1: Register block and store the registry object

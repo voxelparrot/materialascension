@@ -26,9 +26,9 @@ public class MAItems {
   public static List<ItemInfo> items = new LinkedList<>();
 
   public static void init() {
-    System.out.println("includeArtifacts: " + Config.includeArtifacts);
-    System.out.println("includeUniqueWeapons: " + Config.includeUniqueWeapons);
-    System.out.println("includeQitqiastWeapons: " + Config.includeQitqiastWeapons);
+    System.out.println("includeArtifacts: " + Config.includeArtifacts.get());
+    System.out.println("includeUniqueWeapons: " + Config.includeUniqueWeapons.get());
+    System.out.println("includeQitqiastWeapons: " + Config.includeQitqiastWeapons.get());
     /* Daggers */
     items.add(new ItemInfo("dagger", "skysteel_dagger", () -> new DaggerItem(ToolMaterials.SKYSTEEL, daggerDamage, daggerSpeed, new Item.Properties())));
     items.add(new ItemInfo("dagger", "mysticrain_dagger", () -> new DaggerItem(ToolMaterials.MYSTICRAIN, daggerDamage, daggerSpeed, new Item.Properties())));
@@ -132,47 +132,24 @@ public class MAItems {
     items.add(new ItemInfo("glaive", "jade_glaive", () -> new GlaiveItem(ToolMaterials.JADE, glaiveDamage, glaiveSpeed + 0.2f, new Item.Properties())));
     items.add(new ItemInfo("glaive", "white_glaive", () -> new GlaiveItem(ToolMaterials.WHITE, glaiveDamage, glaiveSpeed, new Item.Properties())));
     /* Special Weapons (Unbreakable)
-    *  ARTIFACTS                          */
-      /* Zebasi Glaive
-      *  Lights enemies on fire           */
+     *  ARTIFACTS                          */
 
-
-
-    if (Config.includeUniqueWeapons.get()) {
-      items.add(new ItemInfo("glaive", "zebasi_glaive", () -> new UnbreakableGlaiveItem(ToolMaterials.ARTIFACT, glaiveDamage + 3, glaiveSpeed - 0.4f, new Item.Properties())));
-
-      /* Bread Club
-       *  On use applies saturation        */
-
-      /* Abyssal Dagger
-       *  Gives enemies blindness effect   */
-
-      /* S.H.A.D.O.W. Weapon (possibly)
-       *  Sometimes gives enemies slowness */
-
-      /* Sunrise Spear
-       *  Lights enemies on fire           */
-
-      /* Gigahorse Weapon (possibly)
-       *  On use gives temporary speed     */
-
-      /* Knights Weapon (possibly)
-       *  On use gives 1s resistance       */
-
-      /* Chaos Soldiers Weapon (possibly)
-       *  Gives user 1s strength on hurt   */
-    }
-    if (Config.includeUniqueWeapons.get()) {
-    /* UNIQUES */
-      items.add(new ItemInfo("scythe", "royal_scythe", () -> new UnbreakableScytheItem(ToolMaterials.ARTIFACT, 5, -3.2f, new Item.Properties())));
-      items.add(new ItemInfo("scythe", "charged_scythe", () -> new UnbreakableScytheItem(ToolMaterials.ARTIFACT, 5, -3.2f, new Item.Properties())));
-    }
-    if (Config.includeQitqiastWeapons.get()) {
-      /* QITQIAST TRVYSHMAODOZRT HTRRM */
-      items.add(new ItemInfo("dagger", "purpular_dagger", () -> new UnbreakableDaggerItem(ToolMaterials.ARTIFACT, daggerDamage + 3, daggerSpeed - 0.4f, new Item.Properties())));
-      items.add(new ItemInfo("hammer", "rectanglisimer_hammer", () -> new UnbreakableHammerItem(ToolMaterials.ARTIFACT, hammerDamage + 3, hammerSpeed - 0.4f, new Item.Properties())));
-      items.add(new ItemInfo("spear", "green_spear", () -> new UnbreakableSpearItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed - 0.4f, new Item.Properties())));
-    }
+    /* Zebasi Glaive:
+     *  Lights enemies on fire           */
+    items.add(new ItemInfo("artifact", "zebasi_glaive", () -> new UnbreakableGlaiveItem(ToolMaterials.ARTIFACT, glaiveDamage + 3, glaiveSpeed - 0.4f, new Item.Properties())));
+    /* Bread Club
+     *  bread  */
+    /* Abyssal Dagger
+     *  darkness  */
+    /* Sunrise Spear
+     *  Lights enemies on fire           */
+    /* Uniques */
+    items.add(new ItemInfo("unique", "royal_scythe", () -> new UnbreakableScytheItem(ToolMaterials.ARTIFACT, 5, -3.2f, new Item.Properties())));
+    items.add(new ItemInfo("unique", "charged_scythe", () -> new UnbreakableScytheItem(ToolMaterials.ARTIFACT, 5, -3.2f, new Item.Properties())));
+    /* Qitqiast Trvyshmaodozrt htrrm */
+    items.add(new ItemInfo("qitqiast", "purpular_dagger", () -> new UnbreakableDaggerItem(ToolMaterials.ARTIFACT, daggerDamage + 3, daggerSpeed - 0.4f, new Item.Properties())));
+    items.add(new ItemInfo("qitqiast", "rectanglisimer_hammer", () -> new UnbreakableHammerItem(ToolMaterials.ARTIFACT, hammerDamage + 3, hammerSpeed - 0.4f, new Item.Properties())));
+    items.add(new ItemInfo("qitqiast", "green_spear", () -> new UnbreakableSpearItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed - 0.4f, new Item.Properties())));
     /* Components */
     items.add(new ItemInfo("sheet", "aetherium_sheet", BasicComponentItem::new));
     items.add(new ItemInfo("sheet", "sliver_sheet", BasicComponentItem::new));

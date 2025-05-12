@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "jade_5_armor_chestplate",
+  "pattern": [
+    "p p",
+    "ppp",
+    "ppp"
+  ],
+  "key": {
+    "p": {
+      "tag": "forge:plates/jade"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:jade_5_armor_chestplate",
+    "count": 1
+  }
+}
+

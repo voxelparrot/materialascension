@@ -1,0 +1,21 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "pattern": [
+    "p",
+    "b",
+    "b"
+  ],
+  "key": {
+    "p": {
+      "tag": "forge:plates/citrine"
+    },
+    "b": {
+      "tag": "forge:handles/iron"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:citrine_s_shovel",
+    "count": 1
+  }
+}

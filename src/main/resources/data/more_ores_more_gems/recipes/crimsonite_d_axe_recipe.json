@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "crimsonite_d_axe",
+  "pattern": [
+    "pc",
+    "pb",
+    " b"
+  ],
+  "key": {
+    "p": {
+      "tag": "forge:plates/crimsonite"
+    },
+    "c": {
+      "tag": "forge:ingots/crimsonite"
+    },
+    "b": {
+      "tag": "forge:handles/iron"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:crimsonite_d_axe",
+    "count": 1
+  }
+}

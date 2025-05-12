@@ -1,0 +1,21 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "s",
+    "s",
+    "b"
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:plates/titanium_quartz"
+    },
+    "b": {
+      "tag": "forge:handles/steel"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:titanium_6_quartz_sword",
+    "count": 1
+  }
+}

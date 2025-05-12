@@ -1,0 +1,26 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    " s ",
+    " s ",
+    " s ",
+    "aba",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:ingots/skysteel"
+    },
+    "s": {
+      "tag": "forge:plates/skysteel"
+    },
+    "b": {
+      "tag": "forge:handles/steel"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:skysteel_p_sword",
+    "count": 1
+  }
+}

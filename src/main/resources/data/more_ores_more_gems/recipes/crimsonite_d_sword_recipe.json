@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "crimsonite_d_sword",
+  "pattern": [
+    "p",
+    "p",
+    "b"
+  ],
+  "key": {
+    "p": {
+      "tag": "forge:plates/crimsonite"
+    },
+    "b": {
+      "tag": "forge:handles/iron"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:crimsonite_d_sword",
+    "count": 1
+  }
+}

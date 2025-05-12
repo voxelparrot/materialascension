@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "steel_pickaxe",
+  "pattern": [
+    "sas",
+    " b ",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:ingots/steel"
+    },
+    "s": {
+      "tag": "forge:plates/steel"
+    },
+    "b": {
+      "tag": "forge:handles/iron"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:steel_pickaxe",
+    "count": 1
+  }
+}
