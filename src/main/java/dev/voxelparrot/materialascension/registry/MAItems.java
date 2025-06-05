@@ -137,6 +137,7 @@ public class MAItems {
     /* Zebasi Glaive:
      *  Lights enemies on fire           */
     items.add(new ItemInfo("artifact", "zebasi_glaive", () -> new UnbreakableGlaiveItem(ToolMaterials.ARTIFACT, glaiveDamage + 3, glaiveSpeed - 0.4f, new Item.Properties())));
+    items.add(new ItemInfo("artifact", "diamond_destroyer", () -> new UnbreakableGlaiveItem(ToolMaterials.ARTIFACT, hammerDamage + 3, hammerSpeed + 0.4f, new Item.Properties())));
     /* Bread Club
      *  bread  */
     /* Abyssal Dagger
