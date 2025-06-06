@@ -1,13 +1,14 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "equipment",
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
   "pattern": [
-    "a a",
-    "a a"
+    "ss ss",
+    "ss ss",
+    "ss ss"
   ],
   "key": {
-    "a": {
-      "item": "more_ores_more_gems:skysteel"
+    "s": {
+      "tag": "forge:plates/skysteel"
     }
   },
   "result": {

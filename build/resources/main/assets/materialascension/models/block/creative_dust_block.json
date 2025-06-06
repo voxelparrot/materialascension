@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "materialascension:block/creative_dust_block"
+    "all": "materialascension:block/creative_dust_block.png"
   }
 }

@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "more_ores_more_gems:item/shadowsteel_axe_nt"
-  }
-}

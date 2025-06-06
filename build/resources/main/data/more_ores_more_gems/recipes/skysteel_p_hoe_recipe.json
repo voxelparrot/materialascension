@@ -1,17 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "equipment",
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
   "pattern": [
-    "aa",
-    " b",
-    " b"
+    "ssa",
+    "  b",
+    "  b",
+    "  b",
+    "  b"
   ],
   "key": {
     "a": {
-      "item": "more_ores_more_gems:skysteel"
+      "tag": "forge:ingots/skysteel"
+    },
+    "s": {
+      "tag": "forge:plates/skysteel"
     },
     "b": {
-      "item": "minecraft:stick"
+      "tag": "forge:handles/steel"
     }
   },
   "result": {

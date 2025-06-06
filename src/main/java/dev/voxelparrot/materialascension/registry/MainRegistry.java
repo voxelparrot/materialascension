@@ -25,7 +25,7 @@ public class MainRegistry {
     for (MAItems.ItemInfo item : MAItems.items
     ) {
       RegistryObject<Item> i = ITEMS.register(item.name, item.itemSupplier);
-      if (Objects.equals(item.type, "artifact")) {
+      /*if (Objects.equals(item.type, "artifact")) {
         if (Config.includeArtifacts.get()) {
           registeredItems.add(i);
         }
@@ -39,7 +39,8 @@ public class MainRegistry {
         }
       } else {
         registeredItems.add(i);
-      }
+      }*/
+      registeredItems.add(i);
     }
     for (MABlocks.BlockInfo info : MABlocks.blocks) {
       // Step 1: Register block and store the registry object
@@ -58,3 +59,4 @@ public class MainRegistry {
     BLOCKS.register(eventBus);
   }
 }
+

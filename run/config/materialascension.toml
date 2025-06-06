@@ -1,0 +1,7 @@
+#Whether to include the artifact class weapons (default = true)
+include_artifacts = true
+#Whether to include the unique rarity weapons (default = false)
+include_unique_weapons = false
+#Whether to include the special qitqiast weapons (default = true) (if you are akaash please keep this as true)
+include_qitqiast_weapons = true
+

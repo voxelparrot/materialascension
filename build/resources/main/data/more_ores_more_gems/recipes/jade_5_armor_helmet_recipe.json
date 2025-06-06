@@ -1,6 +1,6 @@
 {
-  "type": "create:mechanical_crafting",
-  "acceptMirrored": false,
+  "type": "minecraft:crafting_shaped",
+  "group": "jade_5_armor_helmet",
   "pattern": [
     "ppp",
     "p p"
@@ -11,7 +11,7 @@
     }
   },
   "result": {
-    "item": "more_ores_more_gems:jade_5_armor_chestplate",
+    "item": "more_ores_more_gems:jade_5_armor_helmet",
     "count": 1
   }
 }

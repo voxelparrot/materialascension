@@ -26,9 +26,6 @@ public class MAItems {
   public static List<ItemInfo> items = new LinkedList<>();
 
   public static void init() {
-    System.out.println("includeArtifacts: " + Config.includeArtifacts.get());
-    System.out.println("includeUniqueWeapons: " + Config.includeUniqueWeapons.get());
-    System.out.println("includeQitqiastWeapons: " + Config.includeQitqiastWeapons.get());
     /* Daggers */
     items.add(new ItemInfo("dagger", "skysteel_dagger", () -> new DaggerItem(ToolMaterials.SKYSTEEL, daggerDamage, daggerSpeed, new Item.Properties())));
     items.add(new ItemInfo("dagger", "mysticrain_dagger", () -> new DaggerItem(ToolMaterials.MYSTICRAIN, daggerDamage, daggerSpeed, new Item.Properties())));

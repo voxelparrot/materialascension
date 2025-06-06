@@ -1,17 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "equipment",
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
   "pattern": [
-    "a",
-    "a",
-    "b"
+    " s ",
+    " s ",
+    " s ",
+    "aba",
+    " b "
   ],
   "key": {
     "a": {
-      "item": "more_ores_more_gems:shadowsteel_ingot"
+      "tag": "forge:ingots/shadowsteel"
+    },
+    "s": {
+      "tag": "forge:plates/shadowsteel"
     },
     "b": {
-      "item": "minecraft:stick"
+      "tag": "forge:handles/steel"
     }
   },
   "result": {

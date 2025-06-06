@@ -1,6 +1,6 @@
 {
-  "type": "create:mechanical_crafting",
-  "acceptMirrored": false,
+  "type": "minecraft:crafting_shaped",
+  "group": "crimsonitel_armor_helmet",
   "pattern": [
     "ppp",
     "p p"

@@ -12,8 +12,8 @@ public class MABlocks {
     public static List<BlockInfo> blocks = new LinkedList<>();
 
     public static void init() {
-        blocks.add(new MABlocks.BlockInfo("component", "creative_dust_block",
-                () -> new Block(Block.Properties.copy(Blocks.SAND).mapColor(MapColor.COLOR_PINK))));
+        /*blocks.add(new MABlocks.BlockInfo("component", "creative_dust_block",
+                () -> new Block(Block.Properties.copy(Blocks.SAND).mapColor(MapColor.COLOR_PINK))));*/
 
 
 

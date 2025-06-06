@@ -1,17 +1,19 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "equipment",
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
   "pattern": [
-    "aa",
-    " b",
-    " b"
+    "ggg",
+    "  b",
+    "  b",
+    "  b",
+    "  b"
   ],
   "key": {
-    "a": {
-      "item": "more_ores_more_gems:mysticrain_quartz"
+    "g": {
+      "tag": "forge:gems/mysticrain_quartz"
     },
     "b": {
-      "item": "minecraft:stick"
+      "tag": "forge:handles/steel"
     }
   },
   "result": {
