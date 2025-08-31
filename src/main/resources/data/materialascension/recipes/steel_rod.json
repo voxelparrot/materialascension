@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "steel_rod",
+  "pattern": [
+    "/",
+    "/"
+  ],
+  "key": {
+    "/": {
+      "tag": "forge:ingots/steel"
+    }
+  },
+  "result": {
+    "item": "materialascension:steel_rod",
+    "count": 1
+  }
+}

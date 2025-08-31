@@ -1,0 +1,29 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "tag": "forge:ingots/zinc"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:brass_ingot"
+    },
+    {
+      "item": "create:copper_nugget",
+      "chance": 0.5
+    },
+    {
+      "item": "create:zinc_nugget",
+      "chance": 0.5
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.85
+    }
+  ]
+}

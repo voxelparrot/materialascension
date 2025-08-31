@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "nyxium_rod",
+  "pattern": [
+    "/",
+    "/"
+  ],
+  "key": {
+    "/": {
+      "tag": "forge:plates/nyxium"
+    }
+  },
+  "result": {
+    "item": "materialascension:nyxium_rod",
+    "count": 1
+  }
+}

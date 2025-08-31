@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "nyxium_tool_handle",
+  "pattern": [
+    "#/",
+    "#/"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:wool"
+    },
+    "/": {
+      "tag": "forge:ingots/nyxium"
+    }
+  },
+  "result": {
+    "item": "materialascension:iron_tool_handle",
+    "count": 2
+  }
+}
