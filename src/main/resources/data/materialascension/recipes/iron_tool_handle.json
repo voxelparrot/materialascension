@@ -1,13 +1,13 @@
 {
   "type": "minecraft:crafting_shaped",
-  "group": "steel_tool_handle",
+  "group": "iron_tool_handle",
   "pattern": [
     "/#",
     "/#"
   ],
   "key": {
     "#": {
-      "tag": "materialascension:wraps"
+      "tag": "c:strings"
     },
     "/": {
       "tag": "forge:ingots/iron"

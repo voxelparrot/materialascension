@@ -1,16 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "group": "sapphire_plate",
-  "pattern": [
-    "GG"
-  ],
-  "key": {
-    "G": {
+  "type": "create:cutting",
+  "ingredients": [
+    {
       "tag": "forge:gems/sapphire"
     }
-  },
-  "result": {
-    "item": "materialascension:sapphire_plate",
-    "count": 2
-  }
+  ],
+  "results": [
+    {
+      "item": "materialascension:sapphire_plate"
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.3
+    }
+  ]
 }

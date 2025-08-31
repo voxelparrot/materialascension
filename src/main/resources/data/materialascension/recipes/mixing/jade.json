@@ -3,18 +3,26 @@
   "heatRequirement": "heated",
   "ingredients": [
     {
-      "count": 2,
-      "tag": "forge:gems/jade"
+      "item": "minecraft:iron_ingot"
     },
     {
-      "count": 2,
-      "tag": "forge:ingots/iron"
+      "item": "more_ores_more_gems:jade"
+    },
+    {
+      "item": "more_ores_more_gems:jade"
     }
   ],
   "results": [
     {
-      "count": 2,
       "item": "more_ores_more_gems:jade_ingot"
+    },
+    {
+      "item": "minecraft:iron_nugget",
+      "chance": 0.85
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.85
     }
   ]
 }

@@ -165,6 +165,8 @@ public class MAItems {
     items.add(new ItemInfo("sheet", "shadowsteel_sheet", BasicComponentItem::new));
     items.add(new ItemInfo("sheet", "crimsonite_sheet", BasicComponentItem::new));
     items.add(new ItemInfo("sheet", "shadowite_sheet", BasicComponentItem::new));
+    items.add(new ItemInfo("sheet", "nyxium_sheet", BasicComponentItem::new));
+    items.add(new ItemInfo("ingot", "nyxium_ingot", BasicComponentItem::new));
     items.add(new ItemInfo("plate", "topaz_plate", BasicComponentItem::new));
     items.add(new ItemInfo("plate", "citrine_plate", BasicComponentItem::new));
     items.add(new ItemInfo("plate", "sapphire_plate", BasicComponentItem::new));
@@ -173,7 +175,10 @@ public class MAItems {
     items.add(new ItemInfo("plate", "diamond_plate", BasicComponentItem::new));
     items.add(new ItemInfo("plate", "ruby_plate", BasicComponentItem::new));
     items.add(new ItemInfo("handle", "tool_handle", BasicComponentItem::new));
-    items.add(new ItemInfo("component", "creative_dust", BasicComponentItem::new));
+    items.add(new ItemInfo("handle", "iron_tool_handle", BasicComponentItem::new));
+    items.add(new ItemInfo("handle", "steel_tool_handle", BasicComponentItem::new));
+    items.add(new ItemInfo("handle", "nyxium_tool_handle", BasicComponentItem::new));
+    items.add(new ItemInfo("component", "ussingite_dust", BasicComponentItem::new));
 
 
 
@@ -201,19 +206,5 @@ public class MAItems {
             .map(info -> info.itemSupplier.get())
             .orElse(null);
   }
-
-  public static List<Item> getItemsByType(String type) {
-    return MAItems.items.stream()
-            .filter(info -> info.type.equals(type))
-            .map(info -> info.itemSupplier.get())
-            .toList();
-  }
-
-  public static List<Item> getAllItems() {
-    return MAItems.items.stream()
-            .map(info -> info.itemSupplier.get())
-            .toList();
-  }
-
 
 }

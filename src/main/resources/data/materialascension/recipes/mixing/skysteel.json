@@ -1,18 +1,21 @@
 {
   "type": "create:mixing",
-  "heatRequirement": "heated",
+  "heatRequirement": "superheated",
   "ingredients": [
     {
-      "tag": "forge:ingots/steel"
+      "item": "more_ores_more_gems:aetherium_ingot"
     },
     {
-      "tag": "forge:ingots/aetherium"
+      "tag": "forge:ingots/steel"
     }
   ],
   "results": [
     {
-      "count": 2,
       "item": "more_ores_more_gems:skysteel"
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.85
     }
   ]
 }

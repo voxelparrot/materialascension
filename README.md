@@ -7,7 +7,7 @@ This mod does a few things:
 4. Includes several legendary weapons made with create's mechanical crafting
 
 **Required Mods:** (These are TECHNICALLY not actually required, but the mod is made to go with these mods)
-- [MORE ORES MORE GEMS](https://modrinth.com/mod/more-ores-more-gem)
+- [MORE ORES MORE GEMS](https://modrinth.com/mod/more-ores-more-gem) (made specifically with version 0.9 of MOMG in mind)
 - [CREATE](https://modrinth.com/mod/create)
 - [BASIC WEAPONS](https://github.com/Khazoda/basic-weapons)
 

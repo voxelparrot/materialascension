@@ -1,16 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "group": "diamond_plate",
-  "pattern": [
-    "GG"
-  ],
-  "key": {
-    "G": {
+  "type": "create:cutting",
+  "ingredients": [
+    {
       "tag": "forge:gems/diamond"
     }
-  },
-  "result": {
-    "item": "materialascension:diamond_plate",
-    "count": 2
-  }
+  ],
+  "results": [
+    {
+      "item": "materialascension:diamond_plate"
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.3
+    }
+  ]
 }

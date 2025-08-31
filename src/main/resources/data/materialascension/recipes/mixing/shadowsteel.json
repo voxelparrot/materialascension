@@ -1,18 +1,21 @@
 {
   "type": "create:mixing",
-  "heatRequirement": "heated",
+  "heatRequirement": "superheated",
   "ingredients": [
     {
-      "tag": "forge:ingots/steel"
+      "item": "more_ores_more_gems:shadowite"
     },
     {
-      "tag": "forge:ingots/shadowite"
+      "tag": "forge:ingots/steel"
     }
   ],
   "results": [
     {
-      "count": 2,
-      "item": "more_ores_more_gems:shadowsteel"
+      "item": "more_ores_more_gems:shadowsteel_ingot"
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.85
     }
   ]
 }

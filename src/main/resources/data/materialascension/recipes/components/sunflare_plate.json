@@ -1,16 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "group": "sunflare_plate",
-  "pattern": [
-    "GG"
-  ],
-  "key": {
-    "G": {
+  "type": "create:cutting",
+  "ingredients": [
+    {
       "tag": "forge:gems/sunflare"
     }
-  },
-  "result": {
-    "item": "materialascension:sunflare_plate",
-    "count": 2
-  }
+  ],
+  "results": [
+    {
+      "item": "materialascension:sunflare_plate"
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.3
+    }
+  ]
 }
