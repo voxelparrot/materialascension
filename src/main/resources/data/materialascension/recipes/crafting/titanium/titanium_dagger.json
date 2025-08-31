@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #",
+    "/ "
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:plates/titanium"
+    },
+    "/": {
+      "tag": "forge:handles/wood"
+    }
+  },
+  "result": {
+    "item": "materialascension:titanium_dagger",
+    "count": 1
+  }
+}

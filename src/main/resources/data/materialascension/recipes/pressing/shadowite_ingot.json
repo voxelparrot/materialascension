@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/shadowite"
+    }
+  ],
+  "results": [
+    {
+      "item": "materialascension:shadowite_sheet"
+    }
+  ]
+}

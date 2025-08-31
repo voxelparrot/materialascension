@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "materialascension:item/quarterstaff/topaz_quarterstaff"
+  }
+}

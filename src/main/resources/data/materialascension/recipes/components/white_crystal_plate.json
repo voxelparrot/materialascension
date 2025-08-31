@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "white_crystal_plate",
+  "pattern": [
+    "GG"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:gems/white_crystal"
+    }
+  },
+  "result": {
+    "item": "materialascension:white_crystal_plate",
+    "count": 2
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "pattern": [
+    "jjj",
+    "iii",
+    "jjj"
+  ],
+  "key": {
+    "j": {
+      "item": "more_ores_more_gems:jade"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:jade_ingot",
+    "count": 1
+  }
+}

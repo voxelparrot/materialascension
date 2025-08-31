@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "forge:gems/citrine"
+    }
+  ],
+  "results": [
+    {
+      "item": "materialascension:citrine_plate"
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.3
+    }
+  ]
+}

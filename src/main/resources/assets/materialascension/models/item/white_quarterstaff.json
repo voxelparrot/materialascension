@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "materialascension:item/white_quarterstaff_held"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "materialascension:item/white_quarterstaff_gui"
+    },
+    "ground": {
+      "parent": "materialascension:item/white_quarterstaff_gui"
+    },
+    "fixed": {
+      "parent": "materialascension:item/white_quarterstaff_gui"
+    }
+  }
+}

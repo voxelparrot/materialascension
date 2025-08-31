@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/crimsonite"
+    }
+  ],
+  "results": [
+    {
+      "item": "materialascension:crimsonite_sheet"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ruby_plate",
+  "pattern": [
+    "GG"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:gems/ruby"
+    }
+  },
+  "result": {
+    "item": "materialascension:ruby_plate",
+    "count": 2
+  }
+}

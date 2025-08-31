@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/steel"
+    },
+    {
+      "tag": "forge:ingots/aetherium"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "item": "more_ores_more_gems:skysteel"
+    }
+  ]
+}
