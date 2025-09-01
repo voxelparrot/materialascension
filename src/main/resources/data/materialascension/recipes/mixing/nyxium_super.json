@@ -1,0 +1,24 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "more_ores_more_gems:steel_ingot"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    }
+  ],
+  "results": [
+    {
+      "item": "materialascension:nyxium_ingot"
+    },
+    {
+      "item": "create:experience_nugget"
+    },
+    {
+      "item": "create:powdered_obsidian",
+      "chance": 0.2
+    }
+  ]
+}

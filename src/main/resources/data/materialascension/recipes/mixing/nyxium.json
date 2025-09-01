@@ -1,0 +1,34 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "more_ores_more_gems:steel_ingot"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "item": "materialascension:ussingite_dust"
+    }
+  ],
+  "results": [
+    {
+      "item": "materialascension:nyxium_ingot"
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.9
+    },
+    {
+      "item": "materialascension:ussingite_dust",
+      "chance": 0.1
+    }
+  ]
+}
