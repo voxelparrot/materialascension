@@ -1,6 +1,7 @@
 {
   "values": [
-    "minecraft:paper",
-    "minecraft:leather"
+    "minecraft:leather",
+    "farmersdelight:canvas",
+    "minecraft:paper"
   ]
 }

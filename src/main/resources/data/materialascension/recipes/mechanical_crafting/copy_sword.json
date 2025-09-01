@@ -1,0 +1,28 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " S ",
+    " B ",
+    " B ",
+    "SCS",
+    " / "
+  ],
+  "key": {
+    "/": {
+      "item": "materialascension:nyxium_handle"
+    },
+    "B": {
+      "item": "more_ores_more_gems:block_of_skysteel"
+    },
+    "C": {
+      "item": "more_ores_more_gems:block_of_citrine"
+    },
+    "S": {
+      "item": "more_ores_more_gems:skysteel"
+    }
+  },
+  "result": {
+    "item": "materialascension:copy_sword",
+    "count": 1
+  }
+}

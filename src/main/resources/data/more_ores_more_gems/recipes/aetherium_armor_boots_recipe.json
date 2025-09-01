@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:plates/aetherium"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:aetherium_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "more_ores_more_gems:skysteel"
+    }
+  },
+  "result": {
+    "item": "more_ores_more_gems:skysteel_5_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "more_ores_more_gems:raw_titanium"
+    },
+    {
+      "tag": "forge:gems/quartz"
+    },
+    {
+      "tag": "forge:gems/quartz"
+    },
+    {
+      "tag": "forge:gems/quartz"
+    },
+    {
+      "tag": "forge:gems/quartz"
+    }
+  ],
+  "results": [
+    {
+      "item": "more_ores_more_gems:raw_titanium_quartz"
+    },
+    {
+      "item": "more_ores_more_gems:titanium_nugget",
+      "chance": 0.75
+    },
+    {
+      "item": "more_ores_more_gems:titanium_quartz_nugget",
+      "chance": 0.4
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.85
+    }
+  ]
+}

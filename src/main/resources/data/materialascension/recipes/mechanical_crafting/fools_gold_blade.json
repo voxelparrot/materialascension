@@ -1,0 +1,40 @@
+{
+  "type": "create:mechanical_crafting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "twigs"
+    }
+  ],
+  "pattern": [
+    "  B  ",
+    "  R  ",
+    "  B  ",
+    "GPAPG",
+    "  /  "
+  ],
+  "key": {
+    "P": {
+      "item": "more_ores_more_gems:peridot"
+    },
+    "/": {
+      "item": "materialascension:nyxium_handle"
+    },
+    "A": {
+      "item": "twigs:polished_amethyst"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "B": {
+      "item": "minecraft:gold_block"
+    },
+    "R": {
+      "item": "more_ores_more_gems:ruby_pack_block"
+    }
+  },
+  "result": {
+    "item": "materialascension:fools_gold_blade",
+    "count": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "create:mechanical_crafting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "endless_heart"
+    }
+  ],
+  "pattern": [
+    " P ",
+    " J ",
+    " J ",
+    "PSP",
+    " / "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:slime_block"
+    },
+    "/": {
+      "item": "materialascension:nyxium_handle"
+    },
+    "P": {
+      "item": "endless_heart:echorite_ingot"
+    },
+    "J": {
+      "item": "more_ores_more_gems:blockof_jade"
+    }
+  },
+  "result": {
+    "item": "materialascension:toxic_sword",
+    "count": 1
+  }
+}

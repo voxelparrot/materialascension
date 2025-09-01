@@ -1,0 +1,34 @@
+{
+  "type": "create:mechanical_crafting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "endless_heart"
+    }
+  ],
+  "pattern": [
+    " V ",
+    " V ",
+    " V ",
+    "#S#",
+    " / "
+  ],
+  "key": {
+    "#": {
+      "item": "materialascension:shadowsteel_sheet"
+    },
+    "/": {
+      "item": "materialascension:nyxium_handle"
+    },
+    "V": {
+      "item": "endless_heart:void_block"
+    },
+    "B": {
+      "item": "more_ores_more_gems:block_of_shadowsteel"
+    }
+  },
+  "result": {
+    "item": "materialascension:shadow_blade",
+    "count": 1
+  }
+}

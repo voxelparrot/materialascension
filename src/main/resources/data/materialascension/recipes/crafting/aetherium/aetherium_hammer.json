@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "I/I",
+    " / "
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/aetherium"
+    },
+    "/": {
+      "tag": "forge:handles/steel"
+    }
+  },
+  "result": {
+    "item": "materialascension:aetherium_hammer",
+    "count": 1
+  }
+}

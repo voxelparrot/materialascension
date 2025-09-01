@@ -1,0 +1,31 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "#S#",
+    "#S#",
+    "#N#",
+    "RBR",
+    " / "
+  ],
+  "key": {
+    "#": {
+      "item": "create:golden_sheet"
+    },
+    "/": {
+      "item": "materialascension:nyxium_handle"
+    },
+    "B": {
+      "item": "more_ores_more_gems:ruby_pack_block"
+    },
+    "R": {
+      "item": "more_ores_more_gems:ruby_pack"
+    },
+    "S": {
+      "item": "create:sturdy_sheet"
+    }
+  },
+  "result": {
+    "item": "materialascension:ruby_katana",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "superheated",
+  "ingredients": [
+    {
+      "item": "more_ores_more_gems:raw_aetherium"
+    },
+    {
+      "item": "more_ores_more_gems:raw_steel"
+    }
+  ],
+  "results": [
+    {
+      "item": "more_ores_more_gems:raw_skysteel"
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.85
+    }
+  ]
+}

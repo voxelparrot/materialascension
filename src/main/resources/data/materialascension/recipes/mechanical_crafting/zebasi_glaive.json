@@ -1,22 +1,27 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "create:mechanical_crafting",
   "pattern": [
-    " ON",
-    "O/ ",
-    "S  "
+    "  ##",
+    " #NB",
+    "# / ",
+    " /  ",
+    "/   "
   ],
   "key": {
     "S": {
       "tag": "forge:ingots/steel"
     },
     "/": {
-      "item": "materialascension:steel_handle"
+      "item": "materialascension:nyxium_handle"
     },
-    "O": {
+    "#": {
       "item": "materialascension:sunflare_plate"
     },
     "N": {
       "item": "minecraft:netherite_ingot"
+    },
+    "B": {
+      "item": "more_ores_more_gems:block_of_sunflare_gem"
     }
   },
   "result": {

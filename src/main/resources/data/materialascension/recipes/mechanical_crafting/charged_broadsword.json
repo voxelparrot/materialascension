@@ -1,0 +1,31 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " B ",
+    " L ",
+    " B ",
+    "STS",
+    " / "
+  ],
+  "key": {
+    "/": {
+      "item": "materialascension:nyxium_handle"
+    },
+    "B": {
+      "item": "more_ores_more_gems:block_of_steel"
+    },
+    "L": {
+      "item": "create:redstone_link"
+    },
+    "T": {
+      "item": "more_ores_more_gems:block_of_tanzanite"
+    },
+    "S": {
+      "item": "more_ores_more_gems:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "materialascension:charged_broadsword",
+    "count": 1
+  }
+}
