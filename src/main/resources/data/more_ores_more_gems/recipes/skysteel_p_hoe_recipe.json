@@ -1,17 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "equipment",
   "pattern": [
-    "aa",
-    " b",
-    " b"
+    "#I",
+    " /",
+    " /"
   ],
   "key": {
-    "a": {
-      "item": "more_ores_more_gems:skysteel"
+    "#": {
+      "tag": "forge:plates/skysteel"
     },
-    "b": {
-      "item": "minecraft:stick"
+    "I": {
+      "tag": "forge:ingots/skysteel"
+    },
+    "/": {
+      "tag": "forge:handles/nyxium"
     }
   },
   "result": {

@@ -1,13 +1,12 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "equipment",
   "pattern": [
-    "aaa",
-    "a a"
+    "###",
+    "# #"
   ],
   "key": {
-    "a": {
-      "item": "more_ores_more_gems:titanium_quartz"
+    "#": {
+      "tag": "forge:plates/titanium_quartz"
     }
   },
   "result": {

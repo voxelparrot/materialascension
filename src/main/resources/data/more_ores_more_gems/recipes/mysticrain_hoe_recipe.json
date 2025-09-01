@@ -1,17 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "equipment",
   "pattern": [
-    "aa",
-    " b",
-    " b"
+    "##",
+    " /",
+    " /"
   ],
   "key": {
-    "a": {
-      "item": "more_ores_more_gems:mysticrain_quartz"
+    "#": {
+      "tag": "forge:gems/mysticrain"
     },
-    "b": {
-      "item": "minecraft:stick"
+    "/": {
+      "tag": "forge:handles/nyxium"
     }
   },
   "result": {

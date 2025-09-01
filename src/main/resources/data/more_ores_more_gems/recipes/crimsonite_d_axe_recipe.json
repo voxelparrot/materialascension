@@ -1,17 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "equipment",
   "pattern": [
-    "aa",
-    "ab",
-    " b"
+    "#I",
+    "#/",
+    " /"
   ],
   "key": {
-    "a": {
-      "item": "more_ores_more_gems:crimsonite"
+    "#": {
+      "tag": "forge:plates/crimsonite"
     },
-    "b": {
-      "item": "minecraft:stick"
+    "I": {
+      "tag": "forge:ingots/crimsonite"
+    },
+    "/": {
+      "tag": "forge:handles/wooden"
     }
   },
   "result": {

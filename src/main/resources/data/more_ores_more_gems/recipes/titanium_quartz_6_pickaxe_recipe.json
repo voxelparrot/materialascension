@@ -1,17 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "equipment",
   "pattern": [
-    "aaa",
-    " b ",
-    " b "
+    "#I#",
+    " / ",
+    " / "
   ],
   "key": {
-    "a": {
-      "item": "more_ores_more_gems:titanium_quartz"
+    "#": {
+      "tag": "forge:plates/titanium_quartz"
     },
-    "b": {
-      "item": "minecraft:stick"
+    "I": {
+      "tag": "forge:ingots/titanium_quartz"
+    },
+    "/": {
+      "tag": "forge:handles/steel"
     }
   },
   "result": {

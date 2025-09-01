@@ -2,8 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "#I",
-    "#/ ",
-    " / "
+    "#/",
+    " /"
   ],
   "key": {
     "#": {
@@ -17,7 +17,7 @@
     }
   },
   "result": {
-    "item": "more_ores_more_gems:citrine_axe",
+    "item": "more_ores_more_gems:citrine_s_axe",
     "count": 1
   }
 }
