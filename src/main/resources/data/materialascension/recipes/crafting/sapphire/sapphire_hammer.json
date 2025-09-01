@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "G/G",
+    " / "
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:gems/sapphire"
+    },
+    "/": {
+      "tag": "forge:handles/iron"
+    }
+  },
+  "result": {
+    "item": "materialascension:sapphire_hammer",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  #",
+    " / ",
+    "/  "
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:plates/ruby"
+    },
+    "/": {
+      "tag": "forge:handles/iron"
+    }
+  },
+  "result": {
+    "item": "materialascension:ruby_spear",
+    "count": 1
+  }
+}

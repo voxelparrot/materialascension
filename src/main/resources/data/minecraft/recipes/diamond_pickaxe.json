@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#I#",
+    " / ",
+    " / "
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:plates/diamond"
+    },
+    "I": {
+      "tag": "forge:gems/diamond"
+    },
+    "/": {
+      "tag": "forge:handles/steel"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond_pickaxe",
+    "count": 1
+  }
+}

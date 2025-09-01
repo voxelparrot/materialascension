@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "G/G",
+    " / "
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:gems/citrine"
+    },
+    "/": {
+      "tag": "forge:handles/iron"
+    }
+  },
+  "result": {
+    "item": "materialascension:citrine_hammer",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "G/G",
+    " / "
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:gems/topaz"
+    },
+    "/": {
+      "tag": "forge:handles/iron"
+    }
+  },
+  "result": {
+    "item": "materialascension:topaz_hammer",
+    "count": 1
+  }
+}

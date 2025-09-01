@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "G/G",
+    " / "
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:gems/white_crystal"
+    },
+    "/": {
+      "tag": "forge:handles/iron"
+    }
+  },
+  "result": {
+    "item": "materialascension:white_hammer",
+    "count": 1
+  }
+}

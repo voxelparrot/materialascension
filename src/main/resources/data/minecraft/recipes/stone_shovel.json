@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "/",
+    "H"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:stone_tool_materials"
+    },
+    "H": {
+      "tag": "forge:handles/wooden"
+    },
+    "/": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "minecraft:stone_shovel",
+    "count": 1
+  }
+}

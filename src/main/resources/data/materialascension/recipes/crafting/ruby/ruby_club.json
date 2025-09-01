@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G",
+    "G",
+    "/"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:gems/ruby"
+    },
+    "/": {
+      "tag": "forge:handles/iron"
+    }
+  },
+  "result": {
+    "item": "materialascension:ruby_club",
+    "count": 1
+  }
+}

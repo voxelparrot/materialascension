@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "G/G",
+    " / "
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:gems/mysticrain"
+    },
+    "/": {
+      "tag": "forge:handles/nyxium"
+    }
+  },
+  "result": {
+    "item": "materialascension:mysticrain_hammer",
+    "count": 1
+  }
+}

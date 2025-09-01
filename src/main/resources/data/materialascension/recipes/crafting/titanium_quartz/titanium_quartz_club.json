@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I",
+    "I",
+    "/"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/titanium_quartz"
+    },
+    "/": {
+      "tag": "forge:handles/steel"
+    }
+  },
+  "result": {
+    "item": "materialascension:titanium_quartz_club",
+    "count": 1
+  }
+}
