@@ -10,7 +10,7 @@
       "tag": "forge:gems/mysticrain"
     },
     "/": {
-      "tag": "forge:handles/nyxium"
+      "item": "minecraft:stick"
     }
   },
   "result": {

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "materialascension:nyxium_ingot"
+    }
+  ],
+  "result": {
+    "item": "materialascension:nyxium_nugget",
+    "count": 9
+  }
+}

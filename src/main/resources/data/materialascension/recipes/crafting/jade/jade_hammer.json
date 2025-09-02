@@ -10,7 +10,7 @@
       "tag": "forge:ingots/jade"
     },
     "/": {
-      "tag": "forge:handles/iron"
+      "item": "minecraft:stick"
     }
   },
   "result": {

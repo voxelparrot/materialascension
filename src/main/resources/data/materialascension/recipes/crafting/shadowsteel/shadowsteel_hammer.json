@@ -10,7 +10,7 @@
       "tag": "forge:ingots/shadowsteel"
     },
     "/": {
-      "tag": "forge:handles/nyxium"
+      "item": "minecraft:stick"
     }
   },
   "result": {

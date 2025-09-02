@@ -7,10 +7,10 @@
   ],
   "key": {
     "#": {
-      "tag": "forge:plates/ruby"
+      "tag": "forge:gems/ruby"
     },
     "/": {
-      "tag": "forge:handles/iron"
+      "item": "minecraft:stick"
     }
   },
   "result": {

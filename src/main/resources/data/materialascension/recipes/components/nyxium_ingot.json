@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "nnn",
+    "nnn",
+    "nnn"
+  ],
+  "key": {
+    "n": {
+      "item": "materialascension:nyxium_nugget"
+    }
+  },
+  "result": {
+    "item": "materialascension:nyxium_ingot",
+    "count": 1
+  }
+}

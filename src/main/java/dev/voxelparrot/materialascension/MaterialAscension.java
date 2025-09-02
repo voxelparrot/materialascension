@@ -17,6 +17,8 @@ import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.registries.RegistryObject;
+import net.minecraft.server.packs.repository.Pack;
+import net.minecraft.server.packs.repository.PackSource;
 
 import static dev.voxelparrot.materialascension.Constants.MA_ID;
 import static dev.voxelparrot.materialascension.Constants.MA_LOG;
@@ -30,7 +32,7 @@ public class MaterialAscension {
   public MaterialAscension() {
     IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
     MinecraftForge.EVENT_BUS.register(this);
-    Constants.MA_LOG.info("You have my steel-handled mechanical broadsword.");
+    Constants.MA_LOG.info("You have my steel-handled shadow blade.");
 
 
 
@@ -40,6 +42,8 @@ public class MaterialAscension {
     MainRegistry.init(modEventBus);
 
     modEventBus.addListener(this::addCreative);
+    modEventBus.addListener(this::commonSetup);
+
     ModLoadingContext.get().registerConfig(ModConfig.Type.COMMON, Config.GENERAL_SPEC, "materialascension.toml");
   }
 
@@ -65,7 +69,10 @@ public class MaterialAscension {
       boolean isComponent = name.contains("dust")
               || name.contains("sheet")
               || name.contains("plate")
-              || name.contains("handle");
+              || name.contains("handle")
+              || name.contains("rod")
+              || name.contains("ingot")
+              || name.contains("nugget");
 
       if (isWeapon && event.getTabKey().equals(CreativeModeTabs.COMBAT)) {
         event.accept(item, DEFAULT_VISIBILITY);
@@ -74,8 +81,6 @@ public class MaterialAscension {
       }
     }
   }
-
-
 
   private void commonSetup(final FMLCommonSetupEvent event) {
     MA_LOG.info("Mod loading..");
@@ -94,3 +99,4 @@ public class MaterialAscension {
     }
   }
 }
+

@@ -10,7 +10,7 @@
       "tag": "forge:gems/citrine"
     },
     "/": {
-      "tag": "forge:handles/iron"
+      "item": "minecraft:stick"
     }
   },
   "result": {

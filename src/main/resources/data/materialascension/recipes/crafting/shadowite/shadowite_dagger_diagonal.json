@@ -6,10 +6,10 @@
   ],
   "key": {
     "#": {
-      "tag": "forge:plates/shadowite"
+      "tag": "forge:ingots/shadowite"
     },
     "/": {
-      "tag": "forge:handles/wooden"
+      "item": "minecraft:stick"
     }
   },
   "result": {

@@ -9,7 +9,7 @@
       "item": "forge:plates/ruby"
     },
     "/": {
-      "tag": "forge:handles/iron"
+      "item": "minecraft:stick"
     }
   },
   "result": {

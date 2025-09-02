@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "materialascension:item/component/creative_dust"
+    "layer0": "materialascension:item/component/ussingite_dust"
   }
 }

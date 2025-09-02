@@ -6,10 +6,10 @@
   ],
   "key": {
     "#": {
-      "tag": "forge:plates/steel"
+      "tag": "forge:ingots/steel"
     },
     "/": {
-      "tag": "forge:handles/iron"
+      "item": "minecraft:stick"
     }
   },
   "result": {

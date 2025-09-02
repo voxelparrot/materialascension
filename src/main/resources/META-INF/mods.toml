@@ -28,19 +28,13 @@ ordering="NONE"
 side="BOTH"
 
 [[dependencies.materialascension]]
-modId="more_ores_more_gems"
-mandatory=false
-ordering="AFTER"
-side="BOTH"
-
-[[dependencies.materialascension]]
 modId="create"
 mandatory=false
 ordering="AFTER"
 side="BOTH"
 
 [[dependencies.materialascension]]
-modId="basicweapons"
+modId="more_ores_more_gems"
 mandatory=false
 ordering="AFTER"
 side="BOTH"

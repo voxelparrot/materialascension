@@ -10,7 +10,7 @@
       "tag": "c:strings"
     },
     "/": {
-      "tag": "forge:ingots/iron"
+      "tag": "forge:rods/iron"
     }
   },
   "result": {

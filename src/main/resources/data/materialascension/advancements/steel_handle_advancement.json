@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "materialascension:steel_tool_handle"
+    },
+    "title": {
+      "translate": "advancements.steel_handle_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.steel_handle_advancement.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "steel_handle_advancement_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "materialascension:steel_tool_handle"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "materialascension:iron_handle_advancement"
+}

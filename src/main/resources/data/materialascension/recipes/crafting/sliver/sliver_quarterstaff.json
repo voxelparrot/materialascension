@@ -7,10 +7,10 @@
   ],
   "key": {
     "#": {
-      "tag": "forge:plates/sliver"
+      "tag": "forge:ingots/sliver"
     },
     "/": {
-      "tag": "forge:handles/wooden"
+      "item": "minecraft:stick"
     }
   },
   "result": {

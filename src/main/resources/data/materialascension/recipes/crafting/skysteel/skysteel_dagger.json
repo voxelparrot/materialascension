@@ -6,10 +6,10 @@
   ],
   "key": {
     "#": {
-      "tag": "forge:plates/skysteel"
+      "tag": "forge:ingots/skysteel"
     },
     "/": {
-      "tag": "forge:handles/nyxium"
+      "item": "minecraft:stick"
     }
   },
   "result": {

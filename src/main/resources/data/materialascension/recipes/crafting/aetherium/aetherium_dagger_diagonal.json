@@ -6,10 +6,10 @@
   ],
   "key": {
     "#": {
-      "tag": "forge:plates/aetherium"
+      "tag": "forge:ingots/aetherium"
     },
     "/": {
-      "tag": "forge:handles/steel"
+      "item": "minecraft:stick"
     }
   },
   "result": {

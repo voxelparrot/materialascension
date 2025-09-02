@@ -6,10 +6,10 @@
   ],
   "key": {
     "#": {
-      "tag": "forge:plates/titanium"
+      "tag": "forge:ingots/titanium"
     },
     "/": {
-      "tag": "forge:handles/wooden"
+      "item": "minecraft:stick"
     }
   },
   "result": {

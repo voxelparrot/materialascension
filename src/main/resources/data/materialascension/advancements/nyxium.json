@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "materialascension:nyxium_ingot"
+    },
+    "title": {
+      "translate": "advancements.nyxium.title"
+    },
+    "description": {
+      "translate": "advancements.nyxium.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "iron_handle_advancement_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "materialascension:nyxium_ingot"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "materialascension:steel_handle_advancement"
+}

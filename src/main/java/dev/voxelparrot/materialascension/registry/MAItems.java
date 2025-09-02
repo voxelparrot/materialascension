@@ -167,6 +167,8 @@ public class MAItems {
     items.add(new ItemInfo("sheet", "shadowite_sheet", BasicComponentItem::new));
     items.add(new ItemInfo("sheet", "nyxium_sheet", BasicComponentItem::new));
     items.add(new ItemInfo("ingot", "nyxium_ingot", BasicComponentItem::new));
+    items.add(new ItemInfo("nugget", "nyxium_nugget", BasicComponentItem::new));
+    items.add(new ItemInfo("rod", "nyxium_rod", BasicComponentItem::new));
     items.add(new ItemInfo("plate", "topaz_plate", BasicComponentItem::new));
     items.add(new ItemInfo("plate", "citrine_plate", BasicComponentItem::new));
     items.add(new ItemInfo("plate", "sapphire_plate", BasicComponentItem::new));
@@ -178,7 +180,7 @@ public class MAItems {
     items.add(new ItemInfo("handle", "iron_tool_handle", BasicComponentItem::new));
     items.add(new ItemInfo("handle", "steel_tool_handle", BasicComponentItem::new));
     items.add(new ItemInfo("handle", "nyxium_tool_handle", BasicComponentItem::new));
-    items.add(new ItemInfo("component", "ussingite_dust", BasicComponentItem::new));
+    items.add(new ItemInfo("dust", "ussingite_dust", BasicComponentItem::new));
 
 
 

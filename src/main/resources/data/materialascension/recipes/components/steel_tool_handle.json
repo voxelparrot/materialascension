@@ -10,7 +10,7 @@
       "tag": "minecraft:wool_carpets"
     },
     "/": {
-      "tag": "forge:ingots/steel"
+      "tag": "forge:rods/steel"
     }
   },
   "result": {

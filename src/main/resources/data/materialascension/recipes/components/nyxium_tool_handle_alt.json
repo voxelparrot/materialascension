@@ -10,7 +10,7 @@
       "tag": "minecraft:wool"
     },
     "/": {
-      "tag": "forge:ingots/nyxium"
+      "tag": "forge:rods/nyxium"
     }
   },
   "result": {
