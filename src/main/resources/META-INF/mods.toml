@@ -30,11 +30,13 @@ side="BOTH"
 [[dependencies.materialascension]]
 modId="create"
 mandatory=false
+versionRange="*"
 ordering="AFTER"
 side="BOTH"
 
 [[dependencies.materialascension]]
 modId="more_ores_more_gems"
 mandatory=false
+versionRange="*"
 ordering="AFTER"
 side="BOTH"
