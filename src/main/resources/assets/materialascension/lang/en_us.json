@@ -148,5 +148,6 @@
   "advancements.nyxium_handle_advancement.descr": "Obtain a Nyxium Tool Handle",
   "advancements.nyxium.title": "Obsidian Alloy",
   "advancements.nyxium.descr": "Create a Nyxium Ingot",
-  "item.materialascension.nyxium_nugget": "Nyxium Nugget"
+  "item.materialascension.nyxium_nugget": "Nyxium Nugget",
+  "item.materialascension.cognata_icon": "Cognata"
 }
