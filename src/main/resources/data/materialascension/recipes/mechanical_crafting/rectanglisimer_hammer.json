@@ -1,0 +1,24 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "GGBGG",
+    "GG/GG",
+    "  /  ",
+    "  /  "
+  ],
+  "key": {
+    "B": {
+      "item": "more_ores_more_gems:blockof_white_opal"
+    },
+    "/": {
+      "item": "materialascension:nyxium_handle"
+    },
+    "G": {
+      "item": "more_ores_more_gems:white_opal"
+    }
+  },
+  "result": {
+    "item": "materialascension:rectanglisimer_hammer",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "  G",
+    " B ",
+    "/  "
+  ],
+  "key": {
+    "B": {
+      "item": "more_ores_more_gems:block_of_ussingite"
+    },
+    "/": {
+      "item": "materialascension:nyxium_handle"
+    },
+    "G": {
+      "item": "more_ores_more_gems:ussingite"
+    }
+  },
+  "result": {
+    "item": "materialascension:purpular_dagger",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "   GG",
+    "   BG",
+    "  /  ",
+    " /   ",
+    "/    "
+  ],
+  "key": {
+    "B": {
+      "item": "more_ores_more_gems:block_of_peridot"
+    },
+    "/": {
+      "item": "materialascension:nyxium_handle"
+    },
+    "G": {
+      "item": "more_ores_more_gems:peridot"
+    }
+  },
+  "result": {
+    "item": "materialascension:green_spear",
+    "count": 1
+  }
+}

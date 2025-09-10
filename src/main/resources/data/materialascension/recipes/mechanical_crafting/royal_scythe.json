@@ -1,0 +1,40 @@
+{
+  "type": "create:mechanical_crafting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "twigs"
+    }
+  ],
+  "pattern": [
+    " GSBP",
+    "A   /",
+    "   / ",
+    "  /  ",
+    " /   "
+  ],
+  "key": {
+    "P": {
+      "item": "more_ores_more_gems:block_of_peridot"
+    },
+    "/": {
+      "item": "materialascension:nyxium_handle"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "S": {
+      "tag": "forge:gems/sapphire"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "B": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "materialascension:royal_scythe",
+    "count": 1
+  }
+}
