@@ -1,27 +1,27 @@
 {
   "display": {
     "icon": {
-      "item": "materialascension:tool_handle"
+      "item": "materialascension:charged_scythe"
     },
     "title": {
-      "translate": "advancements.wooden_handle_advancement.title"
+      "translate": "advancements.charged_scythe.title"
     },
     "description": {
-      "translate": "advancements.wooden_handle_advancement.descr"
+      "translate": "advancements.charged_scythe.descr"
     },
-    "frame": "task",
+    "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "criteria": {
-    "wooden_handle_advancement_0": {
+    "charged_scythe_0": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "materialascension:tool_handle"
+              "materialascension:charged_scythe"
             ],
             "count": {
               "min": 1,
@@ -32,5 +32,5 @@
       }
     }
   },
-  "parent": "minecraft:story/root"
+  "parent": "materialascension:nyxium_handle_advancement"
 }

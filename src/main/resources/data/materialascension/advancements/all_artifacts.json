@@ -1,0 +1,144 @@
+{
+  "display": {
+    "icon": {
+      "item": "materialascension:purpular_dagger"
+    },
+    "title": {
+      "translate": "advancements.all_artifacts.title"
+    },
+    "description": {
+      "translate": "advancements.all_artifacts.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "all_artifacts_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "materialascension:charged_broadsword"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          },
+          {
+            "items": [
+              "materialascension:charged_scythe"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          },
+          {
+            "items": [
+              "materialascension:copy_sword"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          },
+          {
+            "items": [
+              "materialascension:diamond_destroyer"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          },
+          {
+            "items": [
+              "materialascension:fools_gold_blade"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          },
+          {
+            "items": [
+              "materialascension:green_spear"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          },
+          {
+            "items": [
+              "materialascension:purpular_dagger"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          },
+          {
+            "items": [
+              "materialascension:rectanglisimer_hammer"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          },
+          {
+            "items": [
+              "materialascension:royal_scythe"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          },
+          {
+            "items": [
+              "materialascension:ruby_katana"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          },
+          {
+            "items": [
+              "materialascension:shadow_blade"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          },
+          {
+            "items": [
+              "materialascension:toxic_sword"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          },
+          {
+            "items": [
+              "materialascension:zebasi_glaive"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "materialascension:nyxium_handle_advancement"
+}

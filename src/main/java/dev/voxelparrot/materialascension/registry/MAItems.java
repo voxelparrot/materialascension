@@ -1,9 +1,7 @@
 package dev.voxelparrot.materialascension.registry;
 
-import dev.voxelparrot.materialascension.Config;
 import dev.voxelparrot.materialascension.item.*;
 import dev.voxelparrot.materialascension.material.*;
-import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.item.Item;
 
 import java.util.LinkedList;
@@ -133,24 +131,24 @@ public class MAItems {
 
     /* Zebasi Glaive:
      *  Lights enemies on fire           */
-    items.add(new ItemInfo("artifact", "zebasi_glaive", () -> new UnbreakableGlaiveItem(ToolMaterials.ARTIFACT, glaiveDamage + 3, glaiveSpeed + 0.2f, new Item.Properties())));
-    items.add(new ItemInfo("artifact", "diamond_destroyer", () -> new UnbreakableHammerItem(ToolMaterials.ARTIFACT, hammerDamage + 3, hammerSpeed + 0.2f, new Item.Properties())));
-    items.add(new ItemInfo("artifact", "charged_broadsword", () -> new UnbreakableGlaiveItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed + 0.2f, new Item.Properties())));
-    items.add(new ItemInfo("artifact", "copy_sword", () -> new UnbreakableGlaiveItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed + 0.2f, new Item.Properties())));
-    items.add(new ItemInfo("artifact", "fools_gold_blade", () -> new UnbreakableGlaiveItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed + 0.2f, new Item.Properties())));
-    items.add(new ItemInfo("artifact", "ruby_katana", () -> new UnbreakableGlaiveItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed + 0.2f, new Item.Properties())));
-    items.add(new ItemInfo("artifact", "shadow_blade", () -> new UnbreakableGlaiveItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed + 0.2f, new Item.Properties())));
-    items.add(new ItemInfo("artifact", "toxic_sword", () -> new UnbreakableGlaiveItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed + 0.2f, new Item.Properties())));
+    items.add(new ItemInfo("artifact", "zebasi_glaive", () -> new ArtifactGlaiveItem(ToolMaterials.ARTIFACT, glaiveDamage + 3, glaiveSpeed + 0.2f, new Item.Properties())));
+    items.add(new ItemInfo("artifact", "diamond_destroyer", () -> new ArtifactHammerItem(ToolMaterials.ARTIFACT, hammerDamage + 3, hammerSpeed + 0.2f, new Item.Properties())));
+    items.add(new ItemInfo("artifact", "charged_broadsword", () -> new ArtifactDaggerItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed + 0.2f, new Item.Properties())));
+    items.add(new ItemInfo("artifact", "copy_sword", () -> new ArtifactDaggerItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed + 0.2f, new Item.Properties())));
+    items.add(new ItemInfo("artifact", "fools_gold_blade", () -> new ArtifactDaggerItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed + 0.2f, new Item.Properties())));
+    items.add(new ItemInfo("artifact", "ruby_katana", () -> new ArtifactDaggerItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed + 0.2f, new Item.Properties())));
+    items.add(new ItemInfo("artifact", "shadow_blade", () -> new ArtifactDaggerItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed + 0.2f, new Item.Properties())));
+    items.add(new ItemInfo("artifact", "toxic_sword", () -> new ArtifactDaggerItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed + 0.2f, new Item.Properties())));
     /* Bread Club */
     /* Abyssal Dagger */
     /* Sunrise Spear */
     /* Uniques */
-    items.add(new ItemInfo("unique", "royal_scythe", () -> new UnbreakableScytheItem(ToolMaterials.ARTIFACT, hammerDamage + 3, hammerSpeed + 0.2f, new Item.Properties())));
-    items.add(new ItemInfo("unique", "charged_scythe", () -> new UnbreakableScytheItem(ToolMaterials.ARTIFACT, hammerDamage + 3, hammerSpeed + 0.2f, new Item.Properties())));
+    items.add(new ItemInfo("unique", "royal_scythe", () -> new ArtifactScytheItem(ToolMaterials.ARTIFACT, hammerDamage + 3, hammerSpeed + 0.2f, new Item.Properties())));
+    items.add(new ItemInfo("unique", "charged_scythe", () -> new ArtifactScytheItem(ToolMaterials.ARTIFACT, hammerDamage + 3, hammerSpeed + 0.2f, new Item.Properties())));
     /* Qitqiast Trvyshmaodozrt htrrm */
-    items.add(new ItemInfo("qitqiast", "purpular_dagger", () -> new UnbreakableDaggerItem(ToolMaterials.ARTIFACT, daggerDamage + 3, daggerSpeed + 0.4f, new Item.Properties())));
-    items.add(new ItemInfo("qitqiast", "rectanglisimer_hammer", () -> new UnbreakableHammerItem(ToolMaterials.ARTIFACT, hammerDamage + 3, hammerSpeed + 0.2f, new Item.Properties())));
-    items.add(new ItemInfo("qitqiast", "green_spear", () -> new UnbreakableSpearItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed + 0.4f, new Item.Properties())));
+    items.add(new ItemInfo("qitqiast", "purpular_dagger", () -> new ArtifactDaggerItem(ToolMaterials.ARTIFACT, daggerDamage + 3, daggerSpeed + 0.4f, new Item.Properties())));
+    items.add(new ItemInfo("qitqiast", "rectanglisimer_hammer", () -> new ArtifactHammerItem(ToolMaterials.ARTIFACT, hammerDamage + 3, hammerSpeed + 0.2f, new Item.Properties())));
+    items.add(new ItemInfo("qitqiast", "green_spear", () -> new ArtifactSpearItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed + 0.4f, new Item.Properties())));
     /* Components */
     items.add(new ItemInfo("sheet", "aetherium_sheet", BasicComponentItem::new));
     items.add(new ItemInfo("sheet", "sliver_sheet", BasicComponentItem::new));
@@ -166,6 +164,8 @@ public class MAItems {
     items.add(new ItemInfo("ingot", "nyxium_ingot", BasicComponentItem::new));
     items.add(new ItemInfo("nugget", "nyxium_nugget", BasicComponentItem::new));
     items.add(new ItemInfo("rod", "nyxium_rod", BasicComponentItem::new));
+    items.add(new ItemInfo("rod", "iron_rod", BasicComponentItem::new));
+    items.add(new ItemInfo("rod", "steel_rod", BasicComponentItem::new));
     items.add(new ItemInfo("plate", "topaz_plate", BasicComponentItem::new));
     items.add(new ItemInfo("plate", "citrine_plate", BasicComponentItem::new));
     items.add(new ItemInfo("plate", "sapphire_plate", BasicComponentItem::new));

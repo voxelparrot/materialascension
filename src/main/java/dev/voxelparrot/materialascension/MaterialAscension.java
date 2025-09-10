@@ -32,7 +32,7 @@ public class MaterialAscension {
   public MaterialAscension() {
     IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
     MinecraftForge.EVENT_BUS.register(this);
-    Constants.MA_LOG.info("You have my steel-handled shadow blade.");
+    Constants.MA_LOG.info("You have my nyxium-handled superheated skysteel sword.");
 
 
 
@@ -64,6 +64,7 @@ public class MaterialAscension {
               || name.contains("katana")
               || name.contains("blade")
               || name.contains("broadsword")
+              || name.contains("scythe")
               || name.contains("sword");
 
       boolean isComponent = name.contains("dust")

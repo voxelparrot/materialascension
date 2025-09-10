@@ -1,27 +1,27 @@
 {
   "display": {
     "icon": {
-      "item": "materialascension:tool_handle"
+      "item": "materialascension:royal_scythe"
     },
     "title": {
-      "translate": "advancements.wooden_handle_advancement.title"
+      "translate": "advancements.royal_scythe.title"
     },
     "description": {
-      "translate": "advancements.wooden_handle_advancement.descr"
+      "translate": "advancements.royal_scythe.descr"
     },
-    "frame": "task",
+    "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "criteria": {
-    "wooden_handle_advancement_0": {
+    "royal_scythe_0": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "materialascension:tool_handle"
+              "materialascension:royal_scythe"
             ],
             "count": {
               "min": 1,
@@ -32,5 +32,5 @@
       }
     }
   },
-  "parent": "minecraft:story/root"
+  "parent": "materialascension:nyxium_handle_advancement"
 }

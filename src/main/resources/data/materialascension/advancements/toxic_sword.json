@@ -1,27 +1,27 @@
 {
   "display": {
     "icon": {
-      "item": "materialascension:tool_handle"
+      "item": "materialascension:toxic_sword"
     },
     "title": {
-      "translate": "advancements.wooden_handle_advancement.title"
+      "translate": "advancements.toxic_sword.title"
     },
     "description": {
-      "translate": "advancements.wooden_handle_advancement.descr"
+      "translate": "advancements.toxic_sword.descr"
     },
-    "frame": "task",
+    "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "criteria": {
-    "wooden_handle_advancement_0": {
+    "toxic_sword_0": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "materialascension:tool_handle"
+              "materialascension:toxic_sword"
             ],
             "count": {
               "min": 1,
@@ -32,5 +32,5 @@
       }
     }
   },
-  "parent": "minecraft:story/root"
+  "parent": "materialascension:nyxium_handle_advancement"
 }

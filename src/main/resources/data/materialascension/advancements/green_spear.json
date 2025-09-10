@@ -1,27 +1,27 @@
 {
   "display": {
     "icon": {
-      "item": "materialascension:tool_handle"
+      "item": "materialascension:green_spear"
     },
     "title": {
-      "translate": "advancements.wooden_handle_advancement.title"
+      "translate": "advancements.green_spear.title"
     },
     "description": {
-      "translate": "advancements.wooden_handle_advancement.descr"
+      "translate": "advancements.green_spear.descr"
     },
-    "frame": "task",
+    "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "criteria": {
-    "wooden_handle_advancement_0": {
+    "green_spear_0": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "materialascension:tool_handle"
+              "materialascension:green_spear"
             ],
             "count": {
               "min": 1,
@@ -32,5 +32,5 @@
       }
     }
   },
-  "parent": "minecraft:story/root"
+  "parent": "materialascension:nyxium_handle_advancement"
 }

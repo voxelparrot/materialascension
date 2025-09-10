@@ -1,27 +1,27 @@
 {
   "display": {
     "icon": {
-      "item": "materialascension:tool_handle"
+      "item": "materialascension:shadow_blade"
     },
     "title": {
-      "translate": "advancements.wooden_handle_advancement.title"
+      "translate": "advancements.shadow_blade.title"
     },
     "description": {
-      "translate": "advancements.wooden_handle_advancement.descr"
+      "translate": "advancements.shadow_blade.descr"
     },
-    "frame": "task",
+    "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
   "criteria": {
-    "wooden_handle_advancement_0": {
+    "shadow_blade_0": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
             "items": [
-              "materialascension:tool_handle"
+              "materialascension:shadow_blade"
             ],
             "count": {
               "min": 1,
@@ -32,5 +32,5 @@
       }
     }
   },
-  "parent": "minecraft:story/root"
+  "parent": "materialascension:nyxium_handle_advancement"
 }
