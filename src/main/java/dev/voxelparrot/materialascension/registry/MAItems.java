@@ -182,7 +182,7 @@ public class MAItems {
     items.add(new ItemInfo("handle", "nyxium_tool_handle", BasicComponentItem::new));
     items.add(new ItemInfo("dust", "ussingite_dust", BasicComponentItem::new));
 
-    items.add(new ItemInfo("misc", "cognata_icon", BasicComponentNonStackableItem::new));
+    //items.add(new ItemInfo("misc", "cognata_icon", BasicComponentNonStackableItem::new));
 
 
 
