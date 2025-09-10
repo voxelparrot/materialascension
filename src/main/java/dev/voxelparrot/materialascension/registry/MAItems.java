@@ -141,15 +141,12 @@ public class MAItems {
     items.add(new ItemInfo("artifact", "ruby_katana", () -> new UnbreakableGlaiveItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed + 0.2f, new Item.Properties())));
     items.add(new ItemInfo("artifact", "shadow_blade", () -> new UnbreakableGlaiveItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed + 0.2f, new Item.Properties())));
     items.add(new ItemInfo("artifact", "toxic_sword", () -> new UnbreakableGlaiveItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed + 0.2f, new Item.Properties())));
-    /* Bread Club
-     *  bread  */
-    /* Abyssal Dagger
-     *  darkness  */
-    /* Sunrise Spear
-     *  Lights enemies on fire           */
+    /* Bread Club */
+    /* Abyssal Dagger */
+    /* Sunrise Spear */
     /* Uniques */
-    /*items.add(new ItemInfo("unique", "royal_scythe", () -> new UnbreakableScytheItem(ToolMaterials.ARTIFACT, 5, -3.2f, new Item.Properties())));
-    * items.add(new ItemInfo("unique", "charged_scythe", () -> new UnbreakableScytheItem(ToolMaterials.ARTIFACT, 5, -3.2f, new Item.Properties())));*/
+    items.add(new ItemInfo("unique", "royal_scythe", () -> new UnbreakableScytheItem(ToolMaterials.ARTIFACT, hammerDamage + 3, hammerSpeed + 0.2f, new Item.Properties())));
+    items.add(new ItemInfo("unique", "charged_scythe", () -> new UnbreakableScytheItem(ToolMaterials.ARTIFACT, hammerDamage + 3, hammerSpeed + 0.2f, new Item.Properties())));
     /* Qitqiast Trvyshmaodozrt htrrm */
     items.add(new ItemInfo("qitqiast", "purpular_dagger", () -> new UnbreakableDaggerItem(ToolMaterials.ARTIFACT, daggerDamage + 3, daggerSpeed + 0.4f, new Item.Properties())));
     items.add(new ItemInfo("qitqiast", "rectanglisimer_hammer", () -> new UnbreakableHammerItem(ToolMaterials.ARTIFACT, hammerDamage + 3, hammerSpeed + 0.2f, new Item.Properties())));
