@@ -150,20 +150,20 @@ public class MAItems {
     items.add(new ItemInfo("qitqiast", "rectanglisimer_hammer", () -> new ArtifactHammerItem(ToolMaterials.ARTIFACT, hammerDamage + 3, hammerSpeed + 0.2f, new Item.Properties())));
     items.add(new ItemInfo("qitqiast", "green_spear", () -> new ArtifactSpearItem(ToolMaterials.ARTIFACT, spearDamage + 3, spearSpeed + 0.4f, new Item.Properties())));
     /* Components */
-    items.add(new ItemInfo("sheet", "aetherium_sheet", BasicComponentItem::new));
+    items.add(new ItemInfo("sheet", "aetherium_sheet", UncommonComponentItem::new));
     items.add(new ItemInfo("sheet", "sliver_sheet", BasicComponentItem::new));
-    items.add(new ItemInfo("sheet", "titanium_quartz_sheet", BasicComponentItem::new));
+    items.add(new ItemInfo("sheet", "titanium_quartz_sheet", UncommonComponentItem::new));
     items.add(new ItemInfo("sheet", "titanium_sheet", BasicComponentItem::new));
-    items.add(new ItemInfo("sheet", "steel_sheet", BasicComponentItem::new));
-    items.add(new ItemInfo("sheet", "jade_sheet", BasicComponentItem::new));
-    items.add(new ItemInfo("sheet", "skysteel_sheet", BasicComponentItem::new));
-    items.add(new ItemInfo("sheet", "shadowsteel_sheet", BasicComponentItem::new));
+    items.add(new ItemInfo("sheet", "steel_sheet", UncommonComponentItem::new));
+    items.add(new ItemInfo("sheet", "jade_sheet", UncommonComponentItem::new));
+    items.add(new ItemInfo("sheet", "skysteel_sheet", RareComponentItem::new));
+    items.add(new ItemInfo("sheet", "shadowsteel_sheet", RareComponentItem::new));
     items.add(new ItemInfo("sheet", "crimsonite_sheet", BasicComponentItem::new));
-    items.add(new ItemInfo("sheet", "shadowite_sheet", BasicComponentItem::new));
-    items.add(new ItemInfo("sheet", "nyxium_sheet", BasicComponentItem::new));
-    items.add(new ItemInfo("ingot", "nyxium_ingot", BasicComponentItem::new));
-    items.add(new ItemInfo("nugget", "nyxium_nugget", BasicComponentItem::new));
-    items.add(new ItemInfo("rod", "nyxium_rod", BasicComponentItem::new));
+    items.add(new ItemInfo("sheet", "shadowite_sheet", UncommonComponentItem::new));
+    items.add(new ItemInfo("sheet", "nyxium_sheet", EpicComponentItem::new));
+    items.add(new ItemInfo("ingot", "nyxium_ingot", EpicComponentItem::new));
+    items.add(new ItemInfo("nugget", "nyxium_nugget", EpicComponentItem::new));
+    items.add(new ItemInfo("rod", "nyxium_rod", EpicComponentItem::new));
     items.add(new ItemInfo("rod", "iron_rod", BasicComponentItem::new));
     items.add(new ItemInfo("rod", "steel_rod", BasicComponentItem::new));
     items.add(new ItemInfo("plate", "topaz_plate", BasicComponentItem::new));
@@ -174,10 +174,10 @@ public class MAItems {
     items.add(new ItemInfo("plate", "diamond_plate", BasicComponentItem::new));
     items.add(new ItemInfo("plate", "ruby_plate", BasicComponentItem::new));
     items.add(new ItemInfo("handle", "tool_handle", BasicComponentItem::new));
-    items.add(new ItemInfo("handle", "iron_tool_handle", BasicComponentItem::new));
-    items.add(new ItemInfo("handle", "steel_tool_handle", BasicComponentItem::new));
-    items.add(new ItemInfo("handle", "nyxium_tool_handle", BasicComponentItem::new));
-    items.add(new ItemInfo("dust", "ussingite_dust", BasicComponentItem::new));
+    items.add(new ItemInfo("handle", "iron_tool_handle", UncommonComponentItem::new));
+    items.add(new ItemInfo("handle", "steel_tool_handle", RareComponentItem::new));
+    items.add(new ItemInfo("handle", "nyxium_tool_handle", EpicComponentItem::new));
+    items.add(new ItemInfo("dust", "ussingite_dust", UncommonComponentItem::new));
 
     //items.add(new ItemInfo("misc", "cognata_icon", BasicComponentNonStackableItem::new));
 
