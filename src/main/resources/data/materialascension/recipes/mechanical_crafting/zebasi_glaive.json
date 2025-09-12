@@ -12,7 +12,7 @@
       "tag": "forge:ingots/steel"
     },
     "/": {
-      "item": "materialascension:nyxium_handle"
+      "item": "materialascension:nyxium_tool_handle"
     },
     "#": {
       "item": "materialascension:sunflare_plate"
