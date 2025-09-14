@@ -24,5 +24,21 @@
   "item.more_ores_more_gems.jade_5_hoe": "Verdant Hoe",
   "item.more_ores_more_gems.jade_5_shovel": "Verdant Shovel",
   "item.more_ores_more_gems.jade_ingot": "Verdant Ingot",
-  "item.more_ores_more_gems.blockof_jade": "Verdant Block"
+  "item.more_ores_more_gems.blockof_jade": "Verdant Block",
+  "item.more_ores_more_gems.white_armor_helmet": "Crystal Helmet",
+  "item.more_ores_more_gems.white_armor_chestplate": "Crystal Chestplate",
+  "item.more_ores_more_gems.white_armor_leggings": "Crystal Leggings",
+  "item.more_ores_more_gems.white_armor_boots": "Crystal Boots",
+  "item.more_ores_more_gems.white_sword": "Crystal Sword",
+  "item.more_ores_more_gems.white_pickaxe": "Crystal Pickaxe",
+  "item.more_ores_more_gems.white_shovel": "Crystal Shovel",
+  "item.more_ores_more_gems.white_hoe": "Crystal Hoe",
+  "item.more_ores_more_gems.white_axe": "Crystal Axe",
+  "advancements.radiant_find.descr": "Unveil the secrets of the underground as you collect your first Crystal.",
+  "item.more_ores_more_gems.white_crystal": "Crystal",
+  "block.more_ores_more_gems.white_crystal_ore": "Crystal Ore",
+  "block.more_ores_more_gems.block_of_white_crystal": "Block of Crystal",
+  "block.more_ores_more_gems.deepslate_white_crystal_ore": "Deepslate Crystal Ore",
+  "advancements.radiant_guardian.descr": "Unlock the speed boost by equipping a full set of Crystal armor.",
+  "advancements.symphonyof_frostand_crystal.descr": "Combine Weird Frost Opal with Crystal to create the unique Abacaba music disc."
 }
