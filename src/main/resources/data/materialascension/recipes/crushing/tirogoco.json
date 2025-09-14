@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "more_ores_more_gems:tirogocopper"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "item": "more_ores_more_gems:titanium_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:copper_ingot"
+    }
+  ]
+}

@@ -22,6 +22,9 @@
     },
     "S": {
       "item": "create:sturdy_sheet"
+    },
+    "N": {
+      "item": "more_ores_more_gems:block_of_steel"
     }
   },
   "result": {

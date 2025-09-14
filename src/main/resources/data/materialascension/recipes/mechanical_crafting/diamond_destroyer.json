@@ -1,24 +1,25 @@
 {
   "type": "create:mechanical_crafting",
   "pattern": [
-    "GBG",
+    "G/G",
+    "BGB",
     "G/G",
     " / ",
     " / "
   ],
   "key": {
     "B": {
-      "item": "more_ores_more_gems:blockof_white_opal"
+      "item": "minecraft:diamond_block"
     },
     "/": {
       "item": "materialascension:nyxium_tool_handle"
     },
     "G": {
-      "item": "more_ores_more_gems:white_opal"
+      "item": "minecraft:diamond"
     }
   },
   "result": {
-    "item": "materialascension:rectanglisimer_hammer",
+    "item": "materialascension:diamond_destroyer",
     "count": 1
   }
 }
