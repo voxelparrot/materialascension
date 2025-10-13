@@ -5,7 +5,7 @@ license="MIT"         # Change this if you use a different license
 
 [[mods]]
 modId="materialascension"
-version="1.0.0"                 # Put your mod version here
+version="1.0.1"                 # Put your mod version here
 displayName="Material Ascension"
 logoFile="icon.png"             # Optional logo in your resources root
 authors="voxelparrot"        # Optional
